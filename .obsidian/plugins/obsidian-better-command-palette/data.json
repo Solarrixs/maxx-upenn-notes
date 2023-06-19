@@ -1,0 +1,22 @@
+{
+  "closeWithBackspace": true,
+  "showPluginName": true,
+  "fileSearchPrefix": "/",
+  "tagSearchPrefix": "#",
+  "commandSearchHotkey": "p",
+  "fileSearchHotkey": "o",
+  "tagSearchHotkey": "t",
+  "suggestionLimit": 20,
+  "recentAbovePinned": false,
+  "hyperKeyOverride": false,
+  "macros": [],
+  "hotkeyStyle": "auto",
+  "createNewFileMod": "Shift",
+  "createNewPaneMod": "Mod",
+  "hiddenCommands": [
+    "obsidian-hider:toggle-tab-containers"
+  ],
+  "hiddenFiles": [],
+  "hiddenTags": [],
+  "fileTypeExclusion": []
+}

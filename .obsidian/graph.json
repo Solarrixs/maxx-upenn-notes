@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"000 System Files\" OR path:\"100 Resources\"",
+      "color": {
+        "a": 1,
+        "rgb": 14055095
+      }
+    },
+    {
+      "query": "path:\"400 Projects\"",
+      "color": {
+        "a": 1,
+        "rgb": 10937249
+      }
+    },
+    {
+      "query": "path:\"300 Areas\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"200 Resources\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"100 Archives\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"500 Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 14729554
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.13698323567708,
+  "lineSizeMultiplier": 0.988045247395833,
+  "collapse-forces": false,
+  "centerStrength": 0.2275390625,
+  "repelStrength": 10.4345703125,
+  "linkStrength": 0.776814778645833,
+  "linkDistance": 183,
+  "scale": 0.05233487263864106,
+  "close": true
+}

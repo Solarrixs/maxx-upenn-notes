@@ -1,0 +1,240 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "Publish Status": {
+          "options": [
+            "no",
+            "yes"
+          ]
+        },
+        "publishlocation": {
+          "richText": false,
+          "options": [
+            "no",
+            "linkedin",
+            "twitter"
+          ]
+        },
+        "status": {
+          "options": [
+            "no",
+            "yes"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "000 System Files/Templates/000 Blog.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "300 Areas/Personal Writing",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "sortField": "date",
+            "sortAsc": false,
+            "fieldConfig": {
+              "🔹File": {
+                "width": 1167,
+                "hide": true
+              },
+              "File": {
+                "hide": false,
+                "width": 994
+              },
+              "Tags": {
+                "hide": true
+              },
+              "type": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "status": {
+                "width": 174
+              },
+              "publishlocation": {
+                "width": 186
+              },
+              "date": {
+                "width": 127
+              },
+              "name": {
+                "width": 676
+              },
+              "tags": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "date",
+              "name",
+              "publishlocation",
+              "status"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "Tags",
+                  "operator": "contains",
+                  "value": "empty"
+                }
+              }
+            ]
+          },
+          "id": "22b661be-3a2f-41d9-9aa0-d8954f8ca1b1",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "f5d1565e-4105-4ca9-b510-7ac8de213fe3",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "name": "Personal Writings",
+      "id": "57b72a6a-9fe7-4382-b68e-c68e51956602"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "dataview",
+        "config": {
+          "query": "TABLE\ndate as \"Date\",\ncover as \"Cover\",\nauthor as \"Author\",\nstatus as \"Status\",\nrating as \"Rating\",\nreaddate as \"Read Date\"\nFROM \"200 Resources/Articles & Books/Books\""
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "Cover",
+            "fitStyle": "contain",
+            "includeFields": [
+              "File",
+              "Rating"
+            ],
+            "cardWidth": 300
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#80ff8e",
+                "condition": {
+                  "field": "Status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "read"
+                }
+              },
+              {
+                "color": "#ff80d7",
+                "condition": {
+                  "field": "Status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "unread"
+                }
+              },
+              {
+                "color": "#80bdff",
+                "condition": {
+                  "field": "Status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "reading"
+                }
+              }
+            ]
+          },
+          "id": "3c582af5-78dc-4b50-a24a-eed49b2b02a4",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "name": "Books",
+      "id": "063ddc27-62b1-45c9-bad4-31e66a76c6ee"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "300 Areas/YouTube",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "groupByField": "status",
+            "priorityField": "date",
+            "includeFields": [
+              "playlist"
+            ],
+            "columns": {
+              "queue": {
+                "weight": 0
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "4db39fa4-345a-4162-b683-0713d8bf8398",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "b0bfb6ac-7ca6-4c1c-b775-d7ef29704bf8",
+      "name": "YouTube"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "choices": [
+    {
+      "id": "a137aa53-f924-4401-b9bb-35b2173d4ded",
+      "name": "Add to Daily Workbench",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "000 System Files/Journal/2023/{{DATE:YYYY-MM-DD}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "000 System Files/Templates/000 Daily Notes.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{VALUE}}\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Workbench",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "f403dbce-224a-4b1a-aac6-171b3a2579d5",
+      "name": "Articles",
+      "type": "Template",
+      "command": true,
+      "templatePath": "000 System Files/Templates/000 Article.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "200 Resources/Articles & Books/Articles"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "horizontal",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "multi-line",
+  "devMode": false,
+  "templateFolderPath": "000 System Files/Templates",
+  "announceUpdates": true,
+  "version": "1.0.2",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

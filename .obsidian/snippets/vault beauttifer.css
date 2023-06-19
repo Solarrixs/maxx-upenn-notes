@@ -1,0 +1,120 @@
+/*GRAPH COLOR*/
+
+.theme-dark .workspace-leaf-content[data-type=graph] .view-content {
+  background-color: #050c15;
+}
+
+.theme-light .workspace-leaf-content[data-type=graph] .view-content {
+    background-color: #ffffff;
+  }
+
+.graph-view.color-fill-unresolved {
+  color: #4e4e4e !important;
+  opacity: 0.2;
+
+}
+
+.graph-view.color-line {
+    color: #000000 !important;
+    opacity: 0.05;
+    }
+
+.graph-view.color-fill-highlight {
+color: #79a1b9 !important;
+}
+
+.graph-view.color-line-highlight {
+color: #79a1b9 !important;
+}
+
+/*UNLINKED Resources COLOR*/
+.is-unresolved .cm-hmd-internal-link .cm-underline {
+  color: #31747c;
+  opacity: 1.0;
+}
+.markdown-preview-view .internal-link.is-unresolved {
+  color: #31747c;
+  opacity: 1.0;
+}
+
+/* hide graph controls while closed/unhovered */
+.graph-controls.is-close {
+    opacity: 0.2;
+}
+.graph-controls.is-close:hover {
+    opacity: 1;
+}
+
+/* Remove scroll bar from transclusions */
+.markdown-preview-view .markdown-embed-content {
+    max-height: unset;
+}
+.markdown-preview-view .markdown-embed-content > .markdown-preview-view {
+    max-height: unset;
+    background-color: var(--theme-transclude-background);
+}
+
+/* Make transclusions pretty */
+.markdown-preview-view .markdown-embed, .markdown-preview-view .file-embed {
+    padding: 5px;
+    margin: 0px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px var(--background-modifier-border);
+    background-color: var(--theme-transclude-background);
+}
+
+/* Remove scroll bar from search results */
+.markdown-preview-view .internal-query.is-embed .search-results-children {
+    max-height: unset;
+}
+
+/* Hide decoration and borders from embeds */
+.markdown-preview-view .markdown-embed {
+    background-color: var(--theme-page-background);
+    border: none;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+}
+.markdown-preview-view .markdown-embed-content > .markdown-preview-view {
+    padding: 0;
+    margin: 0;
+}
+
+.markdown-preview-view .markdown-embed .dataview.list-view-ul {
+    margin: 0;
+}
+
+.markdown-preview-view .markdown-embed-title {
+    display: none;
+  }
+
+/* remove pins from note headers*/
+ .workspace-tab-header-status-icon {
+  opacity: 0.2;
+  transition: 0.2s ease-out;    
+}
+.workspace-tab-header-status-icon:hover {
+  opacity: initial;
+  transition: 0.2s ease-out;    
+}
+
+/* custom button colors*/
+button.mint {
+    background-color: #8ce3d9 !important;
+    margin: 0px 5px;
+    color: #000000 !important; 
+}
+
+button.bettergreen {
+    background-color: #72ec76 !important;
+    margin: 0px 5px;
+    color: #000000 !important; 
+}
+
+button.betterred {
+  background-color: #ED706B !important;
+  margin: 0px 5px;
+  color: #000000 !important; 
+}

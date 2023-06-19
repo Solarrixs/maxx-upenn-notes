@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "a906b19558b4862b",
+    "type": "split",
+    "children": [
+      {
+        "id": "191225a7c90786f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46ebd315c061f4e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 Meta/500 Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf0d011569a77b51",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d0be71f07f7e7f89",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "41742e94375d65a0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "91303590ea58afa6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "11c10d7eea54c53f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "960b4a9028fb878f",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a7790cf3ad551515",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "811b5d026c9bc644",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "500 Meta/500 Home.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "48a950426224f86a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "500 Meta/500 Home.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "89d53b4a6bf2e492",
+        "type": "leaf",
+        "state": {
+          "type": "podcast_player_view",
+          "state": {}
+        }
+      },
+      {
+        "id": "0dd466e5a1a8c325",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "5c0e1cd430344c83",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "active": "46ebd315c061f4e7",
+  "lastOpenFiles": [
+    "200 Notes/arrhenius acids and bases.md",
+    "200 Notes/acid and bases.md",
+    "300 Topics/AP Chemistry.md",
+    "200 Notes/lattice energy.md",
+    "500 Meta/500 Home.md",
+    "100 Resources/core values.md",
+    "500 Meta/Home.md",
+    "000 System Files/020 Journal/2022/2022-12-30.md",
+    "000 System Files/020 Journal/2022/2022-12-23.md",
+    "000 System Files/020 Journal/2022/2022-12-18.md"
+  ]
+}

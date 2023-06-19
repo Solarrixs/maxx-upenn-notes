@@ -1,0 +1,18 @@
+{
+  "baseFontSize": 16,
+  "translucency": false,
+  "baseFontSizeAction": false,
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "bullet lines",
+    "supercharged-links-gen",
+    "obsidian"
+  ],
+  "accentColor": "#92abdd",
+  "showViewHeader": true,
+  "interfaceFontFamily": "Atkinson Hyperlegible",
+  "nativeMenus": false,
+  "textFontFamily": "Atkinson Hyperlegible",
+  "monospaceFontFamily": "Inter,Cera Pro"
+}

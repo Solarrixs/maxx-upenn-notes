@@ -1,0 +1,9 @@
+{
+  "inboxDir": "\\",
+  "openNewNote": true,
+  "youtubeNote": "[[ReadItLater]] \n\n# [%videoTitle%](%videoURL%)\n\n%videoPlayer%",
+  "twitterNote": "[[ReadItLater]] \n\n# [%tweetAuthorName%](%tweetURL%)\n\n%tweetContent%",
+  "parsableArticleNote": "[[ReadItLater]] \n\n# [%articleTitle%](%articleURL%)\n\n%articleContent%",
+  "notParsableArticleNote": "[[ReadItLater]] \n\n[%articleURL%](%articleURL%)",
+  "textSnippetNote": "[[ReadItLater]] \n\n%content%"
+}

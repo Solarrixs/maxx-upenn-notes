@@ -1,0 +1,46 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "000 System Files/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "500 Notes",
+      "template": "000 System Files/Templates/000 Notes.md"
+    },
+    {
+      "folder": "200 Resources/Articles & Books/Articles",
+      "template": "000 System Files/Templates/000 Article.md"
+    },
+    {
+      "folder": "200 Resources/Articles & Books/Books",
+      "template": "000 System Files/Templates/000 Book.md"
+    },
+    {
+      "folder": "/",
+      "template": "000 System Files/Templates/000 Notes.md"
+    },
+    {
+      "folder": "200 Resources/Anki",
+      "template": "000 System Files/Templates/000 Anki.md"
+    },
+    {
+      "folder": "300 Areas/Personal Writing",
+      "template": "000 System Files/Templates/000 Blog.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "enable_ribbon_icon": false
+}

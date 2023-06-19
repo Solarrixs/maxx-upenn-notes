@@ -1,0 +1,37 @@
+[
+  {
+    "color": "255, 214, 0",
+    "char": "adafwd",
+    "icon": "lucide-message-circle"
+  },
+  {
+    "color": "255, 145, 0",
+    "char": "^aonoaida",
+    "icon": "lucide-airplay"
+  },
+  {
+    "color": "255, 23, 68",
+    "char": "adafwd",
+    "icon": "lucide-alert-triangle"
+  },
+  {
+    "color": "124, 77, 255",
+    "char": "adknadad?",
+    "icon": "lucide-help-circle"
+  },
+  {
+    "color": "0, 184, 212",
+    "char": "adafwd",
+    "icon": "lucide-star"
+  },
+  {
+    "color": "0, 200, 83",
+    "char": "ex",
+    "icon": "lucide-info"
+  },
+  {
+    "color": "158, 158, 158",
+    "char": "''",
+    "icon": "quote-glyph"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "baseFontSize": 16,
+  "translucency": false,
+  "baseFontSizeAction": false,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "bullet lines",
+    "supercharged-links-gen",
+    "obsidian",
+    "callouts-styling",
+    "vault beauttifer"
+  ],
+  "accentColor": "#92ddac",
+  "showViewHeader": true,
+  "interfaceFontFamily": "Atkinson Hyperlegible",
+  "nativeMenus": true,
+  "textFontFamily": "Atkinson Hyperlegible",
+  "monospaceFontFamily": "Inter"
+}

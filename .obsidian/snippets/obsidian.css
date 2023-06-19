@@ -1,0 +1,163 @@
+.theme-dark {
+    /*Darker Color for 2*/
+    --f-f: #3b4252;
+    --f-r: #bf616a;
+    --f-o: #d08770;
+    --f-y: #5985d0;
+    --f-g: #81a9ee;
+    --f-p: #3b69b7;
+    --f-sg: #6a96e1;
+    --f-lb: #9fbff5;
+    --f-frst: #81a1c1;
+    --f-b: #bbd3fb;
+    --f-bg: #080D16;
+    --f-a1: #248BD6;
+    --f-a2: #83B8FF;
+    --f-a3: #C6CDFF;
+    --f-a4: #FE9677;
+}
+
+.theme-light {
+    /*Darker Color for 1*/
+    --f-f: #3b4252;
+    --f-r: #df8e1d;
+    --f-o: #d08770;
+    --f-y: #ebcb8b;
+    --f-g: #a3be8c;
+    --f-p: #b48ead;
+    --f-sg: #1344a7;
+    --f-lb: #1344a7;
+    --f-frst: #1e66f5;
+    --f-b: #1e66f5;
+    --f-sb: #1e66f5;
+    --f-background: #1e66f52b;
+    --f-back2: #1344a75e;
+    --f-back1: #df8e1d3c;
+    --f-darkblue: #355c7e;
+}
+
+/*000 System Files*/
+.nav-folder-title[data-path="000 System Files"] {
+    color: var(--f-a2);
+    background: var(--f-light) !important;
+    border-bottom: 2px solid var(--f-a);
+}
+.nav-folder-title[data-path*="000 System Files"],
+.nav-folder-title[data-path*="000 System Files"] + .nav-folder-children,
+.nav-file-title[data-path*="000 System Files"] {
+    border-left: 3px solid var(--f-a2);
+    margin-left: 0px;
+}
+.nav-folder-title[data-path*="000 System Files"]:hover,
+.nav-folder-title[data-path*="000 System Files"] + .nav-folder-children:hover,
+.nav-file-title[data-path*="000 System Files"]:hover {
+    border-color: var(--f-f);
+}
+
+/*100 Archives*/
+.nav-folder-title[data-path="100 Archives"] {
+    color: var(--f-a2);
+    background: var(--f-back2) !important;
+    border-bottom: 2px solid var(--f-a);
+}
+.nav-folder-title[data-path*="100 Archives"],
+.nav-folder-title[data-path*="100 Archives"] + .nav-folder-children,
+.nav-file-title[data-path*="100 Archives"] {
+    border-left: 3px solid var(--f-a2);
+    margin-left: 0px;
+}
+.nav-folder-title[data-path*="100 Archives"]:hover,
+.nav-folder-title[data-path*="100 Archives"] + .nav-folder-children:hover,
+.nav-file-title[data-path*="100 Archives"]:hover {
+    border-color: var(--f-f);
+}
+
+/*200 Resources*/
+.nav-folder-title[data-path="200 Resources"] {
+    color: var(--f-a3);
+    background: var(--f-background) !important;
+    border-bottom: 2px solid var(--f-a);
+}
+.nav-folder-title[data-path*="200 Resources"],
+.nav-folder-title[data-path*="200 Resources"] + .nav-folder-children,
+.nav-file-title[data-path*="200 Resources"] {
+    border-left: 3px solid var(--f-a3);
+    margin-left: 0px;
+}
+.nav-folder-title[data-path*="200 Resources"]:hover,
+.nav-folder-title[data-path*="200 Resources"] + .nav-folder-children:hover,
+.nav-file-title[data-path*="200 Resources"]:hover {
+    border-color: var(--f-f);
+}
+
+/*300 Areas*/
+.nav-folder-title[data-path="300 Areas"] {
+    color: var(--f-a3);
+    background: var(--f-background) !important;
+    border-bottom: 2px solid var(--f-a);
+}
+.nav-folder-title[data-path*="300 Areas"],
+.nav-folder-title[data-path*="300 Areas"] + .nav-folder-children,
+.nav-file-title[data-path*="300 Areas"] {
+    border-left: 3px solid var(--f-a3);
+    margin-left: 0px;
+}
+.nav-folder-title[data-path*="300 Areas"]:hover,
+.nav-folder-title[data-path*="300 Areas"] + .nav-folder-children:hover,
+.nav-file-title[data-path*="300 Areas"]:hover {
+    border-color: var(--f-f);
+}
+
+/*400 Projects*/
+.nav-folder-title[data-path="400 Projects"] {
+    color: var(--f-a3);
+    background: var(--f-background) !important;
+    border-bottom: 2px solid var(--f-a);
+}
+.nav-folder-title[data-path*="400 Projects"],
+.nav-folder-title[data-path*="400 Projects"] + .nav-folder-children,
+.nav-file-title[data-path*="400 Projects"] {
+    border-left: 3px solid var(--f-a3);
+    margin-left: 0px;
+}
+.nav-folder-title[data-path*="400 Projects"]:hover,
+.nav-folder-title[data-path*="400 Projects"] + .nav-folder-children:hover,
+.nav-file-title[data-path*="400 Projects"]:hover {
+    border-color: var(--f-f);
+}
+
+/*500 Notes*/
+.nav-folder-title[data-path="500 Notes"] {
+    color: var(--f-a4);
+    background: var(--f-background) !important;
+    border-bottom: 2px solid var(--f-a);
+}
+.nav-folder-title[data-path*="500 Notes"],
+.nav-folder-title[data-path*="500 Notes"] + .nav-folder-children,
+.nav-file-title[data-path*="500 Notes"] {
+    border-left: 3px solid var(--f-a4);
+    margin-left: 0px;
+}
+.nav-folder-title[data-path*="500 Notes"]:hover,
+.nav-folder-title[data-path*="500 Notes"] + .nav-folder-children:hover,
+.nav-file-title[data-path*="500 Notes"]:hover {
+    border-color: var(--f-f);
+}
+
+/*600 Meta*/
+.nav-folder-title[data-path="600 Meta"] {
+    color: var(--f-a4);
+    background: var(--f-back1) !important;
+    border-bottom: 2px solid var(--f-a);
+}
+.nav-folder-title[data-path*="600 Meta"],
+.nav-folder-title[data-path*="600 Meta"] + .nav-folder-children,
+.nav-file-title[data-path*="600 Meta"] {
+    border-left: 3px solid var(--f-a4);
+    margin-left: 0px;
+}
+.nav-folder-title[data-path*="600 Meta"]:hover,
+.nav-folder-title[data-path*="600 Meta"] + .nav-folder-children:hover,
+.nav-file-title[data-path*="600 Meta"]:hover {
+    border-color: var(--f-f);
+}
