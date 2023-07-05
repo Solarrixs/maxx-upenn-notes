@@ -70,7 +70,7 @@
   "devMode": false,
   "templateFolderPath": "000 System Files/Templates",
   "announceUpdates": true,
-  "version": "1.0.2",
+  "version": "1.2.1",
   "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "",

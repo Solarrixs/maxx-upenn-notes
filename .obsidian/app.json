@@ -12,7 +12,7 @@
   "readableLineLength": true,
   "promptDelete": true,
   "newFileFolderPath": "",
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "000 System Files/Attachments",
   "trashOption": "local",
   "legacyEditor": false,
   "livePreview": true,

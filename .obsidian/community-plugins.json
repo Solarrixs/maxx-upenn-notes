@@ -22,9 +22,6 @@
   "obsidian-better-command-palette",
   "obsidian-minimal-settings",
   "obsidian-sortable",
-  "convert-url-to-iframe",
-  "obsidian-projects",
-  "buttons",
   "table-editor-obsidian",
   "obsidian-latex-suite",
   "hotkeysplus-obsidian",
@@ -33,5 +30,7 @@
   "obsidian-auto-link-title",
   "obsidian-linter",
   "better-word-count",
-  "cmdr"
+  "cmdr",
+  "obsidian-textgenerator-plugin",
+  "mathlinks"
 ]
