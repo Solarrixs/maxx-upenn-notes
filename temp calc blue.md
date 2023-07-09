@@ -87,3 +87,21 @@ Similar to a parabola + hyperbola along certain cross sections
 $$
 \dfrac{(x-x_{0})^2}{a^2}-\dfrac{(y-y_{0})^2}{b^2}=z-z_{0}
 $$
+## Distance of Points and Vectors
+The distance formula in 2D can be generalized to the $nth$ dimension.
+
+This can be expressed as vectors.
+Vector components $(x,y,z)$ are written vertically.
+Unit vector $\mid \mid v \mid \mid$ has a length of 1.
+Basis vectors are $i,j,k$ in terms of $(0,0,1), (0,1,0),(1,0,0)$. Any vector can be expressed as a linear combination of basis vectors.
+
+A line can be represented with vectors: $x(t)=x_{0}+t\bar{v}$.
+A plane, therefore, is represented with 2 vectors: $x(s,t) = x_{0}+s\bar{u}+t\bar{v}$. The $x_{0}$ is the location on the plane, while the two vectors are orthogonal to the plane to create the formula of the plane.
+
+### Dot and Cross Products
+Takes 2 same size vectors and outputs a scalar.
+$u \cdot v = u_{1}v_{1}+u_{2}v_{2}+u_{3}v_{3}\dots$
+
+$u \cdot v = \mid\mid u\mid\mid \mid\mid v\mid\mid \cos \theta$, where $\theta$ is the angle between the 2 vectors.
+
+If $u \perp v, u \cdot v = 0$
