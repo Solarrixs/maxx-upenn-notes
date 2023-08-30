@@ -1,7 +1,7 @@
 [
   {
     "color": "255, 214, 0",
-    "char": "adafwd",
+    "char": "&",
     "icon": "lucide-message-circle"
   },
   {
@@ -11,17 +11,17 @@
   },
   {
     "color": "255, 23, 68",
-    "char": "adafwd",
+    "char": "!",
     "icon": "lucide-alert-triangle"
   },
   {
     "color": "124, 77, 255",
-    "char": "adknadad?",
+    "char": "?",
     "icon": "lucide-help-circle"
   },
   {
     "color": "0, 184, 212",
-    "char": "adafwd",
+    "char": "star",
     "icon": "lucide-star"
   },
   {
