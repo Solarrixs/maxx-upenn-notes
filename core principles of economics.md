@@ -44,3 +44,6 @@ The benefit you get from staying one more night is the marginal benefit, and the
 Essentially, keep doing an action as long as your marginal benefits equal your marginal costs.
 
 # Interdependence Principle
+The interdependence principle states that your best choice depends on your choices and the choices other people make.
+
+This will reach equilibrium, where everyone cannot do any better by picking another course of action because everyone is already maximizing their individual economic surplus. Nobody perceives they will benefit from changing their own behavior.
