@@ -32,3 +32,6 @@ Opportunity cost is the next best alternative you must give up to get the resour
 All costs become opportunity costs, since every choice you make means forgoing other alternatives.
 
 **Opportunity cost = direct monetary cost + net benefit of next best alternative**
+
+# Sunk Costs
+Costs that should be ignored when making decisions are called sunk costs. Sunk costs are costs that cannot be recovered and have no influence on a future action's actual costs and benefits.
