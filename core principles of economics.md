@@ -42,3 +42,5 @@ The marginal principle says that decisions about quantities are best made increm
 The benefit you get from staying one more night is the marginal benefit, and the extra cost of that night is the marginal cost. In this situation, you should only compare the marginal benefits and costs.
 
 Essentially, keep doing an action as long as your marginal benefits equal your marginal costs.
+
+# Interdependence Principle
