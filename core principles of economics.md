@@ -47,3 +47,14 @@ Essentially, keep doing an action as long as your marginal benefits equal your m
 The interdependence principle states that your best choice depends on your choices and the choices other people make.
 
 This will reach equilibrium, where everyone cannot do any better by picking another course of action because everyone is already maximizing their individual economic surplus. Nobody perceives they will benefit from changing their own behavior.
+
+# Economic Models
+Economic models only focus on the important things and ignores all the minor details.
+
+Most economic models are positive economics:
+1. cause-and-effect explanations of economic relationships
+2. empirical (numerical) dimension where data can confirm or refute propositions'
+
+There are also normative economics:
+1. asks whether something should happen
+2. reflects subjective value judgement such as ethical positions
