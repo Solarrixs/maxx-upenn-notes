@@ -70,3 +70,6 @@ Therefore, a global economy emerges where everyone is integrated into this vast 
 	- & With that mutual corporation, states have to generate the conditions for transnational capital accumulation, and this means not only assuring a favorable climate for making profit but also repressing any threat to the rule of capital through social oppression
 
 Capital in the world has been transnationally integrated and centralized within the TCC. Out of share ownership of public companies, core TNCs own each other companies, combining to own the majority of the world's revenues. 
+- ex 17 global elites managed $41+ trillion, if not more.
+- & So the great financial capital they have allows them to influence political and economic decisions worldwide? And countries make decisions together since these global elites influence many countries as they have money to influence many institutions on the TNS, such as advisors to international organizations like the World Bank, WTO, national governments, central banks, foreign affairs, defense, advisory roles to head of states, all to influence policies to protect their global capital. These policies are instructions to be followed by government puppets.
+- star A global government system exists controlled by the TNCs as an oligarchy to force puppet nation-states to obey their rules of accumulating and retaining capital.
