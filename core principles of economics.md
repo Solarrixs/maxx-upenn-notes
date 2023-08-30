@@ -35,3 +35,8 @@ All costs become opportunity costs, since every choice you make means forgoing o
 
 # Sunk Costs
 Costs that should be ignored when making decisions are called sunk costs. Sunk costs are costs that cannot be recovered and have no influence on a future action's actual costs and benefits.
+
+# Marginal Principle
+The marginal principle says that decisions about quantities are best made incrementally. Marginal indicates a difference between alternatives that represents only 1 unit more. **For example, should I stay one more day at vacation and pay one more night of expenses?**
+
+The benefit you get from staying one more night is the marginal benefit, and the extra cost of that night os the marginal cost. In this situation, you should only compare the marginal benefits and costs.
