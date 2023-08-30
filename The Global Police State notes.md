@@ -73,3 +73,13 @@ Capital in the world has been transnationally integrated and centralized within 
 - ex 17 global elites managed $41+ trillion, if not more.
 - & So the great financial capital they have allows them to influence political and economic decisions worldwide? And countries make decisions together since these global elites influence many countries as they have money to influence many institutions on the TNS, such as advisors to international organizations like the World Bank, WTO, national governments, central banks, foreign affairs, defense, advisory roles to head of states, all to influence policies to protect their global capital. These policies are instructions to be followed by government puppets.
 - star A global government system exists controlled by the TNCs as an oligarchy to force puppet nation-states to obey their rules of accumulating and retaining capital.
+
+Primitive accumulation is where masses of people are violent separated from means of production (like land) such that it comes under control of capitalists. This forces people to join the capitalistic society.
+- ex Britain's enclosure movement forced millions into the city to work as capitalistic workers.
+
+Three types of capitalistic crisis:
+1. Cyclical recessions
+2. Structural crises - solution is to restructure the system every 50 years involving breakdown of state legitimacy, escalating class struggles, and military conflicts
+3. Existential crisis posed by ecological limits to the reproduction of the system such as climate change, nitrogen cycle, diversity loss, and overall mass extinction due to the mass and accelerated commodification of nature
+	- & So climate change activists are under persecution because it goes against the nature of capitalism and the commodification of nature
+	- & Since capitalism is expansionary and has conquered all land in the world, where else can it expand to? 
