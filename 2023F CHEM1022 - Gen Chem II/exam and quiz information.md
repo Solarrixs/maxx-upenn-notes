@@ -1,6 +1,6 @@
 ---
 date: 2023-08-29
-type: info
+type: note
 tags: 
 ---
 
