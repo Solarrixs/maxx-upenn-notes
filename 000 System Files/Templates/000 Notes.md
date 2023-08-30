@@ -1,6 +1,6 @@
 ---
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
-type: note
+type: <% tp.system.suggester(["note ", "MOC"], ["note", "MOC"]) %>
 <% tp.system.suggester(["tags: ", "tags: ankify"], ["tags: ", "tags: ankify"]) %>
 ---
 
