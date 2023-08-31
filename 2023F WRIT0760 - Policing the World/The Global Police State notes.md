@@ -46,7 +46,7 @@ In a simple sense, the global police state is a story of control and repression 
 # Chapter 1
 Capitalism's values of maximizing profit and expanding outwardly drives colonialism and imperialism. This has remained for centuries.
 
-But capitalism has changed continuously is the social formations and technologies which capitalism operates on, and the institutions and class relations that organize the system.
+But capitalism has changed continuously is the social formations, structures, and technologies which capitalism operates on, and the institutions and class relations that organize the system.
 
 - star Right now, capitalism is becoming a global police state.
 
