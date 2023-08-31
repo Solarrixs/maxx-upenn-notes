@@ -68,6 +68,7 @@ Computer technology and other advances has led to global reach and advance over 
 Money later is being used to make more money.
 - Labor, land, resources, capital used to create goods or services to be sold for value
 - Reinvestment of money is the process that generates capital
+- Before, land labor resources and capital were produced within a nation, but now computer and transportation tech allows land, labor, and resources to be divided transnationally, leading to the lowest cost land or labor to generate the most profit
 
 ## TCCs and TNCs
 Therefore, a global economy emerges where everyone is integrated into this vast decentralized network of production, distribution, communication, and economy. This also led to the rise of a transnational capitalist class (TCC) as an agent of global capitalism, made up of owners and managers of giant transnational corporations and financial institutions that drive the global economy.
