@@ -117,5 +117,11 @@ The TCC increased global economic integration and transnational capital assisted
 - ? So stocks buy choices may be good based on how it affects the wealthy? Since the wealthy are who spends the most, by far, compared to everyone else? And avoid buying stocks in industries producing for mass consumption.
 
 The TNCs keep trying to find outlets too unload their surplus. It began with real estate investment, stock market speculation, etc. After the 2008 crash, they reinvested into other markets, like cryptocurrencies, land around the world, etc.
+- Now, growth is driven by mounting government, corporate, and consumer debt, with global debt reaching $215 trillion in 2020.
+- Fictitious capitals grows more as financial speculation spirals more and more. Though the gross world product worldwide is $75 trillion, currency speculation alone amounts to $5.3 trillion a day ($1934 trillion a year), and global derivatives market was estimated at $1.2 quadrillion.
 
 - ? I don't understand ABS and speculative investment in mortgages. How does that lead to fictitious money that does not correspond to real wealth? **(p29)**
+- ? So government debt and bonds are now just financial speculation to offset the overaccumulation crisis?
+
+Control over state finances allow the TCCs to control welfare and thus social control. The poor are begin targeted by transnational finance capital for financial extraction - forcing them into debt and dependence that allow the state to criminalize them, which again opens up opportunities for militarized accumulation by repression.
+- ? What is militarized accumulation by repression? What is there to gain from sending people to jail?
