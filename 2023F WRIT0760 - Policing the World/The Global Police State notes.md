@@ -17,7 +17,7 @@ The Core, Peripherals, and the Outliers reflect current society and the uneven d
 
 Global capitalism is oppressive and an archaic system based on social relations. Replacing it with the newer tech can somehow meet the material and spiritual needs of humanity.
 - I think this is something extremely hard to do simply because capitalism is so prevalent around the world, and most people in the West will have a positive view of this system anyways
-- Is the author arguing that political, economic, and social circumstances are leading to the rise of socialism and fascism again?
+- Is the author arguing that political, economic, and social circumstances are leading to the rise of socialism and fascism again? Or right wing populism?
 - star I think the main proposition of the book is to propose the ultimate goal of replacing the current global capitalist system to avert disaster and be more beneficial and sustainable for the surplus humans by meeting their spiritual and material needs - both economic well-being and emotional satisfaction
 - star Another purpose is to identify and explore capitalism and its new forms, and how it contributes to a global police state that interacts with the economic, political, ideological, and military dimensions with the goal of coercive exclusion of surplus humanity
 - The new technology isn't being used to liberate humanity from capitalism but is being applied by agents of capitalism to bring about a global police state
