@@ -125,3 +125,9 @@ The TNCs keep trying to find outlets too unload their surplus. It began with rea
 
 Control over state finances allow the TCCs to control welfare and thus social control. The poor are begin targeted by transnational finance capital for financial extraction - forcing them into debt and dependence that allow the state to criminalize them, which again opens up opportunities for militarized accumulation by repression.
 - ? What is militarized accumulation by repression? What is there to gain from sending people to jail?
+
+In the modern age, computer technology is expected to become even more powerful to global capitalism. With 3D printing, IoT, robotics, AI, machine learning, bio and nano tech, cloud computing, energy storage, autonomous vehicles, drives forward a new revolution in global capitalism. 
+- Data mining and analysis has become more expansive and allows new potential for social control and the central element in the development of a global police state. The tech sector and big data is now a major new outlet for surplus capital.
+- Digitization sucks up more value from the global economy. Nearly all of Google's and Apple's revenue comes from advertising, while Uber and Airbnb skim value off the labor and resources of drivers, home owners, and their customers.
+- Digitization promises to bring about high skilled and paid jobs and resolve the problems of social polarization and stagnation. But evidence suggests that digitalization may deskill or completely eliminate many jobs and exacerbate inequality.
+- Although absolute volume of TNC profits has increased, the rate of profit declined an average of 10% to 6%, suggesting the accumulation crisis. Thus, war and a global police state may resolve this system's dilemma.
