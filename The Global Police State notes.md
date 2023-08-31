@@ -18,8 +18,8 @@ The Core, Peripherals, and the Outliers reflect current society and the uneven d
 Global capitalism is oppressive and an archaic system based on social relations. Replacing it with the newer tech can somehow meet the material and spiritual needs of humanity.
 - I think this is something extremely hard to do simply because capitalism is so prevalent around the world, and most people in the West will have a positive view of this system anyways
 - Is the author arguing that political, economic, and social circumstances are leading to the rise of socialism and fascism again?
-- star I think the **main proposition of the book is to propose the ultimate goal of replacing the current global capitalist system to avert disaster and be more beneficial and sustainable for the surplus humans by meeting their spiritual and material needs - both economic well-being and emotional satisfaction**
-- star Another purpose is to **identify and explore capitalism and its new forms, and how it contributes to a global police state that interacts with the economic, political, ideological, and military dimensions with the goal of coercive exclusion of surplus humanity**
+- star I think the main proposition of the book is to propose the ultimate goal of replacing the current global capitalist system to avert disaster and be more beneficial and sustainable for the surplus humans by meeting their spiritual and material needs - both economic well-being and emotional satisfaction
+- star Another purpose is to identify and explore capitalism and its new forms, and how it contributes to a global police state that interacts with the economic, political, ideological, and military dimensions with the goal of coercive exclusion of surplus humanity
 - The new technology isn't being used to liberate humanity from capitalism but is being applied by agents of capitalism to bring about a global police state
 
 A police state consists of:
@@ -51,18 +51,19 @@ But capitalism has changed continuously is the social formations and technologie
 - star Right now, capitalism is becoming a global police state.
 
 ## First Stage of Capitalism
-Symbolized by the conquest of the Americas in 1492 is the epoch of **mercantilism and primitive accumulation.**
+Symbolized by the conquest of the Americas in 1492 is the epoch of mercantilism and primitive accumulation.
 
 Marked by the creation of a world market, the colonial system, and a trans-Atlantic economy.
 
 ## Second Stage of Capitalism
-**Competitive or classical capitalism** is marked by the Industrial Revolution, the bourgeoisie, and the creation of modern nation-states like the American and French Revolution
+Competitive or classical capitalism is marked by the Industrial Revolution, the bourgeoisie, and the creation of modern nation-states like the American and French Revolution
 
 ## Third Stage of Capitalism
-**National corporate monopoly capitalism** is marked by imperialist conquest and the rise of powerful national financial and industrial corporations. This becomes global capitalism by the 1970s, where a transnational capital is created where all nations and most humans are integrated in a global production and financial system.
+National corporate monopoly capitalism is marked by imperialist conquest and the rise of powerful national financial and industrial corporations. This becomes global capitalism by the 1970s, where a transnational capital is created where all nations and most humans are integrated in a global production and financial system.
 
 Computer technology and other advances has led to global reach and advance over the global working classes. Now, people can search for the cheapest labor, lowest taxes, and laxest regulatory environments in the entire global economy through outsourcing across the planet.
 
+## TCCs and TNCs
 Therefore, a global economy emerges where everyone is integrated into this vast decentralized network of production, distribution, communication, and economy. This also led to the rise of a transnational capitalist class (TCC) as an agent of global capitalism, made up of owners and managers of giant transnational corporations and financial institutions that drive the global economy.
 - ? So the TCC class has financial interest globally and organizes itself to pursue interests worldwide?
 - '' The TCC directly instrumentalizes states around the world such that every country and the global economy is structurally dependent on transnational capital.
@@ -77,9 +78,44 @@ Capital in the world has been transnationally integrated and centralized within 
 Primitive accumulation is where masses of people are violent separated from means of production (like land) such that it comes under control of capitalists. This forces people to join the capitalistic society.
 - ex Britain's enclosure movement forced millions into the city to work as capitalistic workers.
 
+## Global Capitalization
 Three types of capitalistic crisis:
 1. Cyclical recessions
 2. Structural crises - solution is to restructure the system every 50 years involving breakdown of state legitimacy, escalating class struggles, and military conflicts
 3. Existential crisis posed by ecological limits to the reproduction of the system such as climate change, nitrogen cycle, diversity loss, and overall mass extinction due to the mass and accelerated commodification of nature
 	- & So climate change activists are under persecution because it goes against the nature of capitalism and the commodification of nature
-	- & Since capitalism is expansionary and has conquered all land in the world, where else can it expand to? 
+
+Capitalism is naturally expansionary. Because there is nowhere else for it to expand to, it has begun to expand and commodify new resources - that is education, health, basic serves, etc - anything that people produce. **(p18)**
+- This has led to global violence and social control under concentrated and privatized means of violence.
+- ex The NSA in the US tapped every cable in the transatlantic cable to monitor recordings after 911. This was leaked by Edward Snowden. This has led many countries to stop routing cables through the US.
+
+Global capitalism in this modern age, which is controlling information and monitoring data on humanity, lends itself to escalating tensions to create wars.
+- The TCCs are controlling the states. Nation-states need to promote transnational capital accumulation in their nation but also need to achieve political legitimacy from their people. However, in this modern age of capitalist globalization, governments aim to attract national TNC investment, which incentives these countries with neo-liberal laws - downward pressure on wages, deregulation, low or no taxes, privatization. This is to aggravate inequality, impoverishment, and insecurity for the working classes to prevent rebellion.
+- ex The Trump White house supported TNCs to invest in the US due to regression in taxes, deregulation, and limited tariffs.
+- ? So are Republicans more in line with the funding from the TNCs while Democrats are against it? Then why do Democrats win US elections if the TNCs are so powerful in terms of money?
+
+The TNC elites come together during the WEF event, an annual meeting in Davos. Thus, the Davos Man is used to describe the new global ruling class. WEF founder, Klaus Schwab, called for global leadership by the TCC to control money flow globally.
+- ex Nestle, Toyota, Apple, McDonalds, Amazon, Procter & Gamble, etc
+- They aim to unify and organize the various classes and factions to uphold their long term political interests against the exploited and oppressed classes around the world. 10% of global population do not have enough food or water consistently. Same with electricity. 10% of global populations live on <$1.9 a day and 45% live on <5.50 a day.
+
+## The Overaccumulation Problem
+Overaccumulation (to keep on gaining profits from capitalists) is expressed as a problem of overproduction or underconsumption. The wealth inequality gap grows between what is produced and what the market can absorb.
+- & So capitalists gains huge surplus but do not find outlets to profitably invest that surplus.
+
+The Fordism-Keynesianism idea is that high growth rates, rise in living standards for the working class, and a decrease in inequalities in the US,
+- This was a result of Henry Ford's use of a new system of mass standardized production that could be sustained without introducing mass, standardized consumption.
+- John Keynes believed that the governments need to intervene in the economy to regulate the market through public projects like infrastructure and social services, and minimum wages, unemployment insurance, pensions, etc.
+- These adjustments stalled and offset overaccumulation and lowered the wealth gap.
+
+This stopped in 1970s when the TCC abandoned that strategy and created a global capitalistic society. To counter the wealth of the middle class, they went on the offensive in class warfare.
+- This restructuring meant tearing down obstacles to the free flow of global capital, having access to all raw resources, and opening up new spaces for expansion. This leads to the deregulation of markets and passage of free trade agreements. **(p25)**
+
+The TCC increased global economic integration and transnational capital assisted with computer technology. This has led US to become a plutocracy, which growth was driven by small high-income clusters. As TNCs forced rules to benefit from the declining bargaining power of the working classes, increased globalization, lower anti-trust enforcement, technology to scale, lower taxes, interest rates, and tariffs, today exists the most pro-corporate environment in history globally.
+- & 1% owned 50% of wealth. Top 20% owned 94.5% of wealth.
+- & All US based companies sat on $1 trillion in uninvested cash while worldwide cash reserves topped $12 trillion. As TNCs cannot find opportunities to profitably reinvest their profits, they don't invest, leading to pressures to find outlets to upload their surplus. Thus, these TNCs pressure states to create profit making opportunities.
+	- ex Financial speculation, plunder of public finances, debt driven growth, state organized militarized accumulation
+- ? So stocks buy choices may be good based on how it affects the wealthy? Since the wealthy are who spends the most, by far, compared to everyone else? And avoid buying stocks in industries producing for mass consumption.
+
+The TNCs keep trying to find outlets too unload their surplus. It began with real estate investment, stock market speculation, etc. After the 2008 crash, they reinvested into other markets, like cryptocurrencies, land around the world, etc.
+
+- ? I don't understand ABS and speculative investment in mortgages. How does that lead to fictitious money that does not correspond to real wealth? **(p29)**
