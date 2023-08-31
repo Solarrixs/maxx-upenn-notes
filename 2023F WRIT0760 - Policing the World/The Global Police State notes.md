@@ -28,14 +28,14 @@ A police state consists of:
 - Suppression of civil liberties and human rights
 
 While this exists in many countries, this is emerging within the global economy and society (3 reasons):
-- Mass social control, repression, and warfare by ruling groups to contain the potential rebellion of the global working class (surplus humanity)
+1. Mass social control, repression, and warfare by ruling groups to contain the potential rebellion of the global working class (surplus humanity)
 	- ex Border control, deportation regimes, mass incarceration, state and private surveillance, criminalization of the poor and working class through state-sanctioned repression that opens new profit-making opportunities for the "Core"
-- Global economy is based more on the development of systems of warfare, social control, and repression to make profit. Or "accumulation by repression".
+2. Global economy is based more on the development of systems of warfare, social control, and repression to make profit. Or "accumulation by repression".
 	- ? What's an real life example of this?
 	- ? So in areas of extreme global inequalities, it is maintained by social control and oppression?
 	- & So essentially the US is encouraging wars and generating and sustaining social conflict (state sponsored violence) is on purpose to expand systems of warfare, repression, surveillance, and social control? War can make manufacturing companies produce more weapons and encourage more research and development into those areas. They can also profit from defense contracts, expand their markets, suppress dissent through drafts, or divert public attention?
 	- & Perhaps in times of social or political unrest, there might be opportunities for powerful entities to take advantage of economic resources that were previously unavailable due to public resistance. Repression can allow them to maintain the status quo and continue exploiting resources for their own benefit.
-- Increasing move toward political systems than can be characterized as fascism or totalitarian.
+3. Increasing move toward political systems than can be characterized as fascism or totalitarian.
 	- Influence of neo-fascist, authoritarian movements such as Trumpism.
 	- Neo-fascist culture is also emerging through militarism, misogyny, masculinization, and racism. This culture is prone to mass violence towards the racially and ethnically oppressed, women, poor, and other vulnerable communities.
 
