@@ -63,7 +63,11 @@ National corporate monopoly capitalism is marked by imperialist conquest and the
 
 Manufacturing machines and technologies also allow rapid production of component parts such as the Ford assembly line and makes it extremely efficient. The 2nd revolution can be argued as a social revolution. Artisans are not longer needed but machinery becomes more dominant, and people recognized that this made processes viable and more efficient.
 
-Computer technology and other advances has led to global reach and advance over the global working classes. Now, people can search for the cheapest labor, lowest taxes, and laxest regulatory environments in the entire global economy through outsourcing across the planet.
+Computer technology and other advances has led to global reach and advance over the global working classes. Now, people can search for the cheapest labor, lowest taxes, and laxest regulatory environments in the entire global economy through outsourcing across the planet. **(pg10)**
+
+Money later is being used to make more money.
+- Labor, land, resources, capital used to create goods or services to be sold for value
+- Reinvestment of money is the process that generates capital
 
 ## TCCs and TNCs
 Therefore, a global economy emerges where everyone is integrated into this vast decentralized network of production, distribution, communication, and economy. This also led to the rise of a transnational capitalist class (TCC) as an agent of global capitalism, made up of owners and managers of giant transnational corporations and financial institutions that drive the global economy.
