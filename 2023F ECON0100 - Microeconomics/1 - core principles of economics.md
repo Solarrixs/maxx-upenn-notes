@@ -17,7 +17,7 @@ Economic models only focus on the important things and ignores all the minor det
 
 Most economic models are positive economics:
 1. cause-and-effect explanations of economic relationships
-2. empirical (numerical) dimension where data can confirm or refute propositions'
+2. empirical (numerical) dimension where data can confirm or refute propositions
 
 There are also normative economics:
 1. asks whether something should happen

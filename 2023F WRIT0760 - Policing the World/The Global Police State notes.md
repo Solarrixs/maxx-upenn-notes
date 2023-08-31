@@ -5,7 +5,7 @@ tags:
 ---
 
 # Introduction
-What is Big Brother? [[The Global Police State.pdf#page=5&selection=11,38,12,55]]
+- ? What is Big Brother?
 
 - ! "George Orwell got it wrong" means that it isn't totalitarian states that are bad, but actually democratic governments that cause problems.
 
@@ -28,7 +28,7 @@ A police state consists of:
 - Suppression of civil liberties and human rights
 
 While this exists in many countries, this is emerging within the global economy and society (3 reasons):
-- Mass social control, repression, and warfare by ruling groups to contain the potential rebellion of the global working class (surplus humanity) [[The Global Police State.pdf#page=7&selection=9,0,11,73]]
+- Mass social control, repression, and warfare by ruling groups to contain the potential rebellion of the global working class (surplus humanity)
 	- ex Border control, deportation regimes, mass incarceration, state and private surveillance, criminalization of the poor and working class through state-sanctioned repression that opens new profit-making opportunities for the "Core"
 - Global economy is based more on the development of systems of warfare, social control, and repression to make profit. Or "accumulation by repression".
 	- ? What's an real life example of this?
