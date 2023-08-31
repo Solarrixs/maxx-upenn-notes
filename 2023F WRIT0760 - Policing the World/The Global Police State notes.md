@@ -61,6 +61,8 @@ Competitive or classical capitalism is marked by the Industrial Revolution, the 
 ## Third Stage of Capitalism
 National corporate monopoly capitalism is marked by imperialist conquest and the rise of powerful national financial and industrial corporations. This becomes global capitalism by the 1970s, where a transnational capital is created where all nations and most humans are integrated in a global production and financial system.
 
+Manufacturing machines and technologies also allow rapid production of component parts such as the Ford assembly line and makes it extremely efficient. The 2nd revolution can be argued as a social revolution. Artisans are not longer needed but machinery becomes more dominant, and people recognized that this made processes viable and more efficient.
+
 Computer technology and other advances has led to global reach and advance over the global working classes. Now, people can search for the cheapest labor, lowest taxes, and laxest regulatory environments in the entire global economy through outsourcing across the planet.
 
 ## TCCs and TNCs
