@@ -6,6 +6,6 @@ tags:
 
 Opportunity cost is the next best alternative you must give up to get the resource you primarily want.
 
-All costs become opportunity costs, since every choice you make means forgoing other alternatives.
+All costs has an associated opportunity cost, since every choice you make means forgoing other alternatives.
 
 **Opportunity cost = direct monetary cost + net benefit of next best alternative**
