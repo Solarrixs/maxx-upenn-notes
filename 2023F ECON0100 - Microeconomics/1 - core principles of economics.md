@@ -4,11 +4,11 @@ type: MOC
 tags: 
 ---
 
-In short, economics is the study of how people make choices under the [[scarcity principle]] and its results. People can make choices based on the [[cost-benefit principle]], avoiding [[sunk costs]], and applying the [[marginal principle]].
+In short, economics is the study of how people make choices under the [[scarcity principle]] and its results. People can make choices based on the [[cost-benefit principle]], avoiding [[sunk costs]], and applying the [[marginal principle]] with the overall goal of obtaining an [[economic surplus]].
 
 The [[scarcity principle]] causes each decision to have an [[opportunity cost]].
 
-Thus, people must make choices to best use the [[scarce resources]] available. Scarcity in economics isn't a shortage of a resource. It's that a resource is scarce if something has to be given up to achieve something else, like time or money.
+Thus, people must make choices to best use the [[scarce resources]] available.
 
 As a whole, society relies on the [[interdependence principle]] to make decisions beneficial for all of society.
 
