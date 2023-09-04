@@ -67,3 +67,11 @@ Demand curve is also the marginal benefit curve
 - Marginal benefit is the maximum amount a person is willing to pay for one more unit of good
 
 There is also a change in demand - at each price level, the quantity demanded changes
+
+A market demand curve plots the total quantity of a good demanded by all potential buyers at each price.
+- At each price, the total quantity demanded is the sum of quantity demanded by each individual
+
+Changes in change occurs when:
+- taste and preferences change
+- income
+- 
