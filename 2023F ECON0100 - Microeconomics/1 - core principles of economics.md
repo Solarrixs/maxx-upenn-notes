@@ -28,4 +28,7 @@ To analyze customer behavior, we can assume that everyone is trying to maximize 
 
 The positive change in utility is called marginal utility - the more the better. However, there is diminishing returns in the marginal utility the more you get. This is called diminishing marginal utility.
 
-An indifference curve shows combinations of goods that provide an equal level of utility or satisfaction. To simplify, assume that there are only two goods a consumer can choose between.
+An indifference curve shows combinations of goods that provide an equal level of utility or satisfaction. To simplify, assume that there are only two goods a consumer can choose between. It's similar to a PPC curve.
+- It has a negative slope because taking away marginal utility is a negative thing
+- It is convex because marginal utility decreases as quantity consumed increases. So the more you have something, the less you value each additional thing. This is called the marginal rate of substitution. $MRS_{xy} = \frac{\Delta Q_{y}}{\Delta Q_{x}}$, read as MRS of X for Y.
+- Since everyone has a different preference and utility value, indifference curves have the same general shape but aren't exactly the same
