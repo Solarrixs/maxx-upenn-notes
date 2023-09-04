@@ -81,4 +81,6 @@ Changes in change occurs when:
 consumer surplus is the gain you get from buying something at a price below your willingness to pay, which is your marginal benefit
 - consumer surplus = marginal benefit - price
 
-total consumer surplus is the integral of a demand curve
+total consumer surplus is the integral of a demand curve at the price level
+the area below that is the consumer's total expenditures
+total consumer surplus + total expenditures = total benefit
