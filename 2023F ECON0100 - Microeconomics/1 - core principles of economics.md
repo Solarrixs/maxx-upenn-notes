@@ -52,3 +52,12 @@ Anything within the slope is feasible and obtainable. The line is called the bud
 Combine the budget line and the indifference curve to find out the optimal consumption choice. The optimal bundle is under the budget line but on the highest indifference curve. The indifference curve should be tangent to the budget line.
 - $MRS_{xy} = \frac{MU_{x}}{MU_{y}} = \frac{P_{x}}{P_{y}}$
 - The ratio of price of goods someone buys should equal the marginal rate of substitution
+- Price cannot change, so change the MRS so the equation becomes true. Remember, decreasing $MU$ means buying more of it.
+
+When two goods are perfect substitutes, the consumer will consume the good with a lower price.
+
+When two goods are perfect complements, they are consumed in the same rate in relation with each other.
+
+# Consumer Choice 2
+An individual's demand curve can be plotted by finding the optimal consumption choice at different prices of a good. You will get data for price to quantity demanded, which can be plotted.
+- Quantity demanded is higher when price is lower
