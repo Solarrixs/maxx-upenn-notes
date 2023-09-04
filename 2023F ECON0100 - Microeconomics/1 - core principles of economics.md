@@ -47,3 +47,8 @@ There can be perfect complements of marginal utility - the utility of one good d
 A bad good leads to a positive indifference curve.
 
 Anything within the slope is feasible and obtainable. The line is called the budget line, and shows all consumption bundles available.
+- Budget lines can shift up and down depending on price of goods or change in income
+
+Combine the budget line and the indifference curve to find out the optimal consumption choice. The optimal bundle is under the budget line but on the highest indifference curve. The indifference curve should be tangent to the budget line.
+- $MRS_{xy} = \frac{MU_{x}}{MU_{y}} = \frac{P_{x}}{P_{y}}$
+- The ratio of price of goods someone buys should equal the marginal rate of substitution
