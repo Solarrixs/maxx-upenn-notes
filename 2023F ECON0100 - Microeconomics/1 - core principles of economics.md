@@ -74,4 +74,5 @@ A market demand curve plots the total quantity of a good demanded by all potenti
 Changes in change occurs when:
 - taste and preferences change
 - income
-- 
+- prices of related goods - substitute and complementary goods
+- buyer expectations about future prices
