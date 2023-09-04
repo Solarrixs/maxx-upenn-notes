@@ -43,3 +43,5 @@ Thus, $MRS_{xy} = \frac{MU_{x}}{MU_{y}}$
 There can be perfect substitutes of marginal utility - there is a constant slope and not a convex slope.
 
 There can be perfect complements of marginal utility - the utility of one good depends on it being used with another good. These are L shaped. Consumer's utility only rises when they have more of both goods in  the same proportion. The $MRS_{xy}$ becomes either infinity, 0, or undefined.
+
+A bad good leads to a positive indifference curve.
