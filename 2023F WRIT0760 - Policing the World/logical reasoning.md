@@ -29,7 +29,6 @@ Reasons are explanations that support the proposition while evidence are concret
 Proposition and reason statements should be combined to form a coherent sentence. This tests for the validity and coherence of an argument.
 
 **For example:**
-
 Proposition: We should plant more trees
 - Reason 1: Because trees help clean toxins from the air
 - Reason 2: Because trees improve mental health
@@ -47,6 +46,13 @@ Some tips for good logical structure:
 - Reasons are general statements that repeat the main phrase of the proposition
 - Reasons directly connect to the proposition
 - Ground and validate reasons with evidence.
+
+## Constructing Meaningful Propositions
+1. Identify operative terms and limit them as much as possible
+2. Remove bifurcated propositions
+3. Identify any implied relationships but unstated
+4. Avoid needless words. Open with a subject and active verb
+5. Identify if it is a justificatory or explanatory statement
 
 ## Premises
 Premises are facts, beliefs, values, studies, or assumptions that you and your audience agrees on. A mutual shared ground.
