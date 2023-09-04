@@ -76,3 +76,4 @@ Changes in change occurs when:
 - income
 - prices of related goods - substitute and complementary goods
 - buyer expectations about future prices
+- number of buyers
