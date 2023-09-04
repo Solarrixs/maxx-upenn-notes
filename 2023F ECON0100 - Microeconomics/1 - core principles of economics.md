@@ -61,3 +61,9 @@ When two goods are perfect complements, they are consumed in the same rate in re
 # Consumer Choice 2
 An individual's demand curve can be plotted by finding the optimal consumption choice at different prices of a good. You will get data for price to quantity demanded, which can be plotted.
 - Quantity demanded is higher when price is lower
+
+Demand curve is also the marginal benefit curve
+- Diminishing marginal benefit explains why your demand curve is downward sloping
+- Marginal benefit is the maximum amount a person is willing to pay for one more unit of good
+
+There is also a change in demand - at each price level, the quantity demanded changes
