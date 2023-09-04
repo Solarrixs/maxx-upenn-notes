@@ -45,3 +45,5 @@ There can be perfect substitutes of marginal utility - there is a constant slope
 There can be perfect complements of marginal utility - the utility of one good depends on it being used with another good. These are L shaped. Consumer's utility only rises when they have more of both goods in  the same proportion. The $MRS_{xy}$ becomes either infinity, 0, or undefined.
 
 A bad good leads to a positive indifference curve.
+
+Anything within the slope is feasible and obtainable. The line is called the budget line, and shows all consumption bundles available.
