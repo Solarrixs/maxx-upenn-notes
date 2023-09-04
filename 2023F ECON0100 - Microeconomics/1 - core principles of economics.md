@@ -30,5 +30,16 @@ The positive change in utility is called marginal utility - the more the better.
 
 An indifference curve shows combinations of goods that provide an equal level of utility or satisfaction. To simplify, assume that there are only two goods a consumer can choose between. It's similar to a PPC curve.
 - It has a negative slope because taking away marginal utility is a negative thing
-- It is convex because marginal utility decreases as quantity consumed increases. So the more you have something, the less you value each additional thing. This is called the marginal rate of substitution. $MRS_{xy} = \frac{\Delta Q_{y}}{\Delta Q_{x}}$, read as MRS of X for Y.
+- It is convex (flatter curve as we move down and to the right) because marginal utility decreases as quantity consumed increases. So the more you have something, the less you value each additional thing. This is called the marginal rate of substitution. $MRS_{xy} = \frac{\Delta Q_{y}}{\Delta Q_{x}}$, read as MRS of X for Y.
 - Since everyone has a different preference and utility value, indifference curves have the same general shape but aren't exactly the same
+- An indifference curve lying on the right and above another curve reflects higher utility levels
+- Intersecting indifference curves are impossible because the same bundle cannot provide 2 different levels of utility to an individual
+
+Marginal utility can be written as $MU_{x}$ and $MU_{y}$ for a bundle and the quantity of an item in a bundle is written as $\Delta Q_{x}$ and $\Delta Q_{y}$. Thus, $-MU_{x} \times \Delta Q_{x} = MU_{y}\times\Delta Q_{y}$ in an indifference curve.
+
+Thus, $MRS_{xy} = \frac{MU_{x}}{MU_{y}}$
+- As we move down the curve, X is decreasing while Y is increasing, meaning that the ratio of $MU_{x}:MU_{y}$ is decreasing and thus it is a diminishing marginal utility and a convex curve.
+
+There can be perfect substitutes of marginal utility - there is a constant slope and not a convex slope.
+
+There can be perfect complements of marginal utility - the utility of one good depends on it being used with another good. These are L shaped. Consumer's utility only rises when they have more of both goods in  the same proportion. The $MRS_{xy}$ becomes either infinity, 0, or undefined.
