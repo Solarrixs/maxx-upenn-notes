@@ -50,6 +50,7 @@
   "userIgnoreFilters": [
     "000 System Files/Templates/"
   ],
-  "showInlineTitle": true,
-  "vimMode": false
+  "showInlineTitle": false,
+  "vimMode": false,
+  "propertiesInDocument": "visible"
 }

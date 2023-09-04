@@ -20,6 +20,7 @@ Critical writing and thinking assumes that people and readers are sane, rational
 Thus, informal logical skills will help identify flaws in people's thinking and reasoning, and guide your thinking, writing, and speaking.
 
 # Reasoning Structure
+
 ## Propositions, Reasons, and Evidences
 A typical reasoning structure is a tree that starts with a main premise (facts or beliefs that readers generally accept), your proposition of a new idea you wish to prove or demonstrate, which then branches into multiple reasons with multiple evidences behind each reason.
 
@@ -48,7 +49,7 @@ Some tips for good logical structure:
 - Ground and validate reasons with evidence.
 
 ## Premises
-Premises are facts, beliefs, values, studies, or assumptions that you and  your audience agrees on. A mutual shared ground.
+Premises are facts, beliefs, values, studies, or assumptions that you and your audience agrees on. A mutual shared ground.
 
 Premises are usually established in the introduction.
 
