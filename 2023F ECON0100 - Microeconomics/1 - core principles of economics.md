@@ -77,3 +77,8 @@ Changes in change occurs when:
 - prices of related goods - substitute and complementary goods
 - buyer expectations about future prices
 - number of buyers
+
+consumer surplus is the gain you get from buying something at a price below your willingness to pay, which is your marginal benefit
+- consumer surplus = marginal benefit - price
+
+total consumer surplus is the integral of a demand curve
