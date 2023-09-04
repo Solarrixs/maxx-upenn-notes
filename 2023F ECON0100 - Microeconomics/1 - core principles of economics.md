@@ -22,3 +22,10 @@ Most economic models are positive economics:
 There are also normative economics:
 1. asks whether something should happen
 2. reflects subjective value judgement such as ethical positions
+
+# Consumer Choice
+To analyze customer behavior, we can assume that everyone is trying to maximize their personal measure of satisfaction gained from the consumption of goods and services. This is called consumer's utility.
+
+The positive change in utility is called marginal utility - the more the better. However, there is diminishing returns in the marginal utility the more you get. This is called diminishing marginal utility.
+
+An indifference curve shows combinations of goods that provide an equal level of utility or satisfaction. To simplify, assume that there are only two goods a consumer can choose between.
