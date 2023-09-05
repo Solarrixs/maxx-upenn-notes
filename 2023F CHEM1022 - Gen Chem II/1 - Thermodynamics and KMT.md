@@ -62,3 +62,4 @@ $KE_{\text{avg}} = \dfrac{3}{2}RTn$
 - $\Delta T = \frac{RV}{nR}$
 
 Heat capacity is the minimum amount of heat to increase the temperature by 1 Kelvin of a 1 mol substance at constant volume
+
