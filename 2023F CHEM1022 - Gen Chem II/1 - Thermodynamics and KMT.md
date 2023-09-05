@@ -56,10 +56,23 @@ Assumptions:
 3. No intermolecular forces between particles
 4. Motion (KE) is random proportion to the temperature of the gas
 
-$KE_{\text{avg}} = \dfrac{3}{2}RTn$
+$KE_{\text{avg}} = \dfrac{3}{2}RTn$ in joules and average $KE$ only depends on temperature
 - This is only for ideal gases
 - $\Delta KE = \dfrac{3}{2}R\Delta Tn$
 - $\Delta T = \frac{RV}{nR}$
 
 Heat capacity is the minimum amount of heat to increase the temperature by 1 Kelvin of a 1 mol substance at constant volume
+- Heat capacity for ideal gases are different under constant pressure and under constant volume (non-constant pressure).
 
+## Root Mean Square Speed
+$\mu_{\text{rms}} = \sqrt{\dfrac{3RTn}{M_{w}}}$ in m/s and only depends on molar mass and temperature
+- Divide the molar mass by 1000 beforehand!
+- R = 8.314
+
+$P = \dfrac{nM_{w}\mu^2}{3v}$
+
+Pressure depends on:
+- speed - higher root mean square speeds is higher collisional frequency
+- moles of molecules - more moles means more collisions
+- volume of container - less volume means more collisions
+- molecular weights - more mass means more impact of collisions
