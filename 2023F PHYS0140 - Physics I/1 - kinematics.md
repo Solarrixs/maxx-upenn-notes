@@ -21,4 +21,4 @@ $$
 \text{Speed} = |v| = \sqrt{ v_{x}^2 + v_{y}^2}
 $$
 
-Acceleration can be broken down into Normal and Tangential components: $a_{\parallel} \text{ and } a_{\perp}$.
+Acceleration can be broken down into Normal and Tangential components: $a_{\parallel}$ (speed) and $a_{\perp}$ (direction)\.
