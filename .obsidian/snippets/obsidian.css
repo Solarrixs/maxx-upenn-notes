@@ -55,20 +55,20 @@
 }
 
 /*100 Archives*/
-.nav-folder-title[data-path="100 Archives"] {
+.nav-folder-title[data-path="000 Archives"] {
     color: var(--f-a2);
     background: var(--f-back2) !important;
     border-bottom: 2px solid var(--f-a);
 }
-.nav-folder-title[data-path*="100 Archives"],
-.nav-folder-title[data-path*="100 Archives"] + .nav-folder-children,
-.nav-file-title[data-path*="100 Archives"] {
+.nav-folder-title[data-path*="000 Archives"],
+.nav-folder-title[data-path*="000 Archives"] + .nav-folder-children,
+.nav-file-title[data-path*="000 Archives"] {
     border-left: 3px solid var(--f-a2);
     margin-left: 0px;
 }
-.nav-folder-title[data-path*="100 Archives"]:hover,
-.nav-folder-title[data-path*="100 Archives"] + .nav-folder-children:hover,
-.nav-file-title[data-path*="100 Archives"]:hover {
+.nav-folder-title[data-path*="000 Archives"]:hover,
+.nav-folder-title[data-path*="000 Archives"] + .nav-folder-children:hover,
+.nav-file-title[data-path*="000 Archives"]:hover {
     border-color: var(--f-f);
 }
 
