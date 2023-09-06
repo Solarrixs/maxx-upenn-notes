@@ -5,8 +5,11 @@ tags:
 ---
 
 Heat is random molecular motion, represented by $\delta q = nC \times \Delta T$
-- $n\frac{3}{2}R\Delta T$ for heating at **constant pressure** (in moveable containers)
-- $n\frac{5}{2}R\Delta T$ for heating at **non-constant pressure** (in rigid containers)
+- C is [[heat capacity]]
 
+ For heating [[ideal gases]] at **constant pressure** (in moveable containers), use $n\frac{3}{2}R\Delta T$. In **constant volume** (in rigid containers), use $n\frac{5}{2}R\Delta T$ .
+- & This is because when you heat gas at constant pressure, some of the heat [[energy]] you supply does [[work]] to expand against the external pressure.
+
+$C_{p}$​ is greater than $C_{v}$​ because at constant pressure, the system needs extra energy to do work on its surroundings (by expanding) in addition to increasing its internal energy (raising its temperature).
 
 $\delta q$ is **positive** if the system gains heat and **negative** if the system loses heat.
