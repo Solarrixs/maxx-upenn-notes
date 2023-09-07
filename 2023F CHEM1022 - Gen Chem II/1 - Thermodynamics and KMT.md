@@ -15,3 +15,5 @@ A similar concept to heat you should know is [[heat capacity]].
 [[ideal gases|Ideal gases]] follow certain [[ideal gas assumptions]] that always follows the [[ideal gas law]]. The [[kinetic energy]] of ideal gases only depend on temperature. However, the [[root mean square speed]] of a gas depend on temperature and molar mass.
 
 In a cylinder, ideal gases also exert a [[ideal gas pressure|pressure]].
+
+# Enthalpy
