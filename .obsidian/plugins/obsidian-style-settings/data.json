@@ -129,7 +129,7 @@
   "minimal-style@@link-unresolved-opacity": 0.7,
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
   "minimal-style@@h4-size": "1em",
-  "minimal-style@@h3-size": "1em",
+  "minimal-style@@h3-size": "1.25em",
   "supercharged-links@@65c1-9446-color": "#9067D9",
   "supercharged-links@@65c1-9446-weight": "normal",
   "supercharged-links@@65c1-9446-before": "🎴",

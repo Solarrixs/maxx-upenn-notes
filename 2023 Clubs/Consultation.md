@@ -36,7 +36,7 @@ Preface questions with a statement describing where you are going with your ques
 
 If you get stuck, summarize what you have found out up to that point. That helps the interviewer trace your line of thought and buys you time to think about where to go next.
 
-## Case Mocks
+# Case Mocks
 1. Start practicing interviews with another first-year student.
 2. Take turns being the interviewer and recruit.
 3. Interviewer should read the question and solution in full before starting.
@@ -50,7 +50,47 @@ If you get stuck, summarize what you have found out up to that point. That helps
 1. Consider practicing by creating cases based on your own work experience.
 2. Interviewers may ask you to solve a current business problem related to your work experience in later interview rounds.
 
-## Fit Mocks
+## Case Frameworks
+### Income Statements - to analyze changes in profitability
+- Component factors: revenue, cost of goods sold, operating expenses
+- **increasing unit price**: demand elasticity, market power, product moat, justification of price premium
+- **increasing sales**: increase sales to either current or new customers with existing or new products
+- **decrease costs**: what costs are fixed vs variable, the extent and time frame to which costs are avoidable, how costs are allocated
+- ex If profits are declining because of a fall in revenues, you may want to focus on marketing issues; if profits are declining because of rising expenses, you may want to look into operations and financing issues.
+
+### Fixed vs. Variable Costs - analyze cost structures of a company to assess scale and scope
+- Understand cost structure of a company:
+	- ex Capital intensive industries such as manufacturers typically have high fixed costs which makes capacity utilization a crucial part of their business. When fixed costs are high, there are often opportunities for economies of scale or scope.
+	- Understand what the important input factors are for a company, and whether these are likely to be fixed or variable
+
+### Four C's - analyze a company and its environment
+**Customers:**
+- What do customers want and need?
+- How do we plan to satisfy their needs?
+- What aspects are most important to them?
+- What price are they willing to pay?
+
+**Competitors:**
+- What strategies are competitors employing?
+- What are their strengths and weaknesses?
+- How are they addressing customer demands?
+- What is their cost structure?
+
+**Capacity:**
+- Describe your company's financial, organizational, production, and marketing capabilities.
+- Identify your company's strengths and weaknesses in these areas.
+
+**Costs:**
+- Explain your cost structure.
+- Detail the method for applying overhead.
+
+### SWOT
+Strength, weaknesses, opportunities, threats
+
+### Four P's - useful in new products or market developments
+Product price place promotion used to develop a marketing plan
+
+# Fit Mocks
 **Personal Background:**
 - Tell me about yourself.
 - Walk me through your resume.
