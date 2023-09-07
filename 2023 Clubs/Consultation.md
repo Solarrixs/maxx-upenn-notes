@@ -90,6 +90,11 @@ Strength, weaknesses, opportunities, threats
 ### Four P's - useful in new products or market developments
 Product price place promotion used to develop a marketing plan
 
+### 7S Competitive Advantage
+See if a company has unique:
+- Strategy, Structure, System - Hardware
+- Style, Staff, Skills, Shared Values - Software
+
 # Fit Mocks
 **Personal Background:**
 - Tell me about yourself.
