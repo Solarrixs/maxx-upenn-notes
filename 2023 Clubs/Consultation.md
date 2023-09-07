@@ -15,7 +15,7 @@ tags:
 Case study standard form:
 - Info about case + broad objective
 - How would you solve it - diving specifically using math & data
-- Summarize
+- Summarize (be extremely concise here and answer the beginning question)
 
 Ask open-ended questions that define the boundaries of the opportunity.
 - ex "What results do you want to see from this management training?"
@@ -33,6 +33,8 @@ Interviewers are trying to determine:
 
 Preface questions with a statement describing where you are going with your questioning.
 - ex “Now I‟d like to ask some questions about the client‟s distribution channels.”
+
+If you get stuck, summarize what you have found out up to that point. That helps the interviewer trace your line of thought and buys you time to think about where to go next.
 
 ## Case Mocks
 1. Start practicing interviews with another first-year student.
