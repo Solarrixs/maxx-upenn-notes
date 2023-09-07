@@ -31,6 +31,9 @@ Interviewers are trying to determine:
 - Do you have analytical skills and logical reasoning to solve problems? Can you break problems down into components and ask relevant questions to achieve a reasonable conclusion?
 - Demonstrate composure, maturity, and confidence. Be friendly and communicate with clear and concise language.
 
+Preface questions with a statement describing where you are going with your questioning.
+- ex “Now I‟d like to ask some questions about the client‟s distribution channels.”
+
 ## Case Mocks
 1. Start practicing interviews with another first-year student.
 2. Take turns being the interviewer and recruit.
