@@ -11,3 +11,5 @@ Indifference curves has a negative slope because taking away [[marginal utility]
 - An undesirable good leads to a positive indifference curve
 
 The movement along an indifferent curve can be calculated with the [[marginal rate of substitution]].
+
+When two goods are perfect substitutes, the indifference curve is a straight line. When two goods are perfect complements, the indifference curve is an L shape.
