@@ -4,7 +4,7 @@ type: note
 tags: 
 ---
 
-At each price level, the quantity demanded changes.
+At each price level, the quantity demanded changes on the [[demand curve]].
 - The Law of Demand: quantity demanded rises when price falls
 
 Changes in demand occurs when:
