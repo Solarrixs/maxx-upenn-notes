@@ -5,9 +5,9 @@ tags:
 ---
 
 Combine the [[budget line]] and the [[indifference curve]] to find out the optimal consumption choice.
-- star The optimal bundle is under the budget line but on the highest indifference curve.
+- star The optimal bundle is when the indifference curve should be tangent (if slopes are equal) to the budget line.
 
-The optimal consumption bundle is when the indifference curve should be tangent (if slopes are equal) to the budget line. Thus:
+Thus:
 $$
 MRS_{xy} = \dfrac{MU_{x}}{MU_{y}} = \dfrac{P_{x}}{P_{y}}
 $$
