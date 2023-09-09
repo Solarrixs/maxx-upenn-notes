@@ -17,3 +17,4 @@ A similar concept to heat you should know is [[heat capacity]].
 In a cylinder, ideal gases also exert a [[ideal gas pressure|pressure]].
 
 # Enthalpy
+The heat change at constant pressure is [[enthalpy]].
