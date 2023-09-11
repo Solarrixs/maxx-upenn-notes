@@ -1,11 +1,10 @@
 ---
 date: 2023-09-11
 type: note
-tags:
-  - fix
+tags: []
 ---
 
-$\dfrac{\%\Delta Q_{D}}{\%\Delta P}$
+$\dfrac{\%\Delta Q_{D}}{\%\Delta \text{Income}}$
 
 - Income elasticity of demand is positive for normal goods (goods you buy more of when your income goes up) and is usually 1.
 - Income elasticity of demand is negative for inferior goods.

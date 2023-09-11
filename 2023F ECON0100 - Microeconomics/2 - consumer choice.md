@@ -19,12 +19,9 @@ There is also a [[change in demand]] and [[consumer surplus]]. Customer income w
 # Price Elasticity
 The [[price elasticity of demand]] measures the responsiveness of quantity demanded to price changes. The [[cross-price elasticity of demand]] measures how responsive the demand of one good is to price changes of another. The [[income elasticity of demand]] measures how responsive your demand for a good is to changes in your income.
 
-If the price of good A falls, then substitution and income effects occur:
-- If the price of good A falls, then one can achieve the same level of utility by substituting good A for good B.
-- If the price of good A falls, then one has more purchasing power for good A and will obtain a higher level of utility as one can buy more of good A (if it is a normal good and not an inferior good).
-
-Understanding price elasticity for a good can determine pricing and total revenues. Given that revenue = $P \times Q$ and $E_{D} \times \% \text{ change in price}$ = $\% \text{ change in } Q_{D}$.
-- star Total revenue and elasticity changes along a linear demand curve even if the slope is constant.
+Understanding price elasticity for a good can determine pricing and total revenues. Given that seller revenue = consumer expenditure = $P \times Q$ and $E_{D} \times \% \text{ change in price}$ = $\% \text{ change in } Q_{D}$.
+- star Total revenue and elasticity changes along a linear demand curve even if the slope is constant. As elasticity = $\Delta Q$/$Q_{\text{average}}$ / $\Delta P$/$P_{\text{average}}$ , you can calculate that higher points on a slope have elastic demand while lower points on a slope have inelastic demand.
 
 When 2 [[demand curve|demand curves]] cross at the same point, the flatter line is the more [[elastic demand]] curve, and the steeper line is the more [[inelastic demand]] curve.
 
+Change in consumption for a good is caused by [[substitution effects]] and [[income effects]].

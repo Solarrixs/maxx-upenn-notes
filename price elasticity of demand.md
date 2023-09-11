@@ -24,6 +24,6 @@ $\Delta\% = \dfrac{\text{final - initial}}{average}$
 - ex $E_{D} = \frac{\%\Delta Q}{\%\Delta P} = \frac{20\%}{-5\%} = -4$
 
 ## Determinants
-1. Availability of substitutes. Greater substitutes makes it easier to switch consumption of goods in response to a price increase, so greater elasticity.
-2. If the amount spent on a good makes a large % of one's income, the person will be more sensitive to a change in price.
+1. Availability of substitutes. More substitutes makes it easier to switch consumption of goods in response to a price increase, so there is a greater elasticity.
+2. If the amount spent on a good makes a large % of one's income, the person will be more sensitive to a change in price and so there is greater elasticity.
 3. The longer we have to adjust to a price change, the more elastic demand will be.
