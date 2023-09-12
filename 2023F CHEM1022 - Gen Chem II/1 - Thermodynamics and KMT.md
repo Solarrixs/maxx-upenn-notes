@@ -18,3 +18,13 @@ In a cylinder, ideal gases also exert a [[ideal gas pressure|pressure]].
 
 # Enthalpy
 The heat change at constant pressure is [[enthalpy]].
+
+Enthalpy can be measured in coffee cup and bomb calorimeters.
+
+| Coffee Cup | Bomb |
+| --- | --- |
+| Constant Pressure | Constant Volume |
+| Surroundings is water | Surroundings is water + bomb |
+| $-q_{\text{rxn}} = q_{\text{water}}$ | $-q_{\text{rxn}} = q_{\text{water}}+q_{\text{bomb}}$ |
+| $q=mC\Delta T$ | $q=C\Delta T$ |
+
