@@ -43,4 +43,4 @@ Understanding price elasticity for a good can determine pricing and total revenu
 
 When 2 [[demand curve|demand curves]] cross at the same point, the flatter line is the more [[elastic demand]] curve, and the steeper line is the more [[inelastic demand]] curve.
 
-Change in consumption for a good is caused by [[substitution effects]] and [[income effects]].
+When a price of a good changes, there is [[substitution effects]] (change in price ratio) and [[income effects]] (a change in purchasing power shifts the budget line), resulting in a [[total effect]].

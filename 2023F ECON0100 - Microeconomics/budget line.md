@@ -17,3 +17,5 @@ y=\frac{I}{P_{y}}-\frac{P_{x}}{P_{y}}
 $$
 
 - X and Y intercepts are $\dfrac{I}{P_{y}}$ and $\dfrac{I}{P_{x}}$ and the slope is $-\dfrac{P_{x}}{P_{y}}$
+
+See: [[total effect|phantom budget line]]

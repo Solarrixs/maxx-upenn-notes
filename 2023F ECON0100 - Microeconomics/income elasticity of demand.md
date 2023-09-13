@@ -6,6 +6,10 @@ tags: []
 
 $\dfrac{\%\Delta Q_{D}}{\%\Delta \text{Income}}$
 
-- Income elasticity of demand is positive for normal goods (goods you buy more of when your income goes up) and is usually 1.
-- Income elasticity of demand is negative for inferior goods.
-- Luxury goods are normal goods that have a large income elasticity of demand, while necessities have small income elasticities.
+The income elasticity of demand measures how sensitive the quantity demanded of a good is to income change.
+
+$E^D_{I}>0$ for normal goods (goods you buy more of when your income goes up).
+- Luxury goods: $1<E^D_{I}$
+- Necessities: $0<E^D_{I}<1$
+
+$E^D_{I}<0$ for inferior goods.
