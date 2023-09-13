@@ -4,6 +4,7 @@ type: MOC
 tags: []
 ---
 
+# Kinematics
 Kinematic formulas:
 $$
 v_{\text{avg}} = \frac{\Delta r}{\Delta t}
@@ -26,5 +27,12 @@ Acceleration can be broken down into Normal and Tangential components: $a_{\para
 Velocity is tangent to position vector.
 Acceleration is perpendicular to position vector.
 
+# Newton's Laws
+1. Object in motion or rest stays in motion or rest unless acted by an external force
+2. $\Sigma F = ma$ (gravity, normal, friction, tension)
+3. Opposite and equal reactions on different objects
 
+## Tips to Solve Systems
+1. Find forces on all objects and write $\Sigma F$
+2. Determine any acceleration
 

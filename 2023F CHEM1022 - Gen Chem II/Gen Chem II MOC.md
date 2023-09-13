@@ -17,7 +17,7 @@ A similar concept to heat you should know is [[heat capacity]].
 In a cylinder, ideal gases also exert a [[ideal gas pressure|pressure]].
 
 # Enthalpy
-The heat change at constant pressure is [[enthalpy]].
+The heat change at constant pressure is [[enthalpy]]. There is also [[standard enthalpy of formation]] and [[heat of reaction]].
 
 Enthalpy can be measured in coffee cup and bomb calorimeters.
 
