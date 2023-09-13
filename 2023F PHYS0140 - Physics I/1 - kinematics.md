@@ -22,3 +22,4 @@ $$
 $$
 
 Acceleration can be broken down into Normal and Tangential components: $a_{\parallel}$ (speed) and $a_{\perp}$ (direction)\c.
+

@@ -4,6 +4,26 @@ type: MOC
 tags: 
 ---
 
+In short, economics is the study of how people make choices under the [[scarcity principle]] and its results. People can make choices based on the [[cost-benefit principle]], avoiding [[sunk costs]], and applying the [[marginal principle]] with the overall goal of obtaining an [[economic surplus]].
+
+The [[scarcity principle]] causes each decision to have an [[opportunity cost]].
+
+Thus, people must make choices to best use the [[scarce resources]] available.
+
+As a whole, society relies on the [[interdependence principle]] to make decisions beneficial for all of society.
+
+# Economic Models
+- ! Unknown if this is studied in class
+Economic models only focus on the important things and ignores all the minor details.
+
+Most economic models are positive economics:
+1. cause-and-effect explanations of economic relationships
+2. empirical (numerical) dimension where data can confirm or refute propositions
+
+There are also normative economics:
+1. asks whether something should happen
+2. reflects subjective value judgement such as ethical positions
+
 # Consumer Choice
 Consumers face a **constrained optimization** problem to maximize [[consumer utility]]. The **positive** change in utility is called [[marginal utility]]. However, marginal utility offers diminishing returns.
 
@@ -14,7 +34,6 @@ A person can only obtain bundles of goods on an indifference curve if it is with
 An individual's and market [[demand curve]] can be plotted by finding the optimal consumption choice at different prices of a good.
 
 There is also a [[change in demand]] and [[consumer surplus]]. Customer income will also change whether customers buy normal goods or inferior goods.
-
 
 # Price Elasticity
 The [[price elasticity of demand]] measures the responsiveness of quantity demanded to price changes. The [[cross-price elasticity of demand]] measures how responsive the demand of one good is to price changes of another. The [[income elasticity of demand]] measures how responsive your demand for a good is to changes in your income.
