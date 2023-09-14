@@ -21,6 +21,19 @@ Since I come from a bioengineering and computer science background, I have the t
 
 I'm also sure that the people who make up Spire will all have a similar mindset, and there I might potentially find a co-founder! There's probably no better place to meet other startup-focused students at Penn than at Spire.
 
+**What problem are you solving and what is your solution**
+Starting my 1st year at Penn, I want to work on HabitDuo - a collaborative habit tracking app. All existing habit tracking apps make habit tracking as an individual journey, and countless studies on the brain tells us that it is not. My goal is to turn habit tracking collaborative - making it more obtainable and fun.
+
+HabitDuo will make sharing habits and keeping your friends accountable a core feature of the app. Similar to Snapchat, users will post updates whenever their habit is achieved.
+
+**What is your core value proposition to consumers? What is your market segment?**
+HabitDuo aims to transform the habit-tracking journey from a solo endeavor to a collaborative and engaging experience. Its distinctive feature is leveraging snapchat-like social connectivity to make habit formation more attainable and fun.
+
+The market segment I expect is expansive. It can apply to almost any age group (young students to professionals), as everyone has a habit they want to start. Proof? Everyone makes New Year Resolutions.
+
+More specifically, all students, people wanting to get into gym, personal development, mental health groups, etc.
+
+**How is your solution better than the more competitive alternative?**
 
 
 
