@@ -34,6 +34,4 @@ The market segment I expect is expansive. It can apply to almost any age group (
 More specifically, all students, people wanting to get into gym, personal development, mental health groups, etc.
 
 **How is your solution better than the more competitive alternative?**
-
-
-
+Our solution, HabitDuo, stands out because it's the first app to focus on collaboration and social accountability in a habit-tracking app. While most other apps are centered on individual habit tracking, HabitDuo offers a new approach by emphasizing group support and shared progress. This approach matches what many studies suggest: that working together can help build and maintain habits. In short, HabitDuo's unique feature makes it different and more effective than other apps out there.
