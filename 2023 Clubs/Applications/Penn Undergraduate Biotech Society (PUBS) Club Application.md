@@ -4,4 +4,9 @@ type: note
 tags: 
 ---
 
-Consulting and Podcast/Finance
+**Tell us about a time you took initiative or demonstrated leadership**
+SAme prompt
+
+**Explain why you are interested in the finance committee and provide us with any relevant experiences.**
+
+**Explain why you are interested in the consulting committee and provide us with any relevant experiences.**
