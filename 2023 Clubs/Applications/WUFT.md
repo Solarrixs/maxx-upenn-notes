@@ -10,3 +10,8 @@ With a background as a programmer, startup founder, and stock trader, I have a g
 
 ---
 
+For me, FinTech is a mix of tradition and innovation - infusing old commerce systems with digital technology, focusing on convenience and accessibility.
+
+Take Robinhood. Although it received major flak during the GME squeeze, Robinhood pioneered commission-free trades for all, forcing other brokerage firms to eliminate their trading commissions. Now, stock trading is convenient and accessible to average traders like you and me.
+
+It's innovations like this that have made me incredibly passionate about fintech. As someone invested in entrepreneurship, I hope to leverage DeFi crowdfunding technology to fund student research projects, a problem I personally faced.
