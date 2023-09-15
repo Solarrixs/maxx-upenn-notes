@@ -30,3 +30,4 @@ Enthalpy can be measured in coffee cup and bomb calorimeters.
 
 
 # Entropy
+The measurement of disorder is [[entropy]].

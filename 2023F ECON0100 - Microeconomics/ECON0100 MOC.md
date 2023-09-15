@@ -52,8 +52,6 @@ When 2 [[demand curve|demand curves]] cross at the same point, the flatter line 
 ## Price Changes Lead to Total Effects
 When a price of a good changes, there is [[substitution effects]] (change in price ratio) and [[income effects]] (a change in purchasing power shifts the budget line), resulting in a [[total effect]]. Either the income effect or the substitution effect dominates the total effect based on the changes in consumptions reflected by the goods. A special case of total effect is a [[griffen good]].
 
-#fix add graph/chart of Good X total effects
-
 # Behavioral Economists
 Standard economists relies on the assumption that people are rational. However, psychology shows that people are predictably irrational. Thus, behavioral economics was born.
 

@@ -21,6 +21,14 @@ $$
 $$
 \text{Speed} = |v| = \sqrt{ v_{x}^2 + v_{y}^2}
 $$
+$$
+\text{Height} = \frac{v^2\sin^2\theta}{2g}
+$$$$
+\text{Time} = \frac{2v\sin\theta}{g}
+$$
+$$
+\text{Range} = \frac{v^2\sin 2\theta}{g}
+$$
 
 Acceleration can be broken down into Normal and Tangential components: $a_{\parallel}$ (speed) and $a_{\perp}$ (direction).
 
