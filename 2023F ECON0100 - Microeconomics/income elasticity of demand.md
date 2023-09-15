@@ -4,7 +4,7 @@ type: note
 tags: []
 ---
 
-$\dfrac{\%\Delta Q_{D}}{\%\Delta \text{Income}}$
+$IE_{D} = \dfrac{\%\Delta Q_{D}}{\%\Delta \text{Income}}$
 
 The income elasticity of demand measures how sensitive the quantity demanded of a good is to income change.
 
