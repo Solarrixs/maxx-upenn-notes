@@ -4,8 +4,6 @@ type: note
 tags: 
 ---
 # To-Do
-
-
 **[Wharton Undergraduate Entrepreneurship Club (WUEC)](https://pennclubs.com/club/wharton-undergraduate-entrepreneurship-club)**
 [Engineering Consultants at Penn](https://pennclubs.com/club/penn-engineering-consultants/application/679)
 [Penn Undergraduate Biotech Society (PUBS)](https://pennclubs.com/club/pubs)
