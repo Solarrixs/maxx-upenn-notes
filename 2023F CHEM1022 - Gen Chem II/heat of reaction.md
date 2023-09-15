@@ -4,5 +4,5 @@ type: note
 tags: 
 ---
 
-$\Delta H_{\text{rxn}} = \Sigma \text{ products-reactants}$
+$\Delta H_{\text{rxn}} = \Sigma n \Delta H_{f}\text{ products-reactants}$
 - This scales with moles of products and reactants

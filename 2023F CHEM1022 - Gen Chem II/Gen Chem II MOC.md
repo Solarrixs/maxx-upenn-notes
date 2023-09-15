@@ -17,7 +17,7 @@ A similar concept to heat you should know is [[heat capacity]].
 In a cylinder, ideal gases also exert a [[ideal gas pressure|pressure]].
 
 # Enthalpy
-The heat change at constant pressure is [[enthalpy]]. There is also [[standard enthalpy of formation]] and [[heat of reaction]].
+The heat change at constant pressure is [[enthalpy]]. There is also [[standard enthalpy of formation]] and [[heat of reaction]].  The heat of reaction relates with [[bond dissociation energy]]
 
 Enthalpy can be measured in coffee cup and bomb calorimeters.
 
@@ -28,3 +28,5 @@ Enthalpy can be measured in coffee cup and bomb calorimeters.
 | $-q_{\text{rxn}} = q_{\text{water}}$ | $-q_{\text{rxn}} = q_{\text{water}}+q_{\text{bomb}}$ |
 | $q=mC\Delta T$ | $q=C\Delta T$ |
 
+
+# Entropy
