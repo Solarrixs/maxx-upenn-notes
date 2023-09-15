@@ -14,7 +14,7 @@ $E_{D}$ measures the responsiveness of quantity demanded to price changes.
 - If $E_{D} = \infty$: perfectly elastic demand.
 - If $E_{D} = 0$: perfectly inelastic demand.
 
-## Midpoint (Arc Elasticity)
+## Midpoint Average
 To calculate $E_{D}$, you need to take the percent change by taking the price or quantity change divided by the average value of price or quantity times 100.
 
 $\Delta\% = \dfrac{\text{final - initial}}{average}$
