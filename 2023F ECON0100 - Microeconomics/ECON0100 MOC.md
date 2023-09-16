@@ -63,4 +63,9 @@ Resources like labor and capital equipment to produce goods and services are inp
 ## Total Product of Labor
 The [[marginal product of labor]] is the slope of the [[total product of labor]] graph, which allows one to determine the optimal amount of laborers to hire before there is a diminishing marginal return on labor.
 
-The [[average product of labor]] measures the productivity of workers.
+The [[average product of labor]] measures the productivity of workers and holds a special relationship with the marginal product of labor:
+- When $AP_{L}$​ is increasing: $MP_{L} > AP_{L}$
+- When $AP_{L}$​ is decreasing: $MP_{L} < AP_{L}$
+- When $AP_{L}$​ is constant because $AP_{L}$ is at a maximum: $MP_{L} = AP_{L}$
+
+The implication is that when a more productive worker is hired, average product rises. Conversely, when a less productive worker is hired, average product falls.
