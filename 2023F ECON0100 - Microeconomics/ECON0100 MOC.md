@@ -84,6 +84,6 @@ Total cost is $TC = \text{VC + FC}$.
 
 The [[marginal cost]] is the additional cost of producing one more unit of output.
 
-There are three [[average costs]] of production.
+There are also three [[average costs]] of production. When all costs and output functions are combined, [[cost functions]] can be analyzed.
 
 When graphed, x-axis is the production and y-axis is the costs.
