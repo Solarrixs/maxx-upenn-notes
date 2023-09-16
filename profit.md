@@ -11,5 +11,4 @@ Total economic profit is the difference between total revenue and total cost. So
 Economic cost also includes implicit [[opportunity cost]], including the opportunity cost of forgone wages and forgone interest and is written as:
 - Economic profit = Revenue - Costs - Opportunity Cost
 
-For a level of profit $k$, the equation of the isoprofit curve is $P = ATC + \dfrac{k}{q}$
-
+Profit can be graphed onto the [[isoprofit curve]].

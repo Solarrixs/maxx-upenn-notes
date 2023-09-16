@@ -49,6 +49,15 @@ Understanding price elasticity for a good can determine pricing and total revenu
 
 When 2 [[demand curve|demand curves]] cross at the same point, the flatter line is the more [[elastic demand]] curve, and the steeper line is the more [[inelastic demand]] curve.
 
+### Midpoint Average
+To calculate $E_{D}$, you need to take the percent change by taking the price or quantity change divided by the average value of price or quantity times 100.
+
+$\Delta\% = \dfrac{\text{final - initial}}{average}$
+
+- ex If 9 pizzas are bought at $20.50 and 11 pizzas are bought at $19.50, then $-\frac{1}{20} \times 100 = -5\%$ is the percentage change in price
+- ex $\frac{2}{10} \times 100 = 20\%$ is the percentage change in quantity demanded
+- ex $E_{D} = \frac{\%\Delta Q}{\%\Delta P} = \frac{20\%}{-5\%} = -4$
+
 ## Price Changes Lead to Total Effects
 When a price of a good changes, there is [[substitution effects]] (change in price ratio) and [[income effects]] (a change in purchasing power shifts the budget line), resulting in a [[total effect]]. Either the income effect or the substitution effect dominates the total effect based on the changes in consumptions reflected by the goods. A special case of total effect is a [[griffen good]].
 
@@ -91,4 +100,4 @@ When graphed, x-axis is the production and y-axis is the costs.
 # Demand and Isoprofit curves
 For any individual product, the [[demand curve#Product Demand Curve|product demand curve]] determines the quantity of product purchased at each possible price. 
 
-All businesses aim to maximize [[profit]].
+All businesses aim to maximize [[profit]]. This can be done by choosing the [[isoprofit curve]] tangent to the [[demand curve]]. Profit maximization can also be done using [[marginal analysis]] on [[marginal revenue]].
