@@ -57,3 +57,10 @@ Standard economists relies on the assumption that people are rational. However, 
 
 Irrational decisions are based on the [[anchoring effect]], [[status quo bias]], and [[faulty discounting]].
 
+# Seller Choice
+Resources like labor and capital equipment to produce goods and services are inputs (factors of production), while goods and services are outputs. The relationship between quantity of inputs used and quantity of outputs produced is the production function.
+
+## Total Product of Labor
+The [[marginal product of labor]] is the slope of the [[total product of labor]] graph, which allows one to determine the optimal amount of laborers to hire before there is a diminishing marginal return on labor.
+
+The [[average product of labor]] measures the productivity of workers.
