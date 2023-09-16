@@ -60,8 +60,10 @@ Irrational decisions are based on the [[anchoring effect]], [[status quo bias]],
 # Seller Choice
 Resources like labor and capital equipment to produce goods and services are inputs (factors of production), while goods and services are outputs. The relationship between quantity of inputs used and quantity of outputs produced is the production function.
 
-## Total Product of Labor
+## Products of Labor
 The [[marginal product of labor]] is the slope of the [[total product of labor]] graph, which allows one to determine the optimal amount of laborers to hire before there is a diminishing marginal return on labor.
+
+When graphed, x-axis is the amount of labor and y-axis is the production.
 
 The [[average product of labor]] measures the productivity of workers and holds a special relationship with the marginal product of labor:
 - When $AP_{L}$​ is increasing: $MP_{L} > AP_{L}$
@@ -69,3 +71,19 @@ The [[average product of labor]] measures the productivity of workers and holds 
 - When $AP_{L}$​ is constant because $AP_{L}$ is at a maximum: $MP_{L} = AP_{L}$
 
 The implication is that when a more productive worker is hired, average product rises. Conversely, when a less productive worker is hired, average product falls.
+
+## Costs and Outputs
+Costs that do not vary with output are fixed. Fixed costs are either "avoidable costs" or "sunk costs," so total $FC = \text{sunk FC + avoidable FC}$.
+
+Costs that vary with output are variable costs. Usually, variable costs increases as production increases (but doesn't mean they increase in the same proportion).
+
+Total cost is $TC = \text{VC + FC}$.
+- Fixed costs is the distance between the total and variable cost curves
+
+![[total, variable, and fixed costs graph.png|400]]
+
+The [[marginal cost]] is the additional cost of producing one more unit of output.
+
+There are three [[average costs]] of production.
+
+When graphed, x-axis is the production and y-axis is the costs.
