@@ -56,3 +56,4 @@ When a price of a good changes, there is [[substitution effects]] (change in pri
 Standard economists relies on the assumption that people are rational. However, psychology shows that people are predictably irrational. Thus, behavioral economics was born.
 
 Irrational decisions are based on the [[anchoring effect]], [[status quo bias]], and [[faulty discounting]].
+
