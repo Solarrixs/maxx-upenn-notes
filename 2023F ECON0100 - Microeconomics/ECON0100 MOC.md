@@ -87,3 +87,8 @@ The [[marginal cost]] is the additional cost of producing one more unit of outpu
 There are also three [[average costs]] of production. When all costs and output functions are combined, [[cost functions]] can be analyzed.
 
 When graphed, x-axis is the production and y-axis is the costs.
+
+# Demand and Isoprofit curves
+For any individual product, the [[demand curve#Product Demand Curve|product demand curve]] determines the quantity of product purchased at each possible price. 
+
+All businesses aim to maximize [[profit]].
