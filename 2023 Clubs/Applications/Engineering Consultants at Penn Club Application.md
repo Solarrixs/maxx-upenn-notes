@@ -14,7 +14,11 @@ Biking through those eerily quiet, ghost-town-like streets during the pandemic w
 I remember the resilience of families amid uncertainty and fear. From children waving from their windows to elderly individuals who wrote "thank you," each encounter inspired me to keep going, no matter how boring or exhausting delivering medication became. Families battled uncertainty and fear in their homes; elderly patients fought loneliness and despair, and I was there: a frontline worker saving lives.
 
 **What is something not on your resume but that you feel is essential to your identity?**
-reef tanks
+Though my resume lists my professional experiences as a market analyst for startups and as a content manager at the largest US EdTech company, these experiences don't highlight my passion for diving deep into diverse fields like astrophotography, self-hosting, or reefing.
+
+Over the past 10 years, my reefing hobby has become deeply meaningful to me. Maintaining my 200-gallon reef tank sparked my interest in chemistry and engineering: from chemically turning baking soda into sodium carbonate to building an automated dosing system to dose said sodium carbonate to raise alkalinity, I've learned many hands-on skills from keeping my corals as healthy as possible.
+
+But it's more than just hands-on skills. My reef tank has become a way for me to help protect the marine environment. I aquaculture disease-resistant corals and "frag" them into smaller pieces to sell, which helps to reduce the demand for wild corals and protect the biodiversity in our oceans.
 
 **What would you want your legacy to be?**
 impact
