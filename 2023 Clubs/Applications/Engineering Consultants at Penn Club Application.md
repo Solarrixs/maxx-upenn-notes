@@ -21,7 +21,13 @@ Over the past 10 years, my reefing hobby has become deeply meaningful to me. Mai
 But it's more than just hands-on skills. My reef tank has become a way for me to help protect the marine environment. I aquaculture disease-resistant corals and "frag" them into smaller pieces to sell, which helps to reduce the demand for wild corals and protect the biodiversity in our oceans.
 
 **What would you want your legacy to be?**
-impact
+At 8 years old, the dire need for innovation in the Alzheimer's field became starkly apparent to me.
+
+My grandmother, who took care of me while my parents were at work, passed away from Alzheimer's. Her passing not only put immense emotional strain on our family but also propelled me into independence, where I had to bus to school and cook meals for myself until my parents returned home each day.
+
+This led me to conduct Alzheimer's research that spanned 5 years throughout middle and high school, in hopes of advancing progress towards an Alzheimer's cure. Even now, as a first-year student, I'm conducting research at Penn Med.
+
+I envision my legacy to be one where my contributions lead to the eradication of Alzheimer's, saving millions worldwide. I am driven to create a world where no child has to witness the heartbreaking moment of their grandparents forgetting their memories or their grandchildren's names.
 
 **Please describe an upcoming engineering industry and/or product you are excited about.**
 neuromorphic computing
