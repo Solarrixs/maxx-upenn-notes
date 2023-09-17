@@ -30,7 +30,9 @@ This led me to conduct Alzheimer's research that spanned 5 years throughout midd
 I envision my legacy to be one where my contributions lead to the eradication of Alzheimer's, saving millions worldwide. I am driven to create a world where no child has to witness the heartbreaking moment of their grandparents forgetting their memories or their grandchildren's names.
 
 **Please describe an upcoming engineering industry and/or product you are excited about.**
-neuromorphic computing
+One industry I'm excited about is neuromorphic computing, a field that has emerged in just the past 5 years. During my five years of research on neuron functionality and memory processes, I've come to realize that the human brain is an excellent blueprint for constructing powerful and energy-efficient computers. The brain learns extremely quickly and operates hyper-efficiently. For example, competing on Jeopardy requires only your brain to use 20 watts of energy, while IBM Watson needs a staggering 20,000 watts.
+
+Companies developing these chips, such as Intel Loihi, IBM TrueNorth, and Cortical Labs, can revolutionize our world. Major data servers' electricity costs will plummet by almost 200%, fostering advancements in big data capabilities. Artificial Intelligence, which emulates human neurons (hence, artificial neural networks), could operate on actual neuron circuits, making the technology even more potent. This would be a game-changer in sectors requiring high-complexity simulations, including physics, finance, healthcare, and aerospace.
 
 **After years of research and countless nights spent in his lab, Dr. Max had finally created his most prized invention: the insta-plantinator! This device miraculously speeds up a plant's life cycle, allowing crops to grow from seeds to full plants in seconds! While he's proud of his work, he is unsure about how to introduce his product into the United States (and potentially global) market. What factors should Dr. Max consider when bringing his newest creation to market? In addition, please provide strategies you believe he could utilize to maximize his profits.**
 ???
