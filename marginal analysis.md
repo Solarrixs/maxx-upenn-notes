@@ -22,6 +22,8 @@ The firm can also increase price at that point to further maximize their profit.
 
 After determining the profit maximizing quantity and price, the firm's profit can be determined. From $\pi = q \times (P-ATC)$, profit is the rectangle whose length is $q$ and width is $P-ATC$.
 
+$ATC < P$ to be making a profit, otherwise $ATC > P$ means profit is negative. This is the same as saying $TR < TC$ and $TR > TC$. If $ATC = P$, then profits are 0.
+
 
 > [!help|c-pink dim]- Example
 > Pizza Plus operates in a monopolistically competitive industry and faces an inverse demand curve of _P_ = 30 – 2_q_, where _q_ is measured in hundreds of pizzas per week and _P_ is the price per pizza. The marginal cost per pizza is $6. What price should Pizza Plus charge per pizza to maximize profit?

@@ -97,7 +97,23 @@ There are also three [[average costs]] of production. When all costs and output 
 
 When graphed, x-axis is the production and y-axis is the costs.
 
-# Demand and Isoprofit curves
+# Demand and Isoprofit Curves
 For any individual product, the [[demand curve#Product Demand Curve|product demand curve]] determines the quantity of product purchased at each possible price. 
 
 All businesses aim to maximize [[profit]]. This can be done by choosing the [[isoprofit curve]] tangent to the [[demand curve]]. Profit maximization can also be done using [[marginal analysis]] on [[marginal revenue]].
+
+## Shutting Down in the Short Run
+If $VC < TR$, it is better for a firm to operate at a loss than shutting down. It can also be said if $TR > VC \leftrightarrow PS > 0$ or if $AVC < P$ (average variable cost) then the firm should operate at a loss.
+
+The difference between total revenue and variable cost is the [[producer surplus]].
+
+## In the Long Run
+In the long run, when competitors enter the market:
+- A firm will lose customers to competitions and shift the [[demand curve]] inwards
+- [[price elasticity of demand]] depends on availability of substitutes, and thus demand curve becomes more elastic and flatter
+
+Thus, firm's profit will decrease because it sells at a lower quantity at a lower price with a lower price margin. Eventually, in the long run equilibrium, competitors will have no economic profits. **Long run profits are always 0.**
+- This will only shift demand and MR curves
+- This means AC (average cost) curve will be at the demand curve
+
+It is important to note that having an economic profit of 0 isn't bad for a firm - it means it is earning an accounting profit equal to its opportunity costs. This is called making normal profits.
