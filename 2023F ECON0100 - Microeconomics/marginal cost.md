@@ -13,3 +13,5 @@ Given that wages are fixed, there is an inverse relationship between [[marginal 
 - This is because of $MC = \dfrac{W}{MP_{L}}$
 
 This means that marginal cost is affected by variable costs but not by fixed costs.
+
+Marginal costs intersect with [[average costs]].
