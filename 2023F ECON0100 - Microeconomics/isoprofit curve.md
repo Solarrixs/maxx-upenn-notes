@@ -4,7 +4,8 @@ type: note
 tags: 
 ---
 
-For a level of [[profit]] $k$, the equation of the isoprofit curve is $P = ATC + \dfrac{k}{q}$
+For a level of [[profit]] $k$, the equation of the isoprofit curve is $P = ATC + \dfrac{\pi}{q}$
+- Zero profits when $\pi = 0$, so P = ATC
 
 ![[profit curves.png|500]]
 
