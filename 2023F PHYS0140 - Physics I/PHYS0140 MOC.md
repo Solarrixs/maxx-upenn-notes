@@ -54,3 +54,5 @@ Acceleration is perpendicular to position vector.
 
 ## Two Blocks
 In two blocks with $m_{1} > m_{2}$, $F_{2} = m_{2}a_{2}$ and $F_{1}-F_{2} = m_{1}a_{1}$. Therefore, $a_{1} = a_{2}$. From solving the solutions, you get that $a = \frac{F}{m_{1}m_{2}}$.
+
+The condition for leaving the surface is if $F_{N} = 0$.
