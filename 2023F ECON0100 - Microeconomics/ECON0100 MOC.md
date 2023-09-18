@@ -102,6 +102,8 @@ For any individual product, the [[demand curve#Product Demand Curve|product dema
 
 All businesses aim to maximize [[profit]]. This can be done by choosing the [[isoprofit curve]] tangent to the [[demand curve]]. Profit maximization can also be done using [[marginal analysis]] on [[marginal revenue]].
 
+This only works in a monopolistic competition model, where products are differentiated products. Each firm for each product faces downward sloping demand. If there is many similar products, each firm would have [[elastic demand]].
+
 ## Shutting Down in the Short Run
 If $VC < TR$, it is better for a firm to operate at a loss than shutting down. It can also be said if $TR > VC \leftrightarrow PS > 0$ or if $AVC < P$ (average variable cost) then the firm should operate at a loss.
 
