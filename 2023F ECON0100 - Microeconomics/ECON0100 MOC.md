@@ -107,7 +107,7 @@ This only works in a monopolistic competition model, where products are differen
 ## Shutting Down in the Short Run
 If $VC < TR$, it is better for a firm to operate at a loss than shutting down. It can also be said if $TR > VC \leftrightarrow PS > 0$ or if $AVC < P$ (average variable cost) then the firm should operate at a loss.
 
-The difference between total revenue and variable cost is the [[producer surplus]].
+The difference between total revenue and variable cost is the [[producer surplus]], which is the opposite idea of [[consumer surplus]].
 
 ## In the Long Run
 In the long run, when competitors enter the market:

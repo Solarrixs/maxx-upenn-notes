@@ -15,3 +15,5 @@ Isoprofit curves follow the same pattern as [[average costs]] curves:
 - Minimum when they intersect the marginal cost curve
 
 The difference between price and marginal cost is the profit margin.
+
+To maximize profit, the firm should be on the highest possible isoprofit curve on the [[demand curve]].
