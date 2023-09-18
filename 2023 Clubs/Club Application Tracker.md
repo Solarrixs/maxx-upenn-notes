@@ -3,7 +3,8 @@ date: 2023-09-13
 type: note
 tags: 
 ---
-# To-Do
+
+# Applied
 **[Wharton Undergraduate Entrepreneurship Club (WUEC)](https://pennclubs.com/club/wharton-undergraduate-entrepreneurship-club)**
 [Engineering Consultants at Penn](https://pennclubs.com/club/penn-engineering-consultants/application/679)
 [Penn Undergraduate Biotech Society (PUBS)](https://pennclubs.com/club/pubs)
@@ -11,9 +12,6 @@ tags:
 WUFC
 [Wharton Undergraduate Healthcare Club (WUHC)](https://pennclubs.com/club/wharton-undergraduate-healthcare-club/application/715)
 WUFT
-
-
-# Applied
 [Snider Consulting](https://docs.google.com/forms/d/e/1FAIpQLSczYAkTWDQI4raWyqrb4S-EyETzW4b44Z2LBz_0Ct9gMfG2JA/viewform)
 PEVC
 PennReach 
