@@ -52,3 +52,4 @@ Acceleration is perpendicular to position vector.
 1. Find forces on all objects and write $\Sigma F$
 2. Determine any acceleration
 
+$F_{N}$ same.
