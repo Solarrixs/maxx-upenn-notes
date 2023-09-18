@@ -9,23 +9,31 @@ Kinematic formulas:
 $$
 v_{\text{avg}} = \frac{\Delta r}{\Delta t}
 $$
+
 $$
 a_{\text{avg}} = \frac{\Delta v}{\Delta t}
 $$
+
 $$
 v = v_{x}i + v_{y}j + v_{z}k
 $$
+
 $$
 a = a_{x}i + a_{y}j + a_{z}k
 $$
+
 $$
 \text{Speed} = |v| = \sqrt{ v_{x}^2 + v_{y}^2}
 $$
+
 $$
 \text{Height} = \frac{v^2\sin^2\theta}{2g}
-$$$$
+$$
+
+$$
 \text{Time} = \frac{2v\sin\theta}{g}
 $$
+
 $$
 \text{Range} = \frac{v^2\sin 2\theta}{g}
 $$
