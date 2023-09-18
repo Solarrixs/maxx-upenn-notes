@@ -12,6 +12,7 @@ The 3 average costs of production:
 Because $TC = VC + FC$, dividing each term by quantity becomes $ATC = AVC + AFC$.
 
 ![[ATC, AVC, AFC curve.png|450]]
+- & You can see that the distance between ATC and AVC shrinks as quantity increases, meaning that fixed average fixed costs is decreasing
 
 ATC and AVC curves are U-shaped because the size of fixed cost compared to the size of variable cost is large at low outputs but small at high outputs (because of diminishing returns on variable costs).
 
