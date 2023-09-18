@@ -5,7 +5,7 @@ tags:
 ---
 
 **Tell us about a time you took initiative or demonstrated leadership**
-SAme prompt
+
 
 **Explain why you are interested in the finance committee and provide us with any relevant experiences.**
 
