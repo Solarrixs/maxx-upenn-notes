@@ -141,6 +141,7 @@ Production always occur in the elastic part of the [[demand curve]], not the ine
 It is important to note that having an economic profit of 0 isn't bad for a firm - it means it is earning an accounting profit equal to its opportunity costs. This is called making normal profits.
 
 # Pareto Efficiency
-True total surplus (area between [[demand curve|marginal benefit]] and [[marginal cost]]) is always more than the profit-maximizing point.
+True total surplus (area between [[demand curve|marginal benefit]] and [[marginal cost]]) is always more than the profit-maximizing point. Reaching Pareto Efficiency requires government intervention because all firms would take the highest profit rather than highest total surplus.
 
 The Pareto efficiency states that it is impossible to make one person better off without hurting another person.
+- This efficiency point occurs when $MB = MC$ and $q_{e}$ is the efficient quantity
