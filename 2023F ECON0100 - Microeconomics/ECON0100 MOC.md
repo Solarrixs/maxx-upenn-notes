@@ -132,6 +132,6 @@ Thus, firm's profit will decrease because it sells at a lower quantity at a lowe
 
 - star If $\pi<0$, firms will exit in the long run., increasing firm demand and causing [[inelastic demand]].
 
-- star If $\pi>0$, firms will join in the long run, lowering firm demand (less customers) and causing [[elastic demand]] to flatten the demand curve, therefore the firm loses market power to set prices.
+- star If $\pi>0$, firms will join in the long run, lowering firm demand (less customers) and causing [[elastic demand]] to flatten the demand curve, therefore the firm loses market power to set prices. Long run is reached so demand curve is tangent to the ATC curve.
 
 It is important to note that having an economic profit of 0 isn't bad for a firm - it means it is earning an accounting profit equal to its opportunity costs. This is called making normal profits.
