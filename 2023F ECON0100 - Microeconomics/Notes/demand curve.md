@@ -2,6 +2,8 @@
 date: 2023-09-06
 type: note
 tags: 
+aliases:
+  - marginal benefit
 ---
 
 # Individual's Demand Curve

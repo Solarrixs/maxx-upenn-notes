@@ -134,4 +134,13 @@ Thus, firm's profit will decrease because it sells at a lower quantity at a lowe
 
 - star If $\pi>0$, firms will join in the long run, lowering firm demand (less customers) and causing [[elastic demand]] to flatten the demand curve, therefore the firm loses market power to set prices. Long run is reached so demand curve is tangent to the ATC curve.
 
+Long-run profitability depends on barriers to entry.
+
+Production always occur in the elastic part of the [[demand curve]], not the inelastic part.
+
 It is important to note that having an economic profit of 0 isn't bad for a firm - it means it is earning an accounting profit equal to its opportunity costs. This is called making normal profits.
+
+# Pareto Efficiency
+True total surplus (area between [[demand curve|marginal benefit]] and [[marginal cost]]) is always more than the profit-maximizing point.
+
+The Pareto efficiency states that it is impossible to make one person better off without hurting another person.
