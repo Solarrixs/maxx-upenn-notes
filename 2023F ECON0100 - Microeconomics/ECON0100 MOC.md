@@ -112,6 +112,10 @@ If $VC < TR$, it is better for a firm to operate at a loss than shutting down. I
 If $\pi < 0$, then the profit loss is $TC-TR$ or $P < ATC$.
 If you decide to not produce anything $(q=0)$, you still occur fixed costs.
 
+Therefore:
+- star Shutdown if $TR < VC \leftrightarrow P < AVC$
+- star Operate if $TR > VC \leftrightarrow P > AVC$
+
 The difference between total revenue and variable cost is the [[producer surplus]], which is the opposite idea of [[consumer surplus]].
 
 ## In the Long Run
@@ -126,6 +130,8 @@ Thus, firm's profit will decrease because it sells at a lower quantity at a lowe
 - This means AC (average cost) curve will be at the demand curve
 - This will cause firms to "exit"
 
-If $\pi<0$, firms will exit in the long run.
+- star If $\pi<0$, firms will exit in the long run., increasing firm demand and causing [[inelastic demand]].
+
+- star If $\pi>0$, firms will join in the long run, lowering firm demand (less customers) and causing [[elastic demand]] to flatten the demand curve, therefore the firm loses market power to set prices.
 
 It is important to note that having an economic profit of 0 isn't bad for a firm - it means it is earning an accounting profit equal to its opportunity costs. This is called making normal profits.
