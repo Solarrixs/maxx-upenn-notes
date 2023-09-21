@@ -16,6 +16,8 @@ Profit = revenue - cost
 Revenue = q x p
 Costs = FC + VC (VC is cost per unit x q)
 
+check if there are short term or long term solutions
+
 If revenue is going down, then determine if it is external of internal.
 - External - are competitions facing similar issues? If yes, then it is external and industry wide. How can you fix an industry wide problem?
 - Internal - internal root cause 
