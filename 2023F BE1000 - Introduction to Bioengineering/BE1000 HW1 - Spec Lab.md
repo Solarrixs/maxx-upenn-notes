@@ -17,6 +17,8 @@ Maxx Yung
 
 3. ! For the $10\mu M$ sample, we needed $110\mu L$ of stock and $840\mu L$ of water. Then, for the $1000\mu L$ pipette for water, the number was 840. For the $200\mu L$ pipette for the stock solution, the number was 110.
 
-4. ![[BE1000 HW1 - Spec Lab absorbance vs wavelength.png]]
+4. ![[BE1000 HW1 - Spec Lab graph 1.png]]
 
-5. 
+5. Max absorbance according to our data is: 485.0nm
+
+6. 
