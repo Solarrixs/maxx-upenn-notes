@@ -40,10 +40,12 @@ An individual's and market [[demand curve]] can be plotted by finding the optima
 
 There is also a [[change in demand]] and [[consumer surplus]]. Customer income will also change whether customers buy normal goods or inferior goods.
 
-# Price Elasticity
+# Price Elasticity of Demand
 
 ## 3 Types of Price Elasticities
 The [[price elasticity of demand]] measures the responsiveness of quantity demanded to price changes. The [[cross-price elasticity of demand]] measures how responsive the demand of one good is to price changes of another. The [[income elasticity of demand]] measures how responsive your demand for a good is to changes in your income.
+
+A similar concept is the [[price elasticity of supply]]
 
 ## Price Elasticity Determines Revenue
 Understanding price elasticity for a good can determine pricing and total revenues. Given that seller revenue = consumer expenditure = $P \times Q$ and $E_{D} \times \% \text{ change in price}$ = $\% \text{ change in } Q_{D}$.
@@ -118,3 +120,4 @@ True [[total surplus]] is always more than the profit-maximizing point. Reaching
 Profit margin = $P - MC$
 - This means a less steep [[demand curve]] (or a less [[price elasticity of demand]]), the lower the quantity produced and the price will increase above [[marginal cost]].
 - Firms will always produce on the elastic (flatter) demand curve
+
