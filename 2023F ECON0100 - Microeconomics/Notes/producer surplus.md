@@ -15,4 +15,6 @@ Compared to a [[consumer surplus]]:
 - The consumer's total expenditure is the producer's total revenue
 - The area above the marginal cost line but below the demand is the total benefit
 
+The sum of [[consumer surplus]] and [[producer surplus]] is the total surplus.
+
 ![[producer surplus.png|550]]

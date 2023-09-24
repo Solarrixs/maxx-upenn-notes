@@ -26,6 +26,7 @@ There are also normative economics:
 2. reflects subjective value judgement such as ethical positions
 
 # Consumer Choice
+
 ## Indifference Curves
 Consumers face a **constrained optimization** problem to maximize [[consumer utility]]. The **positive** change in utility is called [[marginal utility]]. However, marginal utility offers diminishing returns.
 
@@ -40,6 +41,7 @@ An individual's and market [[demand curve]] can be plotted by finding the optima
 There is also a [[change in demand]] and [[consumer surplus]]. Customer income will also change whether customers buy normal goods or inferior goods.
 
 # Price Elasticity
+
 ## 3 Types of Price Elasticities
 The [[price elasticity of demand]] measures the responsiveness of quantity demanded to price changes. The [[cross-price elasticity of demand]] measures how responsive the demand of one good is to price changes of another. The [[income elasticity of demand]] measures how responsive your demand for a good is to changes in your income.
 
@@ -98,16 +100,17 @@ There are also three [[average costs]] of production. When all costs and output 
 When graphed, x-axis is the production and y-axis is the costs.
 
 # Demand and Isoprofit Curves
-For any individual product, the [[demand curve#Product Demand Curve|product demand curve]] determines the quantity of product purchased at each possible price. 
+For any individual product, the [[demand curve#Product Demand Curve|product demand curve]] determines the quantity of product purchased at each possible price.
 
 All businesses aim to maximize [[profit]]. This can be done by choosing the [[isoprofit curve]] tangent to the [[demand curve]]. Profit maximization can also be done using [[marginal analysis]] on [[marginal revenue]].
 
 This only works in a monopolistic competition model, where products are differentiated products. Each firm for each product faces downward sloping demand. If there is many similar products, each firm would have [[elastic demand]].
 
 Understand [[firm operations in the short run]] and [[firm operations in the long run]].
-# Pareto Efficiency
-True total surplus (area between [[demand curve|marginal benefit]] and [[marginal cost]]) is always more than the profit-maximizing point. Reaching Pareto Efficiency requires government intervention because all firms would take the highest profit rather than highest total surplus.
 
-The Pareto efficiency states that it is impossible to make one person better off without hurting another person.
+# Pareto Efficiency
+True total surplus (area between [[demand curve|marginal benefit]] and [[marginal cost]] or sum of [[producer surplus]] and [[consumer surplus]]) is always more than the profit-maximizing point. Reaching Pareto Efficiency requires government intervention because all firms would take the highest [[profit]] rather than highest total surplus.
+
+Pareto Efficiency occurs when it is impossible to make one person better off without hurting another person.
 - This efficiency point occurs when $MB = MC$ and $q_{e}$ is the efficient quantity.
 - Total surplus is maximized.
