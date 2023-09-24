@@ -109,8 +109,9 @@ This only works in a monopolistic competition model, where products are differen
 Understand [[firm operations in the short run]] and [[firm operations in the long run]].
 
 # Pareto Efficiency
-True total surplus (area between [[demand curve|marginal benefit]] and [[marginal cost]] or sum of [[producer surplus]] and [[consumer surplus]]) is always more than the profit-maximizing point. Reaching Pareto Efficiency requires government intervention because all firms would take the highest [[profit]] rather than highest total surplus.
+True [[total surplus]] is always more than the profit-maximizing point. Reaching Pareto Efficiency requires government intervention because all firms would take the highest [[profit]] rather than highest total surplus. This will cause [[deadweight loss]].
 
-Pareto Efficiency occurs when it is impossible to make one person better off without hurting another person.
-- This efficiency point occurs when $MB = MC$ and $q_{e}$ is the efficient quantity.
-- Total surplus is maximized.
+![[ECON0100 pareto efficiency.png|500]]
+- & Here, point E is profit maximizing point ([[marginal revenue]] intersects with [[marginal cost]], then the maximizing price point is chosen at the [[demand curve]])
+
+
