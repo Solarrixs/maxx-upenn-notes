@@ -121,6 +121,8 @@ Profit margin = $P - MC$
 - This means a less steep [[demand curve]] (or a less [[price elasticity of demand]]), the lower the quantity produced and the price will increase above [[marginal cost]].
 - Firms will always produce on the elastic (flatter) demand curve
 
+See: [[price-taker firm]].
+
 # Competitive Equilibrium
 A [[competitive equilibrium]] is established when supply and demand is balanced. Market price is at the equilibrium price and quantity is at the equilibrium quantity. That means $Q_{D} = Q_{S}$.
 
