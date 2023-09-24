@@ -110,8 +110,11 @@ Understand [[firm operations in the short run]] and [[firm operations in the lon
 
 # Pareto Efficiency
 True [[total surplus]] is always more than the profit-maximizing point. Reaching Pareto Efficiency requires government intervention because all firms would take the highest [[profit]] rather than highest total surplus. This will cause [[deadweight loss]].
+- Note that a profit-maximizing firm will always set price and quantity in the [[elastic demand]] curve portion.
 
 ![[ECON0100 pareto efficiency.png|500]]
 - & Here, point E is profit maximizing point ([[marginal revenue]] intersects with [[marginal cost]], then the maximizing price point is chosen at the [[demand curve]])
 
-
+Profit margin = $P - MC$
+- This means a less steep [[demand curve]] (or a less [[price elasticity of demand]]), the lower the quantity produced and the price will increase above [[marginal cost]].
+- Firms will always produce on the elastic (flatter) demand curve

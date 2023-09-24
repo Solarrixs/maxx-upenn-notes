@@ -9,3 +9,5 @@ tags:
 Price increases lead to larger changes in quantity demanded. That means higher prices lead to less total revenue if demand is elastic.
 
 There is a case of perfectly elastic demand: if the [[demand curve]] is horizontal.
+
+[[profit]] maximizing point occurs on the [[elastic demand]] curve.

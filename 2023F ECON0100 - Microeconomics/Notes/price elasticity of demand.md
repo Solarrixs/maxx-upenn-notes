@@ -8,10 +8,10 @@ $(E_{D})$ = $\dfrac{\text{\% change in quantity demanded}}{\text{\% change in pr
 - This should be a negative number due to the law of demand but **absolute value** is taken to see the magnitude of change.
 
 $E_{D}$ measures the responsiveness of quantity demanded to price changes.
-- If $E_{D} > 1$: [[elastic demand]] as quantity is responsive.
-- If $E_{D} < 1$: [[inelastic demand]] as quantity is not responsive.
+- If $E_{D} > 1$: [[elastic demand]] as quantity is responsive (flatter slope).
+- If $E_{D} < 1$: [[inelastic demand]] as quantity is not responsive (steeper slope).
 - If $E_{D} = 1$: [[unit elastic demand]].
-- If $E_{D} = \infty$: perfectly elastic demand.
+- If $E_{D} = \infty$: perfectly elastic demand, firm is a price-taker and has no market power and its marginal revenue = price.
 - If $E_{D} = 0$: perfectly inelastic demand.
 
 ## Determinants

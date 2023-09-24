@@ -15,3 +15,6 @@ Given that wages are fixed, there is an inverse relationship between [[marginal 
 This means that marginal cost is affected by variable costs but not by fixed costs.
 
 Marginal costs intersect with [[average costs]].
+
+Profit margin = $P - MC$
+- This means a less steep [[demand curve]] (or a less [[price elasticity of demand]]), the lower the quantity produced and the price will increase above [[marginal cost]].
