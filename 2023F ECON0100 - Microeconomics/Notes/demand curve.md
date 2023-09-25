@@ -19,6 +19,8 @@ A demand curve is also the marginal benefit curve.
 
 Steeper (inelastic) demand curve from fewer substitutes leads to higher markup and larger [[deadweight loss]] through marketing, branding, etc.
 
+Perfectly elastic demand curve has no market power and the demand = marginal revenue and P = MC. This creates an efficient quantity with no deadweight loss.
+
 # Product Demand Curve
 Plots the total quantity of a product that people will buy at each possible price for one particular and specific product.
 
