@@ -11,6 +11,6 @@ Total economic profit is the difference between total revenue and total cost. So
 Economic cost also includes implicit [[opportunity cost]], including the opportunity cost of forgone wages and forgone interest and is written as:
 - Economic profit = Revenue - Costs - Opportunity Cost
 
-The maximum profit is when [[marginal revenue]] equals [[marginal cost]].
+The maximum profit is when [[marginal revenue]] equals [[marginal cost]]. Find the profit maximizing quantity and price level. This always occur on a [[elastic demand]] curve.
 
 Profit can be graphed onto the [[isoprofit curve]].
