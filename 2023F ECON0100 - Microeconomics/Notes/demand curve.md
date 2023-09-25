@@ -17,6 +17,8 @@ A demand curve is also the marginal benefit curve.
 - Diminishing marginal benefit explains why demand curves are downward sloping
 - Marginal benefit is the maximum amount a person is willing to pay for one more unit of good
 
+Steeper (inelastic) demand curve from fewer substitutes leads to higher markup and larger [[deadweight loss]] through marketing, branding, etc.
+
 # Product Demand Curve
 Plots the total quantity of a product that people will buy at each possible price for one particular and specific product.
 
