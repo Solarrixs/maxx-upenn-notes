@@ -10,6 +10,7 @@ aliases:
 An individual's demand curve can be found by calculating the optimal consumption choice for a good on the [[optimal consumption choice curve]] at different prices.
 - You will get data for price to quantity demanded, which can be plotted.
 - The demand curve can be represented with: $P = a - bQ$
+- The [[marginal revenue]] curve can be represented with: $a-2bQ$
 - Double $b$ to get the [[marginal revenue]] formula.
 
 A demand curve is also the marginal benefit curve.
