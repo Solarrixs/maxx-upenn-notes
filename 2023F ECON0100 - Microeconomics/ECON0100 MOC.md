@@ -126,6 +126,18 @@ See: [[price-taker firm]].
 # Competitive Equilibrium
 A [[competitive equilibrium]] is established when supply and demand is balanced. Market price is at the equilibrium price and quantity is at the equilibrium quantity. That means $Q_{D} = Q_{S}$.
 
+# Market Supply for a Perfectly Competitive Firms
+Determinants of supply curve:
+- Change in variable cost: increase VC = decrease supply = leftward shift of supply curve
+- Change in productivity/technology: more efficient = decrease VC = increase supply
+- Seller Expectation: if price is expected to increase in the future, then current supply decrease
+- Number of sellers: higher firms = increase supply = flatter (elastic) supply at same y-int
+
 A perfectly competitive equilibrium produces the efficient quantity under Pareto efficiency.
 
 Supply only occurs in a perfect competitive firm.
+- Supply changes only with variable costs, not fixed costs
+
+Also see: [[price elasticity of supply]]
+
+The combination of market supply and market demand for perfect competition creates the market equilibrium graph.
