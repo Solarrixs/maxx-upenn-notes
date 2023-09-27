@@ -127,3 +127,5 @@ See: [[price-taker firm]].
 A [[competitive equilibrium]] is established when supply and demand is balanced. Market price is at the equilibrium price and quantity is at the equilibrium quantity. That means $Q_{D} = Q_{S}$.
 
 A perfectly competitive equilibrium produces the efficient quantity under Pareto efficiency.
+
+Supply only occurs in a perfect competitive firm.
