@@ -14,7 +14,7 @@ If $\pi < 0$, then the profit loss is $TC-TR$ or $P < ATC$.
 If you decide to not produce anything $(q=0)$, you still occur fixed costs.
 
 Therefore:
-- star Shutdown if $TR < VC \leftrightarrow P < AVC$
-- star Operate if $TR > VC \leftrightarrow P > AVC$
+- star Shutdown firm (leave) if $TR < VC \leftrightarrow P < AVC$
+- star Operate firm (remain) if $TR > VC \leftrightarrow P > AVC$
 
 The difference between total revenue and variable cost is the [[producer surplus]], which is the opposite idea of [[consumer surplus]].
