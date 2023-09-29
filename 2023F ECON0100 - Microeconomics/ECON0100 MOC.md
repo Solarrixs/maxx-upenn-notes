@@ -126,9 +126,12 @@ See: [[price-taker firm]].
 # Competitive Equilibrium
 A [[competitive equilibrium]] is established when supply and demand is balanced. Market price is at the equilibrium price and quantity is at the equilibrium quantity. That means $Q_{D} = Q_{S}$.
 
-# Market Supply and Market Equilibrium
+## Market Supply and Market Equilibrium
 The combination of market [[supply]] and market demand for perfect competition creates the market equilibrium graph.
 
 A perfectly competitive equilibrium produces the efficient quantity under Pareto efficiency. Thus, [[total surplus]] is maximized because MB=MC.
+
+$P = MR$
+When $MC = ATC$, that is $Q_{D}$. Plug that $Q_{D}$ into $MC$ or $ATC$ to find $P$.
 
 In the long run, if there are positive short run profits, more firms will enter in the long-run, shifting the market supply curve out (more elastic) so the market price decreases and demand decreases until profits are zero. In the long run, price will equal the minimum ATC.
