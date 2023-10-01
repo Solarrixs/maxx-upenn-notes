@@ -83,3 +83,13 @@ Liabilities are divided into two groups:
 - current liabilities due in <1 year like accounts payable, deferred revenue, accrued expenses or debt in general
 - non-current liabilities due in >1 year like long term debt
 - shareholder's equity is their claim on assets after ll debts owed are paid like common stock or retained earnings
+
+# Balance Sheet
+plant property and equipment (PP&E) is the physical and tangible long term assets with 1+ year expected life like buildings, land, equipment, or vehicles
+
+PP&E is a non current asset
+
+Beginning Net PP&E
+- - Depreciation (expense on income statement)
+- + Capital Expenditures (cash flow from financing)
+= Ending Net PP&E
