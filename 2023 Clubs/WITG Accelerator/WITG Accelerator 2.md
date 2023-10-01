@@ -9,7 +9,7 @@ tags:
 - BS - balance sheet, assets, liabilities, shareholder equity- point in time that shows financial position of a business
 - SCF - cash flow statement, cash inflows and outflows, cash from operating, investing, and financing, expressed over a period of time. Shows net change from start to end, or cash movements of a period
 
-# IS
+# Income Statement
 revenues and expenses are recorded when they are incurred not when cash actually exchanges hands
 
 Starts with:
@@ -34,9 +34,10 @@ Earnings Before Interest & Taxes (EBIT/Operating Profit)
 - - Interest Expense (capital expenses)
 
 doesn't include capital structure or subsidies, but allows one to see pure company revenue
+Interest expense is any interest for any debt or money borrowed. Debt doesn't come with equity, so when capital is returned, it is worth more for a business.
 
 Earnings Before Taxes (EBT)
-- - Taxes (jurisdiction the business operates)
+- - Taxes (jurisdiction the business operates), around 21%
 
 Net Income (NI, Earnings)
 - + income
@@ -48,4 +49,37 @@ revenue is the money you make, but you don't need to have this money directly in
 - loan value x interest rate
 
 the revenue is generally modeled by a company's business models
-- retail, subscription, fee-for-service, marketplace, rental, franchise, razor-razorblade, lending, utilization
+- retail, subscription, fee-for-service, marketplace, rental, franchise, razor razor-blade, lending, utilization
+
+# Balance Sheet
+Assets = Liabilities + Equity
+
+Everything the firm owns = everything the firm owes + residual claims
+
+Is a snapshot of a company at a given time
+
+## Assets
+Resource with economic value right now or in the future: assets should increase revenue or decrease costs and have a probable and measurable economic benefit
+
+Recorded at its historical price
+
+Assets divided into two groups
+Current assets: short-term assets of <1 year that can be liquidated into cash quickly
+- cash and cash equivalents
+- inventory
+- prepaid expenses
+Non-current assets: have a useful life of >1 year
+- land
+- buildings/capital equipment
+- intangible
+- accumulated depreciation
+
+## Liabilities
+Claims on assets of the business
+A responsibility to provide an asset or service in the future
+Used to fund assets
+
+Liabilities are divided into two groups:
+- current liabilities due in <1 year
+- non-current liabilities due in >1 year
+- shareholder's equity is their claim on assets after ll debts owed are paid
