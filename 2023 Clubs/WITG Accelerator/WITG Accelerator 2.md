@@ -33,6 +33,8 @@ operating margin = EBIT (operating income)/ Revenue
 Earnings Before Interest & Taxes (EBIT/Operating Profit)
 - - Interest Expense (capital expenses)
 
+doesn't include capital structure or subsidies, but allows one to see pure company revenue
+
 Earnings Before Taxes (EBT)
 - - Taxes (jurisdiction the business operates)
 
