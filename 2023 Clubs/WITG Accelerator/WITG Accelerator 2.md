@@ -80,6 +80,6 @@ A responsibility to provide an asset or service in the future
 Used to fund assets
 
 Liabilities are divided into two groups:
-- current liabilities due in <1 year
-- non-current liabilities due in >1 year
-- shareholder's equity is their claim on assets after ll debts owed are paid
+- current liabilities due in <1 year like accounts payable, deferred revenue, accrued expenses or debt in general
+- non-current liabilities due in >1 year like long term debt
+- shareholder's equity is their claim on assets after ll debts owed are paid like common stock or retained earnings
