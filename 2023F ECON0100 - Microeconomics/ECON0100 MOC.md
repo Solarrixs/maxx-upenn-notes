@@ -58,7 +58,7 @@ To calculate $E_{D}$, you need to take the percent change by taking the price or
 
 $\Delta\% = \dfrac{\text{final - initial}}{average}$
 
-- ex If 9 pizzas are bought at $20.50 and 11 pizzas are bought at $19.50, then $-\frac{1}{20} \times 100 = -5\%$ is the percentage change in price
+- ex If 9 pizzas are bought at 20.50 and 11 pizzas are bought at 19.50, then $-\frac{1}{20} \times 100 = -5\%$ is the percentage change in price
 - ex $\frac{2}{10} \times 100 = 20\%$ is the percentage change in quantity demanded
 - ex $E_{D} = \frac{\%\Delta Q}{\%\Delta P} = \frac{20\%}{-5\%} = -4$
 
