@@ -10,3 +10,5 @@ Economists assume everyone is rational: that everyone attempts to maximize their
 Consumer utility is often constrained by budget.
 
 Utility can be compared but not quantified.
+
+See: [[marginal utility]]
