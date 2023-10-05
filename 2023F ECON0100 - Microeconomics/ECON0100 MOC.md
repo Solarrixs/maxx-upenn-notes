@@ -132,6 +132,7 @@ The combination of market [[supply]] and market demand for perfect competition c
 A perfectly competitive equilibrium produces the efficient quantity under Pareto efficiency. Thus, [[total surplus]] is maximized because MB=MC.
 
 $P = MR$
+$P=MC?$
 When $MC = ATC$, that is $Q_{D}$. Plug that $Q_{D}$ into $MC$ or $ATC$ to find $P$
 Marginal supply curve = $MC$
 
