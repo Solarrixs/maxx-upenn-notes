@@ -4,14 +4,8 @@ type: note
 tags: 
 ---
 
-**1. If you could master one skill, what would it be, and why?**
 
-The one skill I'm ardently striving to master is cross-disciplinary thinking. Through my diverse pursuits, I've discovered that some of my most innovative solutions have emerged when I amalgamate insights from seemingly unrelated domains. For instance, maintaining my reef tank didn't just cultivate a sense of responsibility; it deepened my understanding of chemistry, which in turn informed some of my biotech endeavors. This capability to draw connections across fields and integrate them into a cohesive solution is what I believe will be a game-changer for me in the future.
 
-I recently delved into 'Range' by David Epstein, which elucidates how leaders who tap into diverse fields often lead more innovative and disruptive ventures. Steve Jobs, with his profound appreciation for typography and calligraphy, infused Apple's designs with an aesthetic and functional elegance that set it apart. It's this kind of lateral thinking, where passions from one field fuel innovations in another, that I aspire to master. I'm convinced that by honing this skill, I'll be better equipped to conceive and execute groundbreaking solutions in any venture I undertake.
+Right now, I'm fascinated by the theory of creating synthetic intelligence through biological organoids. Essentially, it involves growing a 3D brain in a petri dish and connecting it to a computer, enabling it to think independently and perform tasks. The concept that future computers might operate on biological chips rather than silicon chips captivates me. It's not just about merging the organic and digital but also revolutionizing how we perceive computing.
 
----
-
-**2. What are you the most curious about right now?**
-
-I'm deeply fascinated by the emergence of synthetic intelligence through biological organoids. The idea of mimicking human intelligence without relying solely on traditional silicon-based devices captivates me. My startup idea, which revolves around powering computers using rat neurons, is a testament to this curiosity. It’s not just about blending the organic and digital but revolutionizing how we perceive computing. By pioneering the concept of "Nano-neuro semiconductors," I believe we can embark on a journey where biology and technology coalesce in ways previously deemed as science fiction.
+I'm so engrossed in this idea that I'm actually took it into my own hands and am now leading a project called "Nano-Neuro Semiconductors" across several campuses, including MIT, UPenn, UMich, and the University of Melbourne. We are all at various stages, but so far, we have successfully designed and fabricated bio-compatible semiconductors and cultivated rat neurons to resemble a brain network. Currently, I am focused on incorporating carbon nanotubes into our semiconductor design to scale up the brain network.
