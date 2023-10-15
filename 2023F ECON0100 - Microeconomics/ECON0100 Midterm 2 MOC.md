@@ -21,10 +21,25 @@ Price ceiling also lead to underproduction, leading to [[deadweight loss]].
 ![[price ceilings deadweight loss.png|400]]
 - F = producer surplus
 - A+B+D = consumer surplus
-- C+E = deadweight loss
+- C+E = deadweight loss (because of excess demand)
+
+Total revenue of sellers decreases if the equilibrium point is in the [[elastic demand]] curve portion. 
 
 ## Price Floors
-Lower limit on price of a good.
+Lower limit on price of a good. Generally same concepts as above but opposite.
+- Price floors aim to increases prices and decreases quantity sold
+- Causes surplus in quantity supplied - leading to illegal black markets or unemployment
+
+![[price floor deadweight loss.png|450]]
+- Consumer surplus decreases to A
+- Producer surplus increases to B+D+F
+- Deadweight loss is C+E (because of excess demand)
+
+- star A price ceiling is below the equilibrium price and a price floor is above the equilibrium price!
+- star Price controls do not ALWAYS generate a [[deadweight loss]] - if it's not binding or if supply or demand was perfectly inelastic.
+
+## Equity and Fairness
+Price controls lead to a tradeoff between efficiency and fairness.
 
 # Taxes and Subsidies
 Taxes reduce quantity demanded and quantity supplied of the taxed goods since buyers pay more and sellers receive less.
