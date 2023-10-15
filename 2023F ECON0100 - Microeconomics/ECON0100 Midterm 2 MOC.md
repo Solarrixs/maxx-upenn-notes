@@ -4,6 +4,9 @@ type: MOC
 tags:
 ---
 
+# Price Controls
+
+
 # Taxes and Subsidies
 Taxes reduce quantity demanded and quantity supplied of the taxed goods since buyers pay more and sellers receive less.
 
