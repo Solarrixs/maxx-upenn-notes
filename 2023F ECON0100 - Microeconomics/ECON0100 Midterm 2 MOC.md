@@ -41,3 +41,18 @@ Following the same steps as in on the Tax on Sellers, you set the equation $P_{B
 
 ## Economic Tax Incidence
 Whether a tax is levied on buyers or sellers, it has the same economic effect. The tax burden affects both buyers and sellers. 
+
+Thus, whoever can avoid the tax (not buying or selling the taxed good) will benefit more. This depends on the [[price elasticity of supply]] and [[price elasticity of demand]] since taxes change the demand and supply curve.
+
+- star The side of the market that is more elastic will have a smaller share of the tax burden. If the distance from New Price to Original Price is greater than the distance from the Original Price to the Price to Producer, then buyers will pay more of the tax.
+
+If there is perfectly inelastic demand or supply, then either the buyers or sellers will pay for the entire tax.
+![[perfectly inelastic demand and supply on tax.png|600]]
+
+## Welfare Effects of Taxes
+Taxes reduce [[consumer surplus]] and [[producer surplus]] but increases government revenue. Thus, total surplus can be determined.
+![[welfare effects of taxes.png]]
+- Tax decreases consumer surplus by A+B
+- Tax decreases producer surplus by C+D
+- Government tax revenue increases by A+C
+- [[deadweight loss]] by taxes is B+D
