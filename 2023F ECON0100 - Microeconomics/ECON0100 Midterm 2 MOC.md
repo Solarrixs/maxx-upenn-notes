@@ -5,7 +5,26 @@ tags:
 ---
 
 # Price Controls
+## Price Ceilings
+Upper limit on price of a good. This has no effect unless it becomes a binding price ceiling (when a price ceiling prevents the equilibrium quantity/price to go above the limit).
 
+A binding price ceiling will cause shortage of goods only if the maximum price is below the equilibrium price.
+- star Quantity demanded > quantity supplied
+
+Price ceilings causes sellers to have more "bargaining power" (imagine 10 buyers for 1 seller, the seller can choose who to sell to). This may mean illegal activities (black markets) and that the total price of a good may be above the regulated price ceiling.
+
+Price ceiling also lead to underproduction, leading to [[deadweight loss]].
+![[price ceiling deadweight loss.png|400]]
+- A+B+C = [[consumer surplus]]
+- D+E+F = [[producer surplus]]
+
+![[price ceilings deadweight loss.png|400]]
+- F = producer surplus
+- A+B+D = consumer surplus
+- C+E = deadweight loss
+
+## Price Floors
+Lower limit on price of a good.
 
 # Taxes and Subsidies
 Taxes reduce quantity demanded and quantity supplied of the taxed goods since buyers pay more and sellers receive less.
