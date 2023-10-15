@@ -69,4 +69,8 @@ This means demand curve increases or supply curve increases.
 
 Suppliers get more money and buyers spend less money, but the government loses money.
 
+This causes overproduction, so consumer and producer surplus increase. Government expenditure will be larger than the increase in consumer and producer surplus.
+![[welfare effects of subsidies.png|500]]
+- E is the deadweight loss
+
 - star The side of the market that is more elastic captures less of a subsidy. The same principle for perfectly inelasticity from taxes applies similarly.
