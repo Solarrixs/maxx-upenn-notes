@@ -14,6 +14,7 @@ A binding price ceiling will cause shortage of goods only if the maximum price i
 Price ceilings causes sellers to have more "bargaining power" (imagine 10 buyers for 1 seller, the seller can choose who to sell to). This may mean illegal activities (black markets) and that the total price of a good may be above the regulated price ceiling.
 
 Price ceiling also lead to underproduction, leading to [[deadweight loss]].
+
 ![[price ceiling deadweight loss.png|400]]
 - A+B+C = [[consumer surplus]]
 - D+E+F = [[producer surplus]]
