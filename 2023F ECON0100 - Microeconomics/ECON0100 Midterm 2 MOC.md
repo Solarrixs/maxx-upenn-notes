@@ -5,11 +5,15 @@ tags:
 ---
 
 # Price Controls
-## Price Ceilings
-Upper limit on price of a good. This has no effect unless it becomes a binding price ceiling (when a price ceiling prevents the equilibrium quantity/price to go above the limit).
 
-A binding price ceiling will cause shortage of goods only if the maximum price is below the equilibrium price.
+Assumed in [[competitive equilibrium]] situations (perfect competition).
+
+## Price Ceilings
+Upper limit on price of a good. This has no effect unless it becomes a binding (effective) price ceiling (when a price ceiling prevents the equilibrium quantity/price to go above the limit).
+
+A binding (or effective) price ceiling will cause **shortage** of goods only if the maximum price is below the equilibrium price.
 - star Quantity demanded > quantity supplied
+- & Otherwise it is not binding or not effective because it doesn't affect equilibrium price or quantity.
 
 Price ceilings causes sellers to have more "bargaining power" (imagine 10 buyers for 1 seller, the seller can choose who to sell to). This may mean illegal activities (black markets) and that the total price of a good may be above the regulated price ceiling.
 
@@ -18,29 +22,44 @@ Price ceiling also lead to underproduction, leading to [[deadweight loss]].
 ![[price ceiling deadweight loss.png|400]]
 - A+B+C = [[consumer surplus]]
 - D+E+F = [[producer surplus]]
+- & This is prior to price ceilings.
 
 ![[price ceilings deadweight loss.png|400]]
 - F = producer surplus
 - A+B+D = consumer surplus
-- C+E = deadweight loss (because of excess demand)
+- C+E = [[deadweight loss]] (because of excess demand)
+- & This is after price ceilings.
 
-Total revenue of sellers decreases if the equilibrium point is in the [[elastic demand]] curve portion. 
+Total revenue of sellers decreases if the equilibrium point is in the [[elastic demand]] curve portion.
+![[price controls and elasticity.png]]
+- More inelastic = less deadweight loss and less shortage.
+- star Over time, people and businesses become more elastic, meaning that shortage and deadweight loss increase over time if a price ceiling is in effect.
 
 ## Price Floors
 Lower limit on price of a good. Generally same concepts as above but opposite.
 - Price floors aim to increases prices and decreases quantity sold
-- Causes surplus in quantity supplied - leading to illegal black markets or unemployment
+- Causes **surplus** in quantity supplied - leading to illegal black markets or unemployment
 
 ![[price floor deadweight loss.png|450]]
 - Consumer surplus decreases to A
 - Producer surplus increases to B+D+F
-- Deadweight loss is C+E (because of excess demand)
+- [[deadweight loss]] is C+E (because of excess demand)
+- & This is after price floors.
 
 - star A price ceiling is below the equilibrium price and a price floor is above the equilibrium price!
 - star Price controls do not ALWAYS generate a [[deadweight loss]] - if it's not binding or if supply or demand was perfectly inelastic.
 
+- ex A good example of price floor is minimum wage, where workers are the supply. Demand and supply of different jobs are different so equilibrium price is different even with a price floor.
+
 ## Equity and Fairness
 Price controls lead to a tradeoff between efficiency and fairness.
+
+Sometimes the government aims to slice the pie in favor of one group (either [[producer surplus]] or [[consumer surplus]]) over another even if the entire pie shrinks (efficiency decreases).
+
+### Price Controls in Imperfect Competition
+In a monopolistic competition, where the firms have market power, the firms will sell where [[marginal revenue]] intersects [[marginal cost]] shifted up towards the [[demand curve|marginal benefit]]. However, by setting a price control, firms are forced to sell at a certain price, thus turning it into a perfectly competitive market type (you can ignore MR).
+
+- star In this case, price controls can actually *improve* efficiency in imperfect competition.
 
 # Taxes and Subsidies
 Taxes reduce quantity demanded and quantity supplied of the taxed goods since buyers pay more and sellers receive less.
