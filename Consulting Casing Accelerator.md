@@ -11,6 +11,18 @@ Consulting types:
 
 Big 4:
 - Strategy Consulting - pwc, EY, Deloittte, KPMG
-- MBB & Management: Mckinsey, BCG, Bain, Accenture
+- MBB & Management: McKinsey, BCG, Bain, Accenture
 - Economic Consulting - analysis group, Cornerstone research, FTI consulting
+
+What do consultants do?
+- problem scoping, identification, planning (interviews, articles)
+- R&D of information and compiling data, analyzing trends (excel)
+- Delivering conclusions and findings through presentations (powerpoint)
+
+Key words:
+- communication
+- problem breakdown
+- project management
+- data analysis, collection, financial modeling, risk analysis
+- slide deck creation
 
