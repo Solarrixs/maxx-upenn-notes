@@ -106,6 +106,10 @@ Following the same steps as in on the Tax on Sellers, you set the equation $P_{B
 Whether a tax is levied on buyers or sellers, it has the same economic effect. The tax burden affects both buyers and sellers. 
 
 Thus, whoever can avoid the tax (not buying or selling the taxed good) will benefit more. This depends on the [[price elasticity of supply]] and [[price elasticity of demand]] since taxes change the demand and supply curve.
+![[tax incidence based on elasticity.png]]
+- The blue rectangle: total tax paid by buyers
+- The red rectangle: total tax paid by sellers
+- Blue + Red = tax revenue for government
 
 - star The side of the market that is more elastic will have a smaller share of the tax burden. If the distance from New Price to Original Price is greater than the distance from the Original Price to the Price to Producer, then buyers will pay more of the tax.
 
