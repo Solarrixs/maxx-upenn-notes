@@ -62,7 +62,11 @@ In a monopolistic competition, where the firms have market power, the firms will
 - star In this case, price controls can actually *improve* efficiency in imperfect competition.
 
 # Taxes and Subsidies
-Taxes reduce quantity demanded and quantity supplied of the taxed goods since buyers pay more and sellers receive less.
+Taxes reduce quantity demanded and quantity supplied of the taxed goods since buyers pay more and sellers receive less. This can be done on purpose (sin taxes) by the government to reduce the quantity supplied of certain goods like harmful cigarettes.
+
+Governments use taxation to raise revenue (finance spending or redistribution).
+
+Excise taxes is a fixed amount of tax for each unit sold per unit.
 
 ## Tax on Sellers
 You pay the regular price of a good, but the seller keeps what you pay minus the tax.
