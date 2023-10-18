@@ -119,6 +119,7 @@ Taxes reduce [[consumer surplus]] and [[producer surplus]] but increases governm
 - Tax decreases producer surplus by C+D
 - Government tax revenue increases by A+C
 - [[deadweight loss]] by taxes is B+D or (decrease in quantity) $\times$ (tax difference)
+- Total surplus is the space above A (CS) + the space below C (PS) + the tax revenue (A+C)
 
 The more elastic the demand or supply curve is, the larger reduction in quantity sold due to tax, and lower the tax revenue for the government. So it is better to impose a tax on inelastic demands and supplies.
 
