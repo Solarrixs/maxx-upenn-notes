@@ -94,6 +94,8 @@ Q_{S} = 2P_{B} - 1.4
 $$
 On a graph, that means the vertical change from one price to another price is the taxed amount, while the diagonal change from one equilibrium to the second equilibrium is the tax buyers pay per unit. The vertical change from the second equilibrium to the when it intersects the original supply curve is the price sellers pay.
 
+- star $P_{S} - P_{B} = \text{tax amount}$
+
 ## Tax on Buyers
 The [[demand curve]] = [[demand curve|marginal benefit]] curve. Since there is a tax on buyers, there is less marginal benefit per unit, so the demand curve will shift down by the amount of tax.
 ![[tax on buyers.png|600]]
