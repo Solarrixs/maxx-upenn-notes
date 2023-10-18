@@ -26,3 +26,24 @@ Key words:
 - data analysis, collection, financial modeling, risk analysis
 - slide deck creation
 
+---
+
+Snack Food Acquisition Casing
+- A US snack foods company specializing in snacking peanuts, Peanut Co., is planning to acquire another company specializing in snacking almonds, Almond Co. Peanut Co is the market leader in peanuts, but overall segment is growing slowly compared to the market and they want to diversify. Is this a good idea?
+
+1. Clarify objective - does the client have any specific financial metrics or objectives in mind? What is the timeline?
+2. Clarify market - are we looking at the snacking almonds market only? Is the trend affecting the entire snacking nut industry?
+3. Business model, SWOT, acquisition deal price, client expertise...
+
+External Considerations
+- Market dynamics: size, growth, trend
+- Competitors: preferred brand, barriers to entry?
+
+Internal Considerations
+- Financials: profitability, profit margins, growth
+- Management, Organizational Culture
+
+Acquisition Impact
+- Synergies: cannibalization, customer overlap?
+- Deal price: cost, financing deal, breakeven time, ROI
+
