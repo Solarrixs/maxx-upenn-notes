@@ -33,7 +33,7 @@ Snack Food Acquisition Casing
 
 1. Clarify objective - does the client have any specific financial metrics or objectives in mind? What is the timeline?
 2. Clarify market - are we looking at the snacking almonds market only? Is the trend affecting the entire snacking nut industry?
-3. Business model, SWOT, acquisition deal price, client expertise...
+3. Business model, SWOT, acquisition deal price, client expertise, brand image and dilution, location (West vs East coast brand)
 
 External Considerations
 - Market dynamics: size, growth, trend
@@ -44,10 +44,17 @@ Internal Considerations
 - Management, Organizational Culture
 
 Acquisition Impact
-- Synergies: cannibalization, customer overlap?
+- Synergies: cannibalization or cross-selling, customer overlap, leveraging current and new distribution networks
 - Deal price: cost, financing deal, breakeven time, ROI
 
 Segmentation factors:
 - Income, age, gender, buy patterns, type of consumers who will buy, consumer size, revenue per consumer
 
 Pressure test: total revenue (market size) / number of people - dose the revenue per consumer make sense?
+
+At the end, summary should be:
+- answer the question - acquire or not?
+- strong justification using data
+- outline key risks with recommendations
+- outline 2-3 next steps
+- concise in under 1 minute
