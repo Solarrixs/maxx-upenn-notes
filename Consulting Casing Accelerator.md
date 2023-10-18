@@ -47,3 +47,7 @@ Acquisition Impact
 - Synergies: cannibalization, customer overlap?
 - Deal price: cost, financing deal, breakeven time, ROI
 
+Segmentation factors:
+- Income, age, gender, buy patterns, type of consumers who will buy, consumer size, revenue per consumer
+
+Pressure test: total revenue (market size) / number of people - dose the revenue per consumer make sense?
