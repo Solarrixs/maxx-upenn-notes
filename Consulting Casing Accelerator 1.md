@@ -44,8 +44,8 @@ Internal Considerations
 - Management, Organizational Culture
 
 Acquisition Impact
-- Synergies: cannibalization or cross-selling, customer overlap, leveraging current and new distribution networks
-- Deal price: cost, financing deal, breakeven time, ROI
+- Synergies: cannibalization (determined by customer survey and see if it impact sales) or cross-selling, customer overlap, leveraging current and new distribution networks or innovation
+- Risks: deal price cost (negotiate for less?), financing deal, breakeven time, ROI, brand dilution, opportunity cost of acquiring other brands
 
 Segmentation factors:
 - Income, age, gender, buy patterns, type of consumers who will buy, consumer size, revenue per consumer
