@@ -113,7 +113,7 @@ Thus, whoever can avoid the tax (not buying or selling the taxed good) will bene
 
 - star The side of the market that is more elastic will have a smaller share of the tax burden. If the distance from New Price to Original Price is greater than the distance from the Original Price to the Price to Producer, then buyers will pay more of the tax.
 
-If there is perfectly inelastic demand or supply, then either the buyers or sellers will pay for the entire tax.
+If there is perfectly inelastic demand or supply, then either the buyers or sellers will pay for the entire tax and either buyers or sellers will pay $0 in tax (price remains the same). DWL is 0 in perfectly inelastic demand or supply.
 ![[perfectly inelastic demand and supply on tax.png|600]]
 
 ## Welfare Effects of Taxes
