@@ -84,7 +84,7 @@ $$
 $$
 Q_{S} = 2P_{S} - 0.8
 $$
-Assuming the seller pays $0.30 in taxes, then you can relate $P_{B}$ and $P_{S}$ like this:
+Assuming the seller pays \$0.30 in taxes, then you can relate $P_{B}$ and $P_{S}$ like this:
 $$
 P_{S} = P_{B} - 0.30
 $$
@@ -98,6 +98,7 @@ On a graph, that means the vertical change from one price to another price is th
 
 ## Tax on Buyers
 The [[demand curve]] = [[demand curve|marginal benefit]] curve. Since there is a tax on buyers, there is less marginal benefit per unit, so the demand curve will shift down by the amount of tax.
+
 ![[tax on buyers.png|600]]
 
 Following the same steps as in on the Tax on Sellers, you set the equation $P_{B} = P_{S} + \$\text{tax}$, then replace $P_{B}$ with $P_{S}$ in the $Q_{D}$ equation. Then, since $Q_{D} = Q_{S}$, solve the equation.
@@ -106,18 +107,21 @@ Following the same steps as in on the Tax on Sellers, you set the equation $P_{B
 Whether a tax is levied on buyers or sellers, it has the same economic effect. The tax burden affects both buyers and sellers. 
 
 Thus, whoever can avoid the tax (not buying or selling the taxed good) will benefit more. This depends on the [[price elasticity of supply]] and [[price elasticity of demand]] since taxes change the demand and supply curve.
+
 ![[tax incidence based on elasticity.png]]
 - The blue rectangle: total tax paid by buyers
 - The red rectangle: total tax paid by sellers
 - Blue + Red = tax revenue for government
 
-- star The side of the market that is more elastic will have a smaller share of the tax burden. If the distance from New Price to Original Price is greater than the distance from the Original Price to the Price to Producer, then buyers will pay more of the tax.
+- star More inelastic = larger tax burden. If the distance from New Price to Original Price is greater than the distance from the Original Price to the Price to Producer, then buyers will pay more of the tax.
 
 If there is perfectly inelastic demand or supply, then either the buyers or sellers will pay for the entire tax and either buyers or sellers will pay $0 in tax (price remains the same). DWL is 0 in perfectly inelastic demand or supply.
+
 ![[perfectly inelastic demand and supply on tax.png|600]]
 
 ## Welfare Effects of Taxes
 Taxes reduce [[consumer surplus]] and [[producer surplus]] but increases government revenue. Thus, total surplus can be determined.
+
 ![[welfare effects of taxes.png]]
 - Tax decreases consumer surplus by A+B
 - Tax decreases producer surplus by C+D
