@@ -127,7 +127,7 @@ Taxes reduce [[consumer surplus]] and [[producer surplus]] but increases governm
 
 The more elastic the demand or supply curve is, the larger reduction in quantity sold due to tax, and lower the tax revenue for the government. So it is better to impose a tax on inelastic demands and supplies.
 
-To minimize deadweight loss, tax should be imposed on inelastic demand and supply.
+To minimize deadweight loss and maximize revenue, tax should be imposed on inelastic demand and supply.
 
 ## Subsidies
 Subsidies encourage the consumption or production of certain goods. Applying the principles above, a subsidy is just a negative tax.
