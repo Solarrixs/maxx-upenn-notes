@@ -132,13 +132,15 @@ To minimize deadweight loss and maximize revenue, tax should be imposed on inela
 ## Subsidies
 Subsidies encourage the consumption or production of certain goods. Applying the principles above, a subsidy is just a negative tax.
 
+- star $P_{S} - P_{B} = $\text{subsidy}$
+
 This means demand curve increases or supply curve increases.
 ![[subsidies.png]]
 
-Suppliers get more money and buyers spend less money, but the government loses money.
+Suppliers get more money and buyers spend less money (CS and PS increases), but the government loses money.
 
-This causes overproduction, so consumer and producer surplus increase. Government expenditure will be larger than the increase in consumer and producer surplus.
+This causes overproduction, so consumer and producer surplus increase. Government expenditure will be larger than the increase in consumer and producer surplus, causing deadweight loss.
 ![[welfare effects of subsidies.png|500]]
-- E is the deadweight loss
+- Government loss is ABCDE.
 
-- star The side of the market that is more elastic captures less of a subsidy. The same principle for perfectly inelasticity from taxes applies similarly.
+- star The side of the market that is more inelastic captures more of a subsidy (positive). The same principle for perfectly inelasticity from taxes applies similarly.
