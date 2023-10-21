@@ -216,9 +216,20 @@ If that country opens its borders to free trade, it will either import or export
 
 - star If the autarky price is low, the cost of producing domestically is low, so the country has a comparative advantage.
 
-![[gains and losses from imports and exports.png]]
+### Gains and Losses from Imports
+![[gains and losses from imports.png]]
 - Autarky [[consumer surplus]] = A
 - Autarky [[producer surplus]] = B+C
 - star After opening to trade, domestic price will become equal to the world price
-- In this example, if domestic price decreases to the world price, domestic producers will sell a lower quantity at a lower price, so [[producer surplus]] = C and domestic consumers buy a larger quantity at a lower price, so [[consumer surplus]] = A+B+D
-- Thus, total surplus increases by D
+- Domestic producers will sell a lower quantity at a lower price, so PS = C 
+- Domestic consumers buy a larger quantity at a lower price, so CS = A+B+D
+- Total surplus increases by D
+
+### Gains and Losses from Exports
+![[gains and losses from exports.png]]
+- Autarky [[consumer surplus]] = A+B
+- Autarky [[producer surplus]] = C
+- star After opening to trade, domestic price will become equal to the world price
+- Domestic producers will sell a higher quantity at a higher price, so PS = B+C+D 
+- Domestic consumers buy a smaller quantity at a larger price, so CS = A
+- Total surplus increases by D
