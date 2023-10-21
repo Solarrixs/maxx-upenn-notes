@@ -245,7 +245,14 @@ Exporters and import-dependent businesses support international trade.
 - Foreign competition may lead to job losses
 
 ## Protectionist Trade Policies
+### Tariffs
 Tariffs are taxes on an imported good. This raises revenue for governments and serves the interest of domestic producers.
 
 ![[tariffs.png]]
 - star Tariffs helps domestic producers but hurts domestic consumers and foreign producers
+
+### Other Protectionist Policies
+Red tapes are like tariffs that raise costs but doesn't raise revenue for the government.
+Import quota limits the quantity of a good that can be imported.
+Exchange rate manipulation changes the price of y our goods in foreign markets.
+- Artificially low currency causes foreign producers to lose businesses
