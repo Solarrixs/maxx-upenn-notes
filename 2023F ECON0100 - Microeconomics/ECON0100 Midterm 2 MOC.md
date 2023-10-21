@@ -233,3 +233,19 @@ If that country opens its borders to free trade, it will either import or export
 - Domestic producers will sell a higher quantity at a higher price, so PS = B+C+D 
 - Domestic consumers buy a smaller quantity at a larger price, so CS = A
 - Total surplus increases by D
+
+## Politics of International Trade
+Import-competing businesses oppose international trade.
+Exporters and import-dependent businesses support international trade.
+
+- National security requires that we produce strategically important goods ourselves
+- Protection can help infant industries develop
+- Anti-dumping laws prevent unfair competition
+- Trade shouldn't be a way to skirt regulations
+- Foreign competition may lead to job losses
+
+## Protectionist Trade Policies
+Tariffs are taxes on an imported good. This raises revenue for governments and serves the interest of domestic producers.
+
+![[tariffs.png]]
+- star Tariffs helps domestic producers but hurts domestic consumers and foreign producers
