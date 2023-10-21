@@ -191,6 +191,6 @@ The kink in the joint PPC is the Y and X intercept of the higher producer.
 The slope of a joint PPC is the price of Good X in terms of Good Y.
 
 The position of the joint PPC lies beyond the joint PPC. There exists 3 cases:
-- The world price of Good X has a lower opportunity cost: then the new trade line has a flatter slope and starts at the Y intercept.
-- The world price of Good X has a higher opportunity cost: then the new trade line has a steeper slope and starts at the X intercept.
-- The world price of Good X is in between the lower and higher opportunity cost: then it has a medium slope and starts at the kink. It exports and imports depending on the position of the consumption point.
+- The world price of Good X has a lower opportunity cost (slope): then the new trade line has a flatter slope and starts at the Y intercept.
+- The world price of Good X has a higher opportunity cost (slope): then the new trade line has a steeper slope and starts at the X intercept.
+- The world price of Good X is in between the lower and higher opportunity cost (slope): then it has a medium slope and starts at the kink. It exports and imports depending on the position of the consumption point.
