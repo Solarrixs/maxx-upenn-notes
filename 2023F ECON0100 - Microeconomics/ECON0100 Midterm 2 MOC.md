@@ -194,3 +194,31 @@ The position of the joint PPC lies beyond the joint PPC. There exists 3 cases:
 - The world price of Good X has a lower opportunity cost (slope): then the new trade line has a flatter slope and starts at the Y intercept.
 - The world price of Good X has a higher opportunity cost (slope): then the new trade line has a steeper slope and starts at the X intercept.
 - The world price of Good X is in between the lower and higher opportunity cost (slope): then it has a medium slope and starts at the kink. It exports and imports depending on the position of the consumption point.
+
+## Economy Wide PPC
+An economy with millions of resources and workers will have a joint PPC with many kinks, which can be simplified to a concave bowed out curved line.
+
+![[economy wide PPC.png|550]]
+- Note that this shows the increasing [[opportunity cost]] principle.
+
+Improvement in overall productivity shifts the entire PPC outwards.
+Improvement in a specific productivity or new resource for an industry pivots the PPC.
+
+When trading with the rest of the world:
+- The slope is the world opportunity cost of Good X
+- The position such that the PPC touches the trade line is the point of production.
+
+## Supply, Demand, and PPC
+A country that does not trade is in autarky.
+If that country opens its borders to free trade, it will either import or export automobiles depending on how the autarky price compares to the world price:
+- If world price > autarky price, domestic producers will increase their quantity supplied to benefit from the higher price, while domestic consumers will decrease their demand. This surplus causes the domestic producers to export automobiles.
+- If world price < autarky price, domestic producers will increase their quantity demanded to benefit from the lower price, while domestic producers will decrease their supply. This shortage causes domestic consumers to import automobiles.
+
+- star If the autarky price is low, the cost of producing domestically is low, so the country has a comparative advantage.
+
+![[gains and losses from imports and exports.png]]
+- Autarky [[consumer surplus]] = A
+- Autarky [[producer surplus]] = B+C
+- star After opening to trade, domestic price will become equal to the world price
+- In this example, if domestic price decreases to the world price, domestic producers will sell a lower quantity at a lower price, so [[producer surplus]] = C and domestic consumers buy a larger quantity at a lower price, so [[consumer surplus]] = A+B+D
+- Thus, total surplus increases by D
