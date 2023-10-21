@@ -180,3 +180,17 @@ Shows the combinations each person can consume after specialization and trade.
 The slope reflects the terms at which people trade Good Y for Good X.
 
 Trade lines are above each person's individual PPC. Specialization and trade allow people to reach a consumption point above the attainable PPC.
+
+## Joint PPC
+In this example, two states combine their PPC capabilities to trade internationally. At first, the state with the lower opportunity cost will make automobiles instead of computer chips, up until point T when it completely specializes in automobiles.
+
+The kink in the joint PPC is the Y and X intercept of the higher producer.
+
+![[joint PPC.png|600]]
+
+The slope of a joint PPC is the price of Good X in terms of Good Y.
+
+The position of the joint PPC lies beyond the joint PPC. There exists 3 cases:
+- The world price of Good X has a lower opportunity cost: then the new trade line has a flatter slope and starts at the Y intercept.
+- The world price of Good X has a higher opportunity cost: then the new trade line has a steeper slope and starts at the X intercept.
+- The world price of Good X is in between the lower and higher opportunity cost: then it has a medium slope and starts at the kink. It exports and imports depending on the position of the consumption point.
