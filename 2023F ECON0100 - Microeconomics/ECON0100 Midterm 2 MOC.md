@@ -148,3 +148,25 @@ This causes overproduction, so consumer and producer surplus increase. Governmen
 - Government loss is ABCDE.
 
 - star The side of the market that is more inelastic captures more of a subsidy (positive). The same principle for perfectly inelasticity from taxes applies similarly.
+
+# Trade
+
+## Production Possibilities Curve
+Under the curve is inefficient but attainable.
+On the curve is efficient and attainable.
+Over the curve is unattainable unless new technology or new resources are available.
+
+You can calculate [[opportunity cost]] from this:
+- $\text{Opportunity Cost of a Task} = \dfrac{\text{hours this task takes}}{\text{hours required to produce alternative output}}$
+- That is the **absolute value of the slope of the PPC curve** of good X in terms of good Y
+- The inverse of the slope is the opportunity cost of good Y in terms of good X
+
+### Specialization
+People focus on the production of certain goods and services to make more efficient use of its resources, then trade those for other goods. Specialization = more production.
+
+Someone who can produce more than another person has absolute advantage.
+- star An individual can produce a good using fewer resources than another individual.
+
+However, to get the most outputs, each person should do the task with the lowest opportunity cost, which is their comparative advantage.
+- Each person can only have 1 comparative advantage over another.
+- star An individual can produce a good at a lower opportunity cost than another individual.
