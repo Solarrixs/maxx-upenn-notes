@@ -162,7 +162,7 @@ You can calculate [[opportunity cost]] from this:
 - The inverse of the slope is the opportunity cost of good Y in terms of good X
 
 ### Specialization
-People focus on the production of certain goods and services to make more efficient use of its resources, then trade those for other goods. Specialization = more production.
+People focus on the production of certain goods and services to make more efficient use of its resources, then trade those for other goods. Specialization = more production = expand production possibilities.
 
 Someone who can produce more than another person has absolute advantage.
 - star An individual can produce a good using fewer resources than another individual.
@@ -170,3 +170,13 @@ Someone who can produce more than another person has absolute advantage.
 However, to get the most outputs, each person should do the task with the lowest opportunity cost, which is their comparative advantage.
 - Each person can only have 1 comparative advantage over another.
 - star An individual can produce a good at a lower opportunity cost than another individual.
+
+### Terms of Trade
+People who trade with each other have terms of trade range. Assuming each person is self-sufficient in production, the trading price must lie between the opportunity costs of both people.
+
+## Trade Line (Consumption Possibility Curve)
+Shows the combinations each person can consume after specialization and trade.
+
+The slope reflects the terms at which people trade Good Y for Good X.
+
+Trade lines are above each person's individual PPC. Specialization and trade allow people to reach a consumption point above the attainable PPC.
