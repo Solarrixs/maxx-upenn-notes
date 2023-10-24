@@ -179,7 +179,9 @@ Shows the combinations each person can consume after specialization and trade.
 
 The slope reflects the terms at which people trade Good Y for Good X.
 
-Trade lines are above each person's individual PPC. Specialization and trade allow people to reach a consumption point above the attainable PPC.
+With specialization and trade: consumption possibility curve is outside individual PPC.
+With autarky: consumption possibility curve is the individual PPC, which is less efficient.
+- star Both trade lines have the same slope (which is the opportunity cost of a good).
 
 ## Joint PPC
 In this example, two states combine their PPC capabilities to trade internationally. At first, the state with the lower opportunity cost will make automobiles instead of computer chips, up until point T when it completely specializes in automobiles.
