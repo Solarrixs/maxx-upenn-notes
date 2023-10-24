@@ -198,6 +198,8 @@ The position of the joint PPC lies beyond the joint PPC. There exists 3 cases:
 - The world price of Good X has a higher opportunity cost (slope): then the new trade line has a steeper slope and starts at the X intercept.
 - The world price of Good X is in between the lower and higher opportunity cost (slope): then it has a medium slope and starts at the kink. It exports and imports depending on the position of the consumption point.
 
+Based on this, you can determine whether a country will import or export a good depending on whether they use more than they produce of a good.
+
 ## Economy Wide PPC
 An economy with millions of resources and workers will have a joint PPC with many kinks, which can be simplified to a concave bowed out curved line.
 
