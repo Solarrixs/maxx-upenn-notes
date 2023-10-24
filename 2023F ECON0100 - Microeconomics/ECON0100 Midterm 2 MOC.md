@@ -189,6 +189,7 @@ In this example, two states combine their PPC capabilities to trade internationa
 The kink in the joint PPC is the Y and X intercept of the higher producer.
 
 ![[joint PPC.png|600]]
+- star Begin the joint PPC slope with the less steep slope until its maximum.
 
 The slope of a joint PPC is the price of Good X in terms of Good Y.
 
