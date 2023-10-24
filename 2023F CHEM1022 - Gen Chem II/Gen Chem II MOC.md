@@ -31,3 +31,8 @@ Enthalpy can be measured in coffee cup and bomb calorimeters.
 
 # Entropy
 The measurement of disorder is [[entropy]].
+
+
+**equilibrium constant, ICE, le chateliers
+pH of strong weak acid solutions and mixture solutions, polyprotic acids and acid salts and ranking basicity
+common ion effects and buffers**
