@@ -12,7 +12,7 @@ $E_{D}$ measures the responsiveness of quantity demanded to price changes.
 - If $E_{D} < 1$: [[inelastic demand]] as quantity is not responsive (steeper slope).
 - If $E_{D} = 1$: [[unit elastic demand]].
 - If $E_{D} = \infty$: perfectly elastic demand, [[price-taker firm]]
-- If $E_{D} = 0$: perfectly inelastic demand.
+- If $E_{D} = 0$: perfectly inelastic demand, occurs when MR = 0
 
 ## Determinants
 1. Availability of substitutes. More substitutes makes it easier to switch consumption of goods in response to a price increase, so there is a greater elasticity.
