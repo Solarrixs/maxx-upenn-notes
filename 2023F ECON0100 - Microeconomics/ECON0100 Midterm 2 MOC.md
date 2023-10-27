@@ -254,10 +254,10 @@ Exporters and import-dependent businesses support international trade.
 
 ## Protectionist Trade Policies
 ### Tariffs
-Tariffs are taxes on an imported good. This raises revenue for governments and serves the interest of domestic producers.
+Tariffs are taxes on an imported good. This raises revenue for governments and serves the interest of domestic producers. Tariffs are used by poorer countries to generate revenue while richer countries uses taxes.
 
 ![[tariffs.png]]
-- star Tariffs helps domestic producers but hurts domestic consumers and foreign producers
+- star Tariffs helps domestic producers but hurts domestic consumers and foreign producers and causes [[deadweight loss]].
 
 ### Other Protectionist Policies
 Red tapes are like tariffs that raise costs but doesn't raise revenue for the government.
