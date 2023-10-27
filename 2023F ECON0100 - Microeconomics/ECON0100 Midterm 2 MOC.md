@@ -211,7 +211,10 @@ Improvement in a specific productivity or new resource for an industry pivots th
 
 When trading with the rest of the world:
 - The slope is the world opportunity cost of Good X
-- The position such that the PPC touches the trade line is the point of production.
+- The position such that the PPC touches the trade line is the point of production
+- Import and export of goods depend on the production point and trade consumption point
+
+If the world price of a good increases, then a country would want to produce more of that good.
 
 ## Supply, Demand, and PPC
 A country that does not trade is in autarky.
