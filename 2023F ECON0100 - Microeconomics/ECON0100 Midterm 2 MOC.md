@@ -231,7 +231,7 @@ If that country opens its borders to free trade, it will either import or export
 - star After opening to trade, domestic price will become equal to the world price
 - Domestic producers will sell a lower quantity at a lower price, so PS = C 
 - Domestic consumers buy a larger quantity at a lower price, so CS = A+B+D
-- Total surplus increases by D
+- Total surplus increases by D due to free trade
 
 ### Gains and Losses from Exports
 ![[gains and losses from exports.png]]
