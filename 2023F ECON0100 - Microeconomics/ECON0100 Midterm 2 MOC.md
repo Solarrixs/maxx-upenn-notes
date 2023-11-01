@@ -31,6 +31,7 @@ Price ceiling also lead to underproduction, leading to [[deadweight loss]].
 - & This is after price ceilings.
 
 Total revenue of sellers decreases if the equilibrium point is in the [[elastic demand]] curve portion.
+
 ![[price controls and elasticity.png]]
 - More inelastic = less deadweight loss and less shortage.
 - star Over time, people and businesses become more elastic, meaning that shortage and deadweight loss increase over time if a price ceiling is in effect.
@@ -88,7 +89,7 @@ Q_{S} = 2P_{S} - 0.8
 $$
 Assuming the seller pays \$0.30 in taxes, then you can relate $P_{B}$ and $P_{S}$ like this:
 $$
-P_{S} = P_{B} - 0.30
+P_{B} - P_{S} = 0.30
 $$
 Then you can rewrite the supply equation to the new "taxed' supply curve equation:
 $$
@@ -138,14 +139,16 @@ To minimize deadweight loss and maximize revenue, tax should be imposed on inela
 ## Subsidies
 Subsidies encourage the consumption or production of certain goods. Applying the principles above, a subsidy is just a negative tax.
 
-- star $P_{S} - P_{B} = $\text{subsidy}$
+- star $P_{S} - P_{B} = \text{subsidy}$
 
 This means demand curve increases or supply curve increases.
+
 ![[subsidies.png]]
 
 Suppliers get more money and buyers spend less money (CS and PS increases), but the government loses money.
 
 This causes overproduction, so consumer and producer surplus increase. Government expenditure will be larger than the increase in consumer and producer surplus, causing deadweight loss.
+
 ![[welfare effects of subsidies.png|500]]
 - Government loss is ABCDE.
 
