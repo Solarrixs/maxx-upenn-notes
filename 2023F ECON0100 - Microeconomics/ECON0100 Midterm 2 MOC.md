@@ -68,6 +68,8 @@ Governments use taxation to raise revenue (finance spending or redistribution).
 
 Excise taxes is a fixed amount of tax for each unit sold per unit.
 
+- star The best tax value (in $) to generate max revenue is the y-intercept of demand - y-intercept of supply divided by 2.
+
 ## Tax on Sellers
 You pay the regular price of a good, but the seller keeps what you pay minus the tax.
 
