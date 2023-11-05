@@ -67,3 +67,31 @@ Positive externality - an activity whose side effects benefits bystanders
 - Social [[marginal cost]] = MC - external MB
 
 ![[positive externalities by producers.png]]
+
+### Consequences
+Positive externalities lead to underproduction.
+
+MSB = MPB + MEB
+
+![[consequences of positive externalities.png]]
+- Since efficient quantity > quantity market, there is underproduction
+
+![[welfare effects of positive externalities.png]]
+- Total private surplus = between MPB and MPC at Q2 = b - f
+- Total external surplus = between MSB and MSC at Q2 = a + b + d
+- [[deadweight loss]] = d
+
+Therefore, the market does not produce an efficient amount because at the market quantity, the MPC = MPB but is less than the MSB.
+
+## Solving externality problems
+1. Coase theorem - economy can always reach an efficient solution if costs of making a deal is low enough for private bargaining
+- ex Someone pays another person to compensate for their negative/positive externalities
+
+2. You can also uses price to change the incentives of buyers and sellers through taxes and subsidies to correct the market price.
+- ex Pigovian taxes and subsidies
+
+With a negative externality, the market overproduces compared to the socially efficient quantity. The government can use taxes as an incentive for producers to cut back their production.
+
+The efficient tax is the difference from demand and supply to the value above it on the MSC curve.
+
+3. Government regulation like noise or pollution controls. This is the least viable option.
