@@ -38,3 +38,13 @@ I think this was the best outcome for the both of us. It relieved my mental unce
 
 ---
 
+
+--- 
+
+Simply put, I read a lot. Every morning, I read some general world news from the WSJ (10 Point, Markets AM, The Future of Everything). Throughout the day and in between classes, I read and take notes on several newsletters more focused on specific industries and emerging technologies, such as Morning Brew's Emerging Tech Brew, Z Fellows, TLDR Founders, TLDR AI, Exploding Topics, and TechCrunch's Week in Review, Startups Weekly, Max Q, and Actuator. Notes are taken on Obsidian, and sent to Anki for spaced repetition learning for useful facts or figures that I find interesting.
+
+Before I go to sleep, I also like to read a book on my Kindle. I'm currently reading "The Lean Startup" - everyone has recommended me that one. Books like these offer timeless value compared to the up-to-date and relevant information provided by my newsletters, which I trust to aggregate information from the current times.
+
+And yes, I do spend almost 2 hours reading everyday on top of my classwork. But it is a habit I have grow to value over time.
+
+In my specific industry expertise (Materials Engineering/Nanotechnology and Neuroengineering), I spend 10 hours every week conducting research with PhDs and attend lab meetings to hear novel technologies being developed by researchers and even nobel laureates in my school!
