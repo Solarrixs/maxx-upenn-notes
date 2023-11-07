@@ -16,7 +16,6 @@ Even though in perfectly competitive markets, it is efficient (MB = MC), we don'
 
 ## Negative externality
 ### Producers
-Negative externality - an activity whose side effects harm bystanders
 - ex Exhaust from your car harms others who breathe in your pollution
 
 There are private [[marginal cost]] and external [[marginal cost]]. Sellers account for private MC but not external MC, which is the harm that negative externalities (pollution) impose on bystanders.
@@ -28,7 +27,6 @@ The firm's private cost and external cost = marginal social cost
 - MSC is above the supply curve ([[marginal cost]]) with a difference equal to the external MC
 
 ### Consumers
-Negative externalities can also be caused by consumers
 - ex Smoking cigarettes
 
 - star Marginal social benefit (MSB) = private [[demand curve|marginal benefit]] - external [[marginal cost]] (MSB = MB - MEC)
@@ -44,12 +42,20 @@ Negative externalities lead to overproduction.
 ![[welfare effects of negative esternalities.png]]
 - MSC = MPC + MEC
 - MSB = MPB ([[demand curve]])
-- Social surplus at the socially efficient quantity = Q2.
-- Total private surplus = [[producer surplus]] + [[consumer surplus]] = A + B at Q2
-- Total external cost = area between MPC and MSC = B
-- Total social surplus = total private surplus - total external cost = A (between MSB and MSC)
-- Total social surplus at the private market equilibrium = A - D
+
+At private market efficiency (Q1):
+- Total private surplus = [[producer surplus]] + [[consumer surplus]] = A + B + E
+- Total external cost = area between MPC and MSC = B + E + D
+- Total social surplus = total private surplus - total external cost = A - D
 - D is the [[deadweight loss]] as a result of private markets not accounting for social costs
+
+At social market efficiency (Q2):
+- Total private surplus = [[producer surplus]] + [[consumer surplus]] = A + B
+- Total external cost = area between MPC and MSC = B
+- Total social surplus = total private surplus - total external cost = A
+
+Private total surplus = area between MPC and MSB (demand)
+Social total surplus = area between MSC and MSB (demand)
 
 A market doesn't produce at socially efficient quantity with external costs because the MSC exceeds the MSB at market quantity.
 
@@ -57,10 +63,9 @@ MSC is greater than MPC at any output level.
 
 ## Positive externality
 ### Consumers
-Positive externality - an activity whose side effects benefits bystanders
 - ex Getting a COVID19 shots makes you and other people less likely to get sick
 
-- star Social [[demand curve|marginal benefit]] = MB + external MB
+- Social [[demand curve|marginal benefit]] = MB + external MB
 
 ![[positive externalities.png]]
 - The external MB is included in social MB, which is why the social MB is above the [[demand curve]], and the wedge between them reflects the external MB
@@ -79,8 +84,12 @@ MSB = MPB + MEB
 - Since efficient quantity > quantity market, there is underproduction
 
 ![[welfare effects of positive externalities.png]]
-- Total private surplus = between MPB and MPC at Q2 = b - f
-- Total external surplus = between MSB and MSC at Q2 = a + b + d
+- Total private surplus = between MPB and MPC at Q1 = b
+- Total external surplus = between MSB and MSC at Q1 = a
+- Total social surplus = private + external surplus = a + b
+- At Q2, the total private surplus = b - f
+- At Q2, the external surplus = a + d + f
+- At Q2, the total social surplus = a + b + d
 - [[deadweight loss]] = d
 
 Therefore, the market does not produce an efficient amount because at the market quantity, the MPC = MPB but is less than the MSB.
