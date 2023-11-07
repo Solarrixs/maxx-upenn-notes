@@ -12,6 +12,8 @@ Externalities cause conflicts between **private interest (costs and benefits we 
 Even though in perfectly competitive markets, it is efficient (MB = MC), we don't take into account externalities. Therefore, we want to find the socially efficient outcome (outcome efficient for all of society's costs and benefits). Therefore:
 - star Socially efficient outcome occurs when social [[demand curve|marginal benefit]] = social [[marginal cost]]
 
+![[externalities chart.png]]
+
 ## Negative externality
 ### Producers
 Negative externality - an activity whose side effects harm bystanders
