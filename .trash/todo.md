@@ -4,4 +4,3 @@ type: todo
 tags:
 ---
 
-- Add Physics and Chem notes
