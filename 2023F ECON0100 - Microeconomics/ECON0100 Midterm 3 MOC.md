@@ -125,3 +125,6 @@ Governments impose a quota on the efficient quantity so producers are forced to 
 Regulate on quantity like banning smoking, fuel efficiency standards, etc
 
 # Monopolies
+
+
+
