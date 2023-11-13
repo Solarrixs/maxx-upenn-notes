@@ -94,15 +94,28 @@ MSB = MPB + MEB
 
 Therefore, the market does not produce an efficient amount because at the market quantity, the MPC = MPB but is less than the MSB.
 
-## Solving externality problems
-1. Coase theorem - economy can always reach an efficient solution if costs of making a deal is low enough for private bargaining
+# Correcting Externalities
+Negative externalities lead to overproduction (higher quantity than efficient quantity)
+Positive externalities lead to underproduction (lower quantity than efficient quantity)
+
+## Private Bargaining (Coase Theorem)
+Coase theorem - economy can always reach an efficient solution if costs of making a deal is low enough for private bargaining
 - ex Someone pays another person to compensate for their negative/positive externalities
 
-2. You can also uses price to change the incentives of buyers and sellers through taxes and subsidies to correct the market price.
-- ex Pigovian taxes and subsidies
+- star If MSB > MSC, then increase the quantity to find the efficient quantity
 
-With a negative externality, the market overproduces compared to the socially efficient quantity. The government can use taxes as an incentive for producers to cut back their production.
+If you have property right, you can prevent someone else from doing an action that you don't like. However, no matter the property right, negotiation through private bargaining with side payments can happen to fix market failures from externalities.
+- star This solution only works if the externality affects few people a lot, and not effective on many people a little bit (like global warming). The government should step in in the second example.
 
-The efficient tax is the difference from demand and supply to the value above it on the MSC curve.
+Alternatively, someone can pay you money so you allow them to do an action to reach efficient quantity.
+- star The money you pay should be between your [[marginal cost]] and their [[demand curve|marginal benefit]]
 
-3. Government regulation like noise or pollution controls. This is the least viable option.
+## Taxes and Subsidies
+Government can use quantity through taxes and subsidies to correct the market price.
+
+Negative externality - pigovian tax
+- star The efficient tax is the distance between the original MPC and new MSC at the efficient quantity. This is also the MEC at the efficient quantity.
+
+Positive externality - pigovian subsidy
+- star The efficient subsidy is the distance between the original MPB and new MSB at the efficient quantity. This is also the MEB at the efficient quantity.
+
