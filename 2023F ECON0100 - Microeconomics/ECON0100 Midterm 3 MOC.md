@@ -119,3 +119,9 @@ Negative externality - pigovian tax
 Positive externality - pigovian subsidy
 - star The efficient subsidy is the distance between the original MPB and new MSB at the efficient quantity. This is also the MEB at the efficient quantity.
 
+## Cap and Trade & Regulation
+Governments impose a quota on the efficient quantity so producers are forced to produce at a certain quota through permits. Companies can pay for more permits from other companies.
+
+Regulate on quantity like banning smoking, fuel efficiency standards, etc
+
+# Monopolies
