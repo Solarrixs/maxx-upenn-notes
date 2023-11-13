@@ -137,5 +137,6 @@ Monopolies has no supply curve, it has a [[marginal cost]] of the firm/market
 - Max profit quantity is when [[marginal revenue]] = [[marginal cost]] (MR=MC)
 - Max profit price is the [[demand curve|marginal benefit]] above the demand curve
 - Profit = $Q(P-ATC)$
-- star Monopolies always produces in the elastic portion of demand
+- star Monopolies always produces in the elastic portion of demand ($E_{D} > 1$)
 
+Since monopolies lead to underproduction, you can remove negative externalities (which has overproduction) by creating monopolies.
