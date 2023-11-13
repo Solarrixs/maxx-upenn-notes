@@ -130,7 +130,12 @@ Regulate on quantity like banning smoking, fuel efficiency standards, etc
 
 A monopoly is 1 firm that has no competition:
 - No competitor entries - profit in long run is positive
-- Firm demand is the market demand due to high market power and pricing power, so P > [[marginal cost]], leading to increased profits
+- Firm demand is the market demand due to high market power and pricing power, so P > [[marginal cost]], leading to maximum [[profit]] and [[producer surplus]]
+- Thus, monopolies underproduces compared to the efficient quantity, leading to decreased [[total surplus]] and creating a [[deadweight loss]].
 
-
+Monopolies has no supply curve, it has a [[marginal cost]] of the firm/market
+- Max profit quantity is when [[marginal revenue]] = [[marginal cost]] (MR=MC)
+- Max profit price is the [[demand curve|marginal benefit]] above the demand curve
+- Profit = $Q(P-ATC)$
+- star Monopolies always produces in the elastic portion of demand
 
