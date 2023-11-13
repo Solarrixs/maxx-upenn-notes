@@ -126,5 +126,11 @@ Regulate on quantity like banning smoking, fuel efficiency standards, etc
 
 # Monopolies
 
+![[types of market structures.png]]
+
+A monopoly is 1 firm that has no competition:
+- No competitor entries - profit in long run is positive
+- Firm demand is the market demand due to high market power and pricing power, so P > [[marginal cost]], leading to increased profits
+
 
 
