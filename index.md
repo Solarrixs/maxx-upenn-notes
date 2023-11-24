@@ -1,6 +1,6 @@
 Hello, I'm Maxx Yung! I'm a current freshman studying Materials Science and Engineering, Computer Science, and Entrepreneurship.
 
-Welcome to my UPenn Notes Repository. I will try to keep this updated with all my notes taken here at UPenn, but some of my note (especially Chemistry!) is taken on my iPad.
+Welcome to my UPenn Notes Repository. I will try to keep this updated with all my notes taken here at UPenn, but some of my notes (especially Chemistry!) is taken on my iPad.
 
 Here are my current MOCs:
 - [[PHYS0140]]
