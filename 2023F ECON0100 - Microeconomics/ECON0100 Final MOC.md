@@ -184,3 +184,9 @@ Competition between small number of firms with a significant barrier to entry.
 A firm's strategy impacts profits and competitor's impact.
 - Game theory is important in studying oligopolies - how firms will behave
 
+The best response to a situation results in a dominant strategy
+- The Nash Equilibrium is the dominant strategy equilibrium chosen by both firms
+- Equilibrium (Row, Column)
+
+Some strategies can be classified as cooperation, competition, or as Pareto dominant.
+- Cooperation is Pareto efficient and is mutually beneficial but not sustainable (known as collusion)
