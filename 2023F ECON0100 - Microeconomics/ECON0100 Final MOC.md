@@ -189,4 +189,4 @@ The best response to a situation results in a dominant strategy
 - Equilibrium (Row, Column)
 
 Some strategies can be classified as cooperation, competition, or as Pareto dominant.
-- Cooperation is Pareto efficient and is mutually beneficial but not sustainable (known as collusion)
+- Cooperation is Pareto efficient and is mutually beneficial but not sustainable (known as collusion, which is typically illegal and difficult to do)
