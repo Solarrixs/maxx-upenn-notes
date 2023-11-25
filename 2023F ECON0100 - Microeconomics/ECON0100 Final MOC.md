@@ -132,6 +132,7 @@ A monopoly is 1 firm that has no competition:
 - No competitor entries - profit in long run is positive
 - Firm demand is the market demand due to high market power and pricing power, so P > [[marginal cost]], leading to maximum [[profit]] and [[producer surplus]]
 - Thus, monopolies underproduces compared to the efficient quantity, leading to decreased [[total surplus]] and creating a [[deadweight loss]].
+- star For a monopoly, the quantity produced is MR = MPC
 
 Monopolies has no supply curve, it has a [[marginal cost]] of the firm/market
 - Max profit quantity is when [[marginal revenue]] = [[marginal cost]] (MR=MC)
@@ -139,4 +140,10 @@ Monopolies has no supply curve, it has a [[marginal cost]] of the firm/market
 - Profit = $Q(P-ATC)$
 - star Monopolies always produces in the elastic portion of demand ($E_{D} > 1$)
 
-Since monopolies lead to underproduction, you can remove negative externalities (which has overproduction) by creating monopolies.
+Since monopolies lead to underproduction, you can remove negative externalities (which has overproduction) by creating monopolies compared to perfect competition.
+
+If the negative externality is really strong, then a monopoly + tax will work in achieving the efficient quantity.
+- MPC + tax = MR at $Q_{E}$
+
+If the negative externality is really weak, then a monopoly + subsidy will work in achieving the efficient quantity.
+- MPC - subsidy = MR at $Q_{E}$
