@@ -125,7 +125,6 @@ Governments impose a quota on the efficient quantity so producers are forced to 
 Regulate on quantity like banning smoking, fuel efficiency standards, etc
 
 # Monopolies
-
 ![[types of market structures.png]]
 
 A monopoly is 1 firm that has no competition:
@@ -147,3 +146,37 @@ If the negative externality is really strong, then a monopoly + tax will work in
 
 If the negative externality is really weak, then a monopoly + subsidy will work in achieving the efficient quantity.
 - MPC - subsidy = MR at $Q_{E}$
+
+If the market has a positive externality, you do not want a monopoly and would rather have perfect competition market. Since monopolies generate underproduction.
+
+# Price Discrimination
+Firm can charge different prices if:
+- The firm has market power (non-competitive market)
+- Firms can identify and separate types of buyers based on their demand
+- Firm can prevent arbitrage
+
+1st degree PD - every consumer is charged the maximum price they are willing to pay
+2nd degree PD - higher unit purchased results in lower prices per unit
+3rd degree PD - different prices based on price elasticity of different consumers
+
+1st degree price discrimination is perfect (perfect price discrimination).
+- Rare because you need a ton of data on each buyer such that you charge each buyer the perfect amount they were going to pay
+- A monopoly firm sells such that MR = MC (meaning that the [[marginal revenue]] is just the [[demand curve]])
+
+![[perfect price discrimination monopoly.png]]
+- For PPD, there is no one price a consumer pays.
+- For PPD, [[consumer surplus]] is 0 and the [[total surplus]] is maximum (no [[deadweight loss]]).
+
+# Natural Monopolies
+If an industry has a natural monopoly, a single firm can produce at a lower per unit cost than if there were multiple firms in the industry.
+- Governments regulates these natural monopolies instead of breaking it up
+- The ATC is downwards everywhere and the MC is a low constant value
+
+![[natural monopolies.png]]
+- $Q_{M}$ is MR = MC
+- $Q_{E}$ is MB = MC
+- To increase quantity produced, a price ceiling at the MC can be imposed. However, since  [[profit]] = Q(P-ATC) = PS - FC, the firm will lose money and that is bad. So the government will provide a per unit subsidy.
+- Instead, a price ceiling at the ATC is used because it is more beneficial. The [[profit]] = 0  but the $Q_{ATC} < Q_{E}$.
+
+# Oligopoly
+Competition between small number of firms with a significant barrier to entry.
