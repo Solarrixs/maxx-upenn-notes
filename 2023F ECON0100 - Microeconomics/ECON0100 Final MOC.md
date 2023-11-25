@@ -180,3 +180,7 @@ If an industry has a natural monopoly, a single firm can produce at a lower per 
 
 # Oligopoly
 Competition between small number of firms with a significant barrier to entry.
+
+A firm's strategy impacts profits and competitor's impact.
+- Game theory is important in studying oligopolies - how firms will behave
+
