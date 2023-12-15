@@ -222,6 +222,7 @@ Oftentimes, market for public goods underproduces (similar to positive externali
 - ex If someone decides buying a public good isn't worth it, they won't get any marginal benefit and therefore you would not add $P_{1} + P_{2}$.
 
 # Labor Markets
+## Labor Demand
 Demand for labor input is based on the output.
 - ex The output of education determines the demand for teachers. The output of bread determines the demand for bakers.
 
@@ -239,3 +240,26 @@ You can calculate the Marginal Revenue Product of Labor: $MRP_{L} = MP_{L} \time
 $MP_{L} \times P = VMP_{L}$
 - Value of the Marginal Product of Labor
 - If a firm has market power (not perfectly competitive market): $MRP_{L} \leq VMP_{L}$
+
+Total demand for labor is: number of firms $\times$ labor quantity
+
+If the output price increases, the $D_{L}$ curve pivots upwards from the x-axis. If the $MP_{L}$ increases (improvement in technology and productivity), the $D_{L}$ changes based on:
+- Labor saving technologies - decreases $MP_{L}$ and $D_{L}$ shifts inwards
+- Labor complementary technologies - increases $MP_{L}$ and $D_{L}$ shifts outwards
+
+## Labor Supply
+Workers face a tradeoff between work and leisure. The [[opportunity cost]] of 1 hour of leisure is the hourly wage.
+- If wage increases, [[substitution effects]] dictates you will work more
+- If wage increases, [[income effects]] dictates you will work less
+
+Thus, there is a Supply of Labor graph for a firm:
+![[supply of labor graph.png|450]]
+- As wage increases, the [[substitution effects]] > [[income effects]] until $W_{BB}$.
+
+At the market level, the supply of labor is linear increasing due to increased participation effect.
+
+## Labor Market Equilibrium
+Intersection of $MRP_{L} (L_{D}) = L_{S}$ is the equilibrium.
+
+A change in the price of the output market determines the labor market equilibrium by shifting or pivoting the $MRP_{L}$ curve. However, because labor market equilibrium changes which affects wage prices, that will shift the labor supply in the output market.
+- star Wage and price will increase or decrease more than calculated on this curve
