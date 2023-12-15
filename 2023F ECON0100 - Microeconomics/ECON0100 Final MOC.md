@@ -1,4 +1,6 @@
 ---
+quickshare-date: 2023-12-15
+quickshare-url: "https://noteshare.space/note/clq6aktem043701mw8098hn2r#jCrcY8BiLsm6ktOCzUOXJ4xJnzvLUApQDREymGN+V2o"
 date: 2023-11-05
 type: MOC
 tags: 
@@ -201,6 +203,39 @@ Excludability
 - If someone can enjoy a good without pay, it is non-excludable (like watching fireworks launched by neighbors)
 
 ![[classifying goods.png]]
-- Private Goods: MSB of your private good is your [[demand curve|marginal benefit]] of your private good. Market demand (MSB) is the sum of all quantities consumed by all consumers at all price levels. $Q_{\text{Market}} = Q_{1} + Q_{2}$
-- Public Good: MSB of your public good is everyone's [[demand curve|marginal benefit]] consuming that public good.  Market demand is the sum of price levels consumed by all consumers at all quantity levels. $P_{\text{Market}} = P_{1} + P_{2}$. Oftentimes, market for public goods underproduces (similar to positive externalities) since people are tempted to free-consume the public good - known as the free rider problem
-- 
+
+## Private Goods
+MSB of your private good is your [[demand curve|marginal benefit]] of your private good.
+
+Market demand (MSB) is the sum of all quantities consumed by all consumers at all price levels. $Q_{\text{Market}} = Q_{1} + Q_{2}$
+
+## Public Goods
+MSB of your public good is everyone's [[demand curve|marginal benefit]] consuming that public good.  
+
+Market demand is the sum of price levels consumed by all consumers at all quantity levels. $P_{\text{Market}} = P_{1} + P_{2}$.
+
+Oftentimes, market for public goods underproduces (similar to positive externalities) since people are tempted to free-consume the public good - known as the free rider problem. This causes a Prisoners' Dilemma problem, leading to a Nash Equilibrium and a Dominant Strategy Equilibrium of not contributing to paying.
+- It is a Prisoners' Dilemma game because there is a Dominant Strategy Equilibrium but there is another Pareto dominating equilibrium solution.
+- A free-rider problem can be solved through (small) private group coordination, charitable giving, or government taxes
+
+- star Make sure to take into account the multiple MSBs!
+- ex If someone decides buying a public good isn't worth it, they won't get any marginal benefit and therefore you would not add $P_{1} + P_{2}$.
+
+# Labor Markets
+Demand for labor input is based on the output.
+- ex The output of education determines the demand for teachers. The output of bread determines the demand for bakers.
+
+See [[marginal product of labor]] $(MP_{L})$ and [[total product of labor]].
+
+You can calculate the Marginal Revenue Product of Labor: $MRP_{L} = MP_{L} \times MR$
+- [[marginal product of labor]] $\times$ [[marginal revenue]]
+- $MRP_{L}$ always decreases as the firm hires more labor (higher $L$)
+
+- star The optimal labor quantity for perfectly competitive markets is: $MRP_{L} =$ wage.
+- If $MRP_{L} > w$, then the firm can increase [[profit]] by hiring one more worker
+- If $MRP_{L} < w$, then the firm can increase [[profit]] by firing one more worker
+- $MR = MC$ is the same as $MRP_{L} = w$ to maximize profit quantity
+
+$MP_{L} \times P = VMP_{L}$
+- Value of the Marginal Product of Labor
+- If a firm has market power (not perfectly competitive market): $MRP_{L} \leq VMP_{L}$
