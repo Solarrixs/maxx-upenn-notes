@@ -190,3 +190,17 @@ The best response to a situation results in a dominant strategy
 
 Some strategies can be classified as cooperation, competition, or as Pareto dominant.
 - Cooperation is Pareto efficient and is mutually beneficial but not sustainable (known as collusion, which is typically illegal and difficult to do)
+
+# Public vs Private Goods
+Rivalry in Consumption
+- Rival goods when consumed, nobody else can consume the rival good - comes at someone else's expenses (like eating a food)
+- Non-rival goods are not consumed when used (like watching a show)
+
+Excludability
+- A good is excluded if a person can be excluded for consuming the good (like buying anything)
+- If someone can enjoy a good without pay, it is non-excludable (like watching fireworks launched by neighbors)
+
+![[classifying goods.png]]
+- Private Goods: MSB of your private good is your [[demand curve|marginal benefit]] of your private good. Market demand (MSB) is the sum of all quantities consumed by all consumers at all price levels. $Q_{\text{Market}} = Q_{1} + Q_{2}$
+- Public Good: MSB of your public good is everyone's [[demand curve|marginal benefit]] consuming that public good.  Market demand is the sum of price levels consumed by all consumers at all quantity levels. $P_{\text{Market}} = P_{1} + P_{2}$. Oftentimes, market for public goods underproduces (similar to positive externalities) since people are tempted to free-consume the public good - known as the free rider problem
+- 

@@ -3,7 +3,7 @@
   "translucency": false,
   "baseFontSizeAction": false,
   "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "bullet lines",
     "supercharged-links-gen",
@@ -11,10 +11,10 @@
     "callouts-styling",
     "vault beauttifer"
   ],
-  "accentColor": "#92ddac",
+  "accentColor": "#8ab79b",
   "showViewHeader": true,
-  "interfaceFontFamily": "Atkinson Hyperlegible",
+  "interfaceFontFamily": "Geist",
   "nativeMenus": true,
-  "textFontFamily": "Atkinson Hyperlegible",
-  "monospaceFontFamily": "Inter"
+  "textFontFamily": "Geist",
+  "monospaceFontFamily": "Geist Mono"
 }
