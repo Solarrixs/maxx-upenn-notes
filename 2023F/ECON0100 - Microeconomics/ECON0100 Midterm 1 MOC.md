@@ -13,18 +13,6 @@ Thus, people must make choices to best use the [[scarce resources]] available.
 
 As a whole, society relies on the [[interdependence principle]] to make decisions beneficial for all of society.
 
-# Economic Models
-- ! Unknown if this is studied in class
-Economic models only focus on the important things and ignores all the minor details.
-
-Most economic models are positive economics:
-1. cause-and-effect explanations of economic relationships
-2. empirical (numerical) dimension where data can confirm or refute propositions
-
-There are also normative economics:
-1. asks whether something should happen
-2. reflects subjective value judgement such as ethical positions
-
 # Consumer Choice
 
 ## Indifference Curves
@@ -64,11 +52,6 @@ $\Delta\% = \dfrac{\text{final - initial}}{average}$
 
 ## Price Changes Lead to Total Effects
 When a price of a good changes, there is [[substitution effects]] (change in price ratio) and [[income effects]] (a change in purchasing power shifts the budget line), resulting in a [[total effect]]. Either the income effect or the substitution effect dominates the total effect based on the changes in consumptions reflected by the goods. A special case of total effect is a [[griffen good]].
-
-# Behavioral Economists
-Standard economists relies on the assumption that people are rational. However, psychology shows that people are predictably irrational. Thus, behavioral economics was born.
-
-Irrational decisions are based on the [[anchoring effect]], [[status quo bias]], and [[faulty discounting]].
 
 # Seller Choice
 Resources like labor and capital equipment to produce goods and services are inputs (factors of production), while goods and services are outputs. The relationship between quantity of inputs used and quantity of outputs produced is the production function.
