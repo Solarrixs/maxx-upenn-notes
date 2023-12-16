@@ -8,5 +8,5 @@ The [[marginal rate of substitution]] is the willingness of a person to give up 
 
 $MRS_{xy} = \dfrac{\Delta Y}{\Delta X} = \dfrac{MU_{x}}{MU_{y}}$
 - Read as MRS of X for Y.
-- The MRS is the slope on the [[indifference curve]] - change in good X / change in good Y
+- The MRS is the slope on the [[indifference curve]] - $\dfrac{\Delta Y}{\Delta X}$
 - $MU$ is [[marginal utility]]
