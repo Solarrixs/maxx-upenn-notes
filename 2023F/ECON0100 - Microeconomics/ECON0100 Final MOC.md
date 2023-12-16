@@ -253,6 +253,7 @@ Workers face a tradeoff between work and leisure. The [[opportunity cost]] of 1 
 - If wage increases, [[income effects]] dictates you will work less
 
 Thus, there is a Supply of Labor graph for a firm:
+
 ![[supply of labor graph.png|450]]
 - As wage increases, the [[substitution effects]] > [[income effects]] until $W_{BB}$.
 
@@ -263,3 +264,47 @@ Intersection of $MRP_{L} (L_{D}) = L_{S}$ is the equilibrium.
 
 A change in the price of the output market determines the labor market equilibrium by shifting or pivoting the $MRP_{L}$ curve. However, because labor market equilibrium changes which affects wage prices, that will shift the labor supply in the output market.
 - star Wage and price will increase or decrease more than calculated on this curve
+
+# Wage Differentials
+Within the same and across different industries or locations market, people with different skills or even comparable skills have different wages
+
+## Compensating Differentials
+Different wages because some jobs are more or less attractive - dangerous, difficult, prestigious, better work schedule, work environment, etc
+- Compensate with higher salary for less attractive jobs even with same skill and education requirements (pool guard vs sewer cleaner)
+
+## Human Capital
+Different wages due to different skills or education because of desired human capital since education increases productivity and increases $MP_{L}$ level.
+
+1. Technology automation substitutes low-skilled workers (demand decreases) while complements high-skilled workers (demand increases)
+2. Globalization causes developed countries to want more high-skilled workers than low-skilled workers. They can just import goods that are created by low-skilled workers from other countries.
+
+## Discrimination
+Discrimination even with same education or skill level because employers think certain people have lower $MRP_{L}$ than actual productivity.
+
+# Monopsony
+Market with a single buyer - causing market power on the demand (employer) side.
+- Opposite from monopolies, which is market power on the supply side (single seller)
+
+Monopsonist must pay a higher wage if it wants to hire more labor
+- In a perfect competition in labor market, $MC_{L} = w$
+- In a monopsony, $MC_{L} \geq w$
+
+![[monopsony.png]]
+- $MC_{L} = 2L$ for monopsony so:
+	- star $S_{L}: w = a + bL$
+	- star $MC_{L} = a + 2bL$
+
+Since max [[profit]] is the labor when $MRP_{L} = MC_{L}$
+- Find the intersection of $MRP_{L} = MC_{L}$
+- Go down to the $S_{L}$ level to see the wage rate $w$.
+
+Monopsony is inefficient and causes a [[deadweight loss]].
+- Since it hires less workers, this causes less employment but not causing unemployment
+
+![[monopsony graph.png]]
+
+If a minimum wage is imposed on a monopsony:
+- For $S_{L} < w$ (left of when minimum wage line intersects supply), the $MC_{L}$ becomes the minimum wage line.
+- For $S_{L} > w$ (right of when minimum wage line intersects supply), the $MC_{L}$ becomes the original $MC_{L}$ line.
+- Minimum wage reduces [[deadweight loss]] and usually increases employment, but it can sometimes generate unemployment if the minimum wage > perfectly competitive wage.
+
