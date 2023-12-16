@@ -228,18 +228,14 @@ Demand for labor input is based on the output.
 
 See [[marginal product of labor]] $(MP_{L})$ and [[total product of labor]].
 
-You can calculate the Marginal Revenue Product of Labor: $MRP_{L} = MP_{L} \times MR$
+You can calculate the Marginal Revenue Product of Labor: $MRP_{L} = MP_{L} \times MR$ or $MRP_{L} = MP_{L} \times P^*$
 - [[marginal product of labor]] $\times$ [[marginal revenue]]
 - $MRP_{L}$ always decreases as the firm hires more labor (higher $L$)
 
-- star The optimal labor quantity for perfectly competitive markets is: $MRP_{L} =$ wage.
+- star The optimal labor quantity for perfectly competitive markets is: $MRP_{L} = w$.
 - If $MRP_{L} > w$, then the firm can increase [[profit]] by hiring one more worker
 - If $MRP_{L} < w$, then the firm can increase [[profit]] by firing one more worker
 - $MR = MC$ is the same as $MRP_{L} = w$ to maximize profit quantity
-
-$MP_{L} \times P = VMP_{L}$
-- Value of the Marginal Product of Labor
-- If a firm has market power (not perfectly competitive market): $MRP_{L} \leq VMP_{L}$
 
 Total demand for labor is: number of firms $\times$ labor quantity
 
