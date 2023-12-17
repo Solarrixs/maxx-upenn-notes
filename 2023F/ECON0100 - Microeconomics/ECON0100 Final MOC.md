@@ -133,12 +133,12 @@ A monopoly is 1 firm that has no competition:
 - No competitor entries - profit in long run is positive
 - Firm demand is the market demand due to high market power and pricing power, so P > [[marginal cost]], leading to maximum [[profit]] and [[producer surplus]]
 - Thus, monopolies underproduces compared to the efficient quantity, leading to decreased [[total surplus]] and creating a [[deadweight loss]].
-- star For a monopoly, the quantity produced is MR = MPC
+- star For a monopoly, the quantity produced is $MR = MPC$
 
 Monopolies has no supply curve, it has a [[marginal cost]] of the firm/market
-- Max profit quantity is when [[marginal revenue]] = [[marginal cost]] (MR=MC)
+- Max profit quantity is when [[marginal revenue]] = [[marginal cost]] $(MR=MC)$
 - Max profit price is the [[demand curve|marginal benefit]] above the demand curve
-- Profit = $Q(P-ATC)$
+- Profit = $q(P-ATC)$
 - star Monopolies always produces in the elastic portion of demand ($E_{D} > 1$)
 
 Since monopolies lead to underproduction, you can remove negative externalities (which has overproduction) by creating monopolies compared to perfect competition.
@@ -163,7 +163,7 @@ Firm can charge different prices if:
 
 1st degree price discrimination is perfect (perfect price discrimination).
 - Rare because you need a ton of data on each buyer such that you charge each buyer the perfect amount they were going to pay
-- A monopoly firm sells such that MR = MC (meaning that the [[marginal revenue]] is just the [[demand curve]])
+- A monopoly firm sells such that $MR = MC$ (meaning that the [[marginal revenue]] is just the [[demand curve]])
 
 ![[perfect price discrimination monopoly.png]]
 - For PPD, there is no one price a consumer pays.
