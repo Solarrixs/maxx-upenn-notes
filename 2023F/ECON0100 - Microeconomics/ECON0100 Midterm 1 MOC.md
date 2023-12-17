@@ -112,11 +112,10 @@ A [[competitive equilibrium]] is established when supply and demand is balanced.
 ## Market Supply and Market Equilibrium
 The combination of market [[supply]] and market demand for perfect competition creates the market equilibrium graph.
 
-A perfectly competitive equilibrium produces the efficient quantity under Pareto efficiency. Thus, [[total surplus]] is maximized because MB=MC.
+A perfectly competitive equilibrium produces the efficient quantity under Pareto efficiency. Thus, [[total surplus]] is maximized because $MB=MC$.
 
 $P = MR$
 When $MC = ATC$, that is $Q_{D}$. Plug that $Q_{D}$ into $MC$ or $ATC$ to find $P$
 Individual supply: MC equation above shut down price
 
 In the long run, if there are positive short run profits, more firms will enter in the long-run, shifting the market supply curve out (more elastic) so the market price decreases and demand decreases until profits are zero. In the long run, price will equal the minimum ATC (the breakeven point)
-
