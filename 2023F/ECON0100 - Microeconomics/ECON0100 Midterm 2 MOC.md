@@ -104,7 +104,7 @@ The [[demand curve]] = [[demand curve|marginal benefit]] curve. Since there is a
 
 ![[tax on buyers.png|600]]
 
-Following the same steps as in on the Tax on Sellers, you set the equation $P_{B} = P_{S} + \$\text{tax}$, then replace $P_{B}$ with $P_{S}$ in the $Q_{D}$ equation. Then, since $Q_{D} = Q_{S}$, solve the equation.
+Following the same steps as in on the Tax on Sellers, you set the equation $P_{B} = P_{S} + \text{tax}$, then replace $P_{B}$ with $P_{S}$ in the $Q_{D}$ equation. Then, since $Q_{D} = Q_{S}$, solve the equation.
 
 ## Economic Tax Incidence
 Whether a tax is levied on buyers or sellers, it has the same economic effect. The tax burden affects both buyers and sellers. 
