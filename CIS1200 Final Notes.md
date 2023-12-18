@@ -103,3 +103,16 @@ let g x =
   f
 ```
 When g calls f, a closure is created in the heap which is f's code and the necessary variable it needs (which is variable y from g).
+
+Java stores static variables in the heap. Since static variables are accessed by the class and not class instances, it has to go into the heap.
+
+Try catch can have compile time errors if you don't write specific exceptions first.
+
+A function is tail recursive if the last thing it does is call itself, with no further computation after that call. This means that the function doesn't need to maintain any state other than the arguments passed to the recursive call. If there's further computation or the result of the recursive call is combined with other values, the function is not tail recursive.
+
+Simple inheritance is when a class inherits from 1 superclass
+
+Subtype polymorphism: dynamic/runtime polymorphism, when subclass can be treated as an instance of superclass. Through inheritance and interface implementation usually.
+
+Parametric polymorphism: allows classes and methods t o operate on different object types. Usually has a <> keyword like `Box<Integer> intergerBox = new Box<>();`
+
