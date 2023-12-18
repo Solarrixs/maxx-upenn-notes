@@ -116,3 +116,6 @@ Subtype polymorphism: dynamic/runtime polymorphism, when subclass can be treated
 
 Parametric polymorphism: allows classes and methods t o operate on different object types. Usually has a <> keyword like `Box<Integer> intergerBox = new Box<>();`
 
+Exceptions must include in their interface using the throws keyword, or handled using try catch otherwise it will not compile.
+![[CIS1200 Exceptions Tree.png]]
+
