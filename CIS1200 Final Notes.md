@@ -92,3 +92,5 @@ x = new Point(2, 3)
 x is the static type, Point is the dynamic type
 Dynamic type needs to be subtype of the static type
 ```
+
+Adapters implement all the defaults of an interface and allows you to fill in the implementation of a specific method without having to fill boilerplate for all the other methods
