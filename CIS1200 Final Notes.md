@@ -4,21 +4,6 @@ type: note
 tags: 
 ---
 
-Interface extends classes - then classes must have interface methods
-Classes can extend classes - inherits all fields from the supertype, like adding on
-Object is the the highest supertype
-
-- ? Extends vs implements vs inheritance?
-
-dynamic class determined at runtime
-```
-Displaceable x;
-x = new Point(2, 3)
-
-x is the static type, Point is the dynamic type
-Dynamic type needs to be subtype of the static type
-```
-
 OCaml only has static while Java has dynamic classes due to objects
 
 All methods of classes are under class tables
@@ -30,30 +15,6 @@ this keyword cannot refer to static method
 static field is a global variable
 
 static methods can't use this pointer since static methods can only call other static methods or read/write static fields
-
-Subtype polymorphism:
-If object of type A is needed, any object that is a subtype of A can be provided
-Since the subtype of A has all of A's public methods
-
-Parametric polymorphism (generics):
-```
-public interface Queue<E>
-enq(E o);
-E deq();
-
-E is subtype of Object but you don't know the type of it until E gets passed, like:
-
-Queue<String> q = ...;
-```
-
-When combining subtyping and generics:
-```
-Even if String is subtype of Object
-Queue<String> is not a subtype of Queue<Object>
-Queue<String> can only be used with other Queue<String>
-
-Thus Java generics are "invariants"
-```
 
 For each loops:
 ```
@@ -70,24 +31,8 @@ switch statement, you need a break after each case
 
 New Java code - switch expressions - no need to use break, uses -> syntax, must be exhaustive
 
-RuntimeException subtypes are not checked and don't need to be declared (fewer compile guarantee but easier refactor)
-
-Checked exceptions must be documented using a throws `expression` keyword or use a try-catch block:
-`public void someMethod (String file) throws IOException`
-Better documentation but hard to refactor
-
 1 byte = 8 bits - that is one input stream for I/O streams
 BufferedInputStreams allows you to read a lot more at once - save time
-
-- ? Anonymous Inner Class
-	- Used inside of AbstractClasses (abstract and concrete methods):
-	- Interfaces only have abstract methods (methods must be completed by the class itself)
-```
-AbstractClass ac = new AbstractClass() {
-	@Override
-	...
-};
-```
 
 ---
 
@@ -116,6 +61,34 @@ Subtype polymorphism: dynamic/runtime polymorphism, when subclass can be treated
 
 Parametric polymorphism: allows classes and methods t o operate on different object types. Usually has a <> keyword like `Box<Integer> intergerBox = new Box<>();`
 
+When combining subtyping and generics:
+```
+Even if String is subtype of Object
+Queue<String> is not a subtype of Queue<Object>
+Queue<String> can only be used with other Queue<String>
+
+Thus Java generics are "invariants"
+```
+
 Exceptions must include in their interface using the throws keyword, or handled using try catch otherwise it will not compile.
 ![[CIS1200 Exceptions Tree.png]]
 
+
+- Anonymous Inner Classes are used inside of AbstractClasses (abstract and concrete methods):
+- Interfaces only have abstract methods (methods must be completed by the class itself)
+```
+AbstractClass ac = new AbstractClass() {
+	@Override
+	...
+};
+```
+- star Look out for `new ... () {@Override}` or `() ->`, those are anonymous inner classes
+
+dynamic class determined at runtime
+```
+Displaceable x;
+x = new Point(2, 3)
+
+x is the static type, Point is the dynamic type
+Dynamic type needs to be subtype of the static type
+```
