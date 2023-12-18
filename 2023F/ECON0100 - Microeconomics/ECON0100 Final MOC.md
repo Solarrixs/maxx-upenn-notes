@@ -245,8 +245,11 @@ If the output price increases, the $D_{L}$ curve pivots upwards from the x-axis.
 
 ## Labor Supply
 Workers face a tradeoff between work and leisure. The [[opportunity cost]] of 1 hour of leisure is the hourly wage.
-- If wage increases, [[substitution effects]] dictates you will work more
-- If wage increases, [[income effects]] dictates you will work less
+
+[[substitution effects]] always means more work.
+[[income effects]] means:
+- more work if leisure is inferior
+- less work if leisure is normal
 
 Thus, there is a Supply of Labor graph for a firm:
 
