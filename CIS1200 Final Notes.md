@@ -99,4 +99,29 @@ Inner class is a class defined within an outer class and has access to the outer
 
 A subclass is a class that inherits from another class, known as the superclass. Uses `extends`  keyword.
 
-If a class extends another class, then it is a subclass. If a class implements another class, then it is a subtype.
+If a class extend one other class only, then it is a subclass. If a class implements another class, then it is a subtype.
+
+- ? Casting
+
+Iterable extends Collections interface with a iterator method.
+```
+List<Book> shelf = ...
+Iterator<Book> iter = shelf.iterator();
+while (iter.hasNext()) {
+	Book book = iter.next();
+	catalog.addInfo(book);
+	notebooks = notebooks + 1
+}
+```
+
+Maps:
+```
+Map<String, Integer> m = ...
+for (Map.Entry<String, Integer> entry : m.entrySet()) {
+	String key = entry.getKey();
+	Integer value = entry.getValue();
+	// do something with key and value
+}
+```
+
+Override equals when classes represent immutable values
