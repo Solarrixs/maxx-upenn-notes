@@ -128,5 +128,3 @@ for (Map.Entry<String, Integer> entry : m.entrySet()) {
 Override equals when classes represent immutable values
 
 this cannot be used in a static context
-
-Iterator code
