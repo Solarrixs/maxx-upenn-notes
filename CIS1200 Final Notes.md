@@ -69,6 +69,7 @@ Queue<String> can only be used with other Queue<String>
 
 Thus Java generics are "invariants"
 ```
+In Java, generics are invariant, meaning that even if `Integer` is a subtype of `Object`, `AbstractGraph<Integer>` is not a subtype of `AbstractGraph<Object>`
 
 Exceptions must include in their interface using the throws keyword, or handled using try catch otherwise it will not compile.
 ![[CIS1200 Exceptions Tree.png]]
