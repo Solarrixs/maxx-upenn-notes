@@ -36,7 +36,7 @@ BufferedInputStreams allows you to read a lot more at once - save time
 
 ---
 
-OCaml abstract type is the interface (.mli) and Implementation (.ml) code. The interface provides all the type values and functions, and implementation actually defines it. The intended behavior of an abstract type is defined by the interface.
+OCaml abstract type is the sig interface (.mli) and struct implementation (.ml) code. The interface provides all the type values and functions, and implementation actually defines it. The intended behavior of an abstract type is defined by the interface.
 
 In OCaml, ; is the sequencing operator, and is used to execute expressions with side-effects like: `let () = printString...; printString...;`
 
@@ -126,3 +126,5 @@ for (Map.Entry<String, Integer> entry : m.entrySet()) {
 ```
 
 Override equals when classes represent immutable values
+
+this cannot be used in a static context
