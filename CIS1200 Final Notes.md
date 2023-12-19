@@ -94,3 +94,9 @@ Dynamic type needs to be subtype of the static type
 ```
 
 Adapters implement all the defaults of an interface and allows you to fill in the implementation of a specific method without having to fill boilerplate for all the other methods
+
+Inner class is a class defined within an outer class and has access to the outer class private members
+
+A subclass is a class that inherits from another class, known as the superclass. Uses `extends`  keyword.
+
+If a class extends another class, then it is a subclass. If a class implements another class, then it is a subtype.
