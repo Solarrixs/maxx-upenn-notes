@@ -6,7 +6,7 @@
   "defaultViewMode": "preview",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "fileSortOrder": "alphabetical",
   "readableLineLength": true,
