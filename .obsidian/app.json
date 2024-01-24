@@ -3,7 +3,7 @@
   "showFrontmatter": false,
   "foldHeading": true,
   "foldIndent": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
@@ -50,7 +50,7 @@
   "userIgnoreFilters": [
     "000 System Files/Templates/"
   ],
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "vimMode": false,
   "propertiesInDocument": "visible"
 }
