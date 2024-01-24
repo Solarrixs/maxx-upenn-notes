@@ -14,9 +14,9 @@ Because McKinsey often recommends drastic cost-cutting measures which can compro
 Because McKinsey's advice can cause companies to value short-term financial gains at the expense of overall long-term gains.
 
 # Chapter 1
-Given that McKinsey is an influential consulting firm who exert significant influence on many industries and governmental agencies worldwide.
+Given that McKinsey is an influential consulting firm who emphasize their moral and ethical values to attract business.
 
-Thus Despite having many moral and social values, McKinsey prioritizes client interests and profits over everything else.
+Thus McKinsey prioritizes client interests and profits over everything else (such as their moral and social values).
 
 Because McKinsey is willing to work with controversial industries or governments despite ethical dilemmas or questionable social impact.
 
