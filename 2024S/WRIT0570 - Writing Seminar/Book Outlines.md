@@ -5,9 +5,9 @@ tags:
 ---
 
 # Introduction
-Given that McKinsey is an influential consulting firm who advises companies on strategies to increase profitability.
+Given that McKinsey is an influential consulting firm who aims to advise companies to increase profitability.
 
-Thus McKinsey's advice can have detrimental effects on employees and the company.
+Thus McKinsey's advice can instead have detrimental effects on employees and the company.
 
 Because McKinsey often recommends drastic cost-cutting measures which can compromise employee safety and lead to accidents.
 
