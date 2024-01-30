@@ -32,3 +32,27 @@ Because McKinsey nudges corporate executives to inflate their salaries.
 Because McKinsey nudges companies to cut costs by outsourcing and restructuring instead of improving revenue.
 
 # Chapter 3
+Given that McKinsey can work with both private companies and public governments.
+
+Thus McKinsey’s involvement in the healthcare industry poses a clear conflict of interest.
+
+Because its advantageous connections with the government helps it secure contracts that other firms can’t.
+
+For example, when Illinois was trying to evaluate and overhaul Medicaid, McKinsey was able to obtain non-bidding contracts at a higher cost due to policies being bent in their favor.
+
+Because its connections with the government helps its clients bypass regulations.
+
+For example, McKinsey was able to get the FDA’s approval of Biogen’s Aduhelm drug, despite clear evidence that it wasn’t effective.
+
+# Chapter 4
+Given that McKinsey’s consulting with ICE presents clear violations of its Values.
+
+Thus McKinsey faces backlash for their work.
+
+Because the firm’s business practices conflict with ethical standards.
+
+For example, McKinsey consultants spoke out against its work with ICE, only to be replied with “We don’t do policy, we do execution.”
+
+Because McKinsey violates human rights to save on costs.
+
+For example, McKinsey advised ICE to cut spending on food for detainees, a recommendation the ICE workers were even against.
