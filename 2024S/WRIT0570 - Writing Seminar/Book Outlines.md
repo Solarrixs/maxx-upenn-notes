@@ -17,7 +17,7 @@ Because McKinsey's advice can cause companies to value short-term financial gain
 Given that McKinsey is an influential consulting firm who emphasize their moral and ethical values to attract business.
 
 Thus McKinsey prioritizes client interests and profits over everything else (such as their moral and social values).
-
+	
 Because McKinsey is willing to work with controversial industries or governments despite ethical dilemmas or questionable social impact.
 
 Because McKinsey's culture nudges their consultants to accept almost all consulting cases despite moral choices or face pressure to leave the firm.
