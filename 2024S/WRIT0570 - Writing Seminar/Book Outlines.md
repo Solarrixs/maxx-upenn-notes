@@ -30,3 +30,5 @@ Thus McKinsey's consulting practices have played a key role in exacerbating weal
 Because McKinsey nudges corporate executives to inflate their salaries.
 
 Because McKinsey nudges companies to cut costs by outsourcing and restructuring instead of improving revenue.
+
+# Chapter 3
