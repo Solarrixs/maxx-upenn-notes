@@ -56,3 +56,7 @@ For example, McKinsey consultants spoke out against its work with ICE, only to b
 Because McKinsey violates human rights to save on costs.
 
 For example, McKinsey advised ICE to cut spending on food for detainees, a recommendation the ICE workers were even against.
+
+# Chapter 6
+
+# Chapter 7
