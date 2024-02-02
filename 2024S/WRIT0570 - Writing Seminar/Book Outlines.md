@@ -58,5 +58,16 @@ Because McKinsey violates human rights to save on costs.
 For example, McKinsey advised ICE to cut spending on food for detainees, a recommendation the ICE workers were even against.
 
 # Chapter 6
+Given that Mckinsey has a long history of be extremely secretive about the recommendations it provides its clients
+
+Thus McKinsey’s secrecy has allowed it to help tobacco companies create toxic products without penalty while making a fortune doing so. 
+
+Because two former senior officials of the FDA’s Office of Policy for the Center of Tobacco Products discovered McKinsey’s long record of simultaneously consulting for cigarette companies and the FDA.
+
+For example, the details of McKinsey’s work for Big Tobacco has been buried deep in industry documents and when questioned about its role in Philip Morris’s business, it stressed that the consultants were not aware of it. 
+
+Because McKinsey and its clients had a mutual agreement as cigarette companies did not want consultants sharing marketing strategy, and McKinsey did not want its reputation tainted as an enabler of companies that sold deadly products. 
+
+For example, among the list of McKinsey recommendations for Big Tobacco, many of the reports were marked “highly confidential” that included recommendations for how the research department should structure its experimental pilot plant.
 
 # Chapter 7
