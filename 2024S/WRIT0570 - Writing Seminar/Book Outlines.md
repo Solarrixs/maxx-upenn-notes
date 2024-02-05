@@ -88,7 +88,7 @@ For example, McKinsey instructed Purdue Pharma to market their opioid specifical
 
 Given McKinsey claims to have a public commitment to sustainability and climate action.
 
-Thus McKinsey’s consulting practices often support the profitability of major polluters.
+Thus McKinsey’s consulting practices for major polluters is in contrast to their values.
 
  Because McKinsey's continued profitable engagements with the fossil fuel industry and major polluters.
 
@@ -140,3 +140,4 @@ For example, McKinsey proposed that Allstate apply a "boxing gloves" approach to
 
 Because McKinsey strategies primarily benefitted top executives at Allstate and neglected policyholders.
 
+Because McKinsey advises Allstate to use the judicial system to avoid responsibility.
