@@ -71,3 +71,69 @@ Because McKinsey and its clients had a mutual agreement as cigarette companies d
 For example, among the list of McKinsey recommendations for Big Tobacco, many of the reports were marked “highly confidential” that included recommendations for how the research department should structure its experimental pilot plant.
 
 # Chapter 7
+
+Given McKinsey's extensive expertise in the pharmaceutical sector.
+
+Thus McKinsey's engagement in the pharma industry has exacerbated the opioid epidemic.
+
+Because McKinsey advised pharmaceutical firms to focus their marketing efforts on individuals more susceptible to opioid addiction.
+
+For example, McKinsey recommended that Johnson & Johnson concentrate their marketing efforts on patients at greater risk of abuse.
+
+Because McKinsey employed false marketing strategies to boost sales of opioids. 
+
+For example, McKinsey instructed Purdue Pharma to market their opioid specifically as Oxycontin because it was viewed as positive.
+
+# Chapter 8
+
+Given McKinsey claims to have a public commitment to sustainability and climate action.
+
+Thus McKinsey’s consulting practices often support the profitability of major polluters.
+ 
+ Because McKinsey's continued profitable engagements with the fossil fuel industry and major polluters.
+ 
+ For example, McKinsey has counted at least seventeen mining and fossil fuel companies among its biggest clients, generating hundreds of millions of dollars in fees.
+ 
+ For example, McKinsey has advised at least 43 of the hundred companies responsible for the most carbon emissions since 1965, indicating a significant portion of its business is with industries contributing to global warming.
+ 
+ Because McKinsey's influence on clients' decisions that do not prioritize sustainability efforts.
+
+For example, McKinsey is involved in projects like "Coal Processing Optimization" and advises on the expansion of coal production.
+
+For example, McKinsey still advises major steel and oil companies and defend their work with them.
+
+For example, the firm has not committed to disclosing the total carbon emissions of its clients or refusing projects that would increase carbon emissions.
+
+# Chapter 9
+
+Given the proliferation of securitization in financial markets exacerbated the financial crisis of 2008,
+
+Thus McKinsey played a pivotal role in forming financial practices that precipitated the global financial crisis.
+
+What McKinsey is known to encourage risk-taking and discourage regulatory oversight in the financial sector.
+
+For example, McKinsey's advice on restructuring to institutions like Continental Illinois promoted decentralization, leading to more hazardous lending behaviors and significant failures within the banking industry.
+
+What McKinsey's contribution to its role in creating widespread economic instability.
+
+For example, the Securitization Project by Lowell Bryan at McKinsey, which sought to revolutionize banking through securitization, was heavily marketed as a positive financial innovation.
+
+For example, through its publications and advisory services worldwide, McKinsey actively endorsed securitization, persuading banks and financial entities to embrace these methods broadly, neglecting the potential dangers involved.
+
+Because McKinsey avoids responsibility for the adverse outcomes.
+
+For example, McKinsey persisted in its support for securitization despite mounting evidence of its role in inflating the housing bubble and the ensuing crisis.
+
+For example, in the aftermath of the financial debacle, McKinsey and its advisors primarily shifted blame, pointing to regulatory oversights as the root cause of the catastrophe.
+
+# Chapter 10
+
+Given McKinsey prioritizes profits and maintains confidentiality in its approaches.
+
+Thus McKinsey guided Allstate towards adopting secretive and unethical tactics to reduce compensation to policyholders.
+
+Because McKinsey encouraged Allstate to implement strict claims management techniques.
+
+For example, McKinsey's suggested Allstate expedite and economically resolve 90% of claims, while vigorously contesting the remaining 10%, especially those with legal representation, to decrease disbursements.
+
+For example, McKinsey proposed that Allstate apply a "boxing gloves" approach to policyholders or claimants resisting initial low offers, leading to extended and expensive legal confrontations for the claimants.
