@@ -1,7 +1,7 @@
 ---
 date: 2024-01-23
 type: note
-tags:
+tags: 
 ---
 
 # Introduction
@@ -17,7 +17,7 @@ Because McKinsey's advice can cause companies to value short-term financial gain
 Given that McKinsey is an influential consulting firm who emphasize their moral and ethical values to attract business.
 
 Thus McKinsey prioritizes client interests and profits over everything else (such as their moral and social values).
-	
+
 Because McKinsey is willing to work with controversial industries or governments despite ethical dilemmas or questionable social impact.
 
 Because McKinsey's culture nudges their consultants to accept almost all consulting cases despite moral choices or face pressure to leave the firm.
@@ -60,13 +60,13 @@ For example, McKinsey advised ICE to cut spending on food for detainees, a recom
 # Chapter 6
 Given that Mckinsey has a long history of be extremely secretive about the recommendations it provides its clients
 
-Thus McKinsey’s secrecy has allowed it to help tobacco companies create toxic products without penalty while making a fortune doing so. 
+Thus McKinsey’s secrecy has allowed it to help tobacco companies create toxic products without penalty while making a fortune doing so.
 
 Because two former senior officials of the FDA’s Office of Policy for the Center of Tobacco Products discovered McKinsey’s long record of simultaneously consulting for cigarette companies and the FDA.
 
-For example, the details of McKinsey’s work for Big Tobacco has been buried deep in industry documents and when questioned about its role in Philip Morris’s business, it stressed that the consultants were not aware of it. 
+For example, the details of McKinsey’s work for Big Tobacco has been buried deep in industry documents and when questioned about its role in Philip Morris’s business, it stressed that the consultants were not aware of it.
 
-Because McKinsey and its clients had a mutual agreement as cigarette companies did not want consultants sharing marketing strategy, and McKinsey did not want its reputation tainted as an enabler of companies that sold deadly products. 
+Because McKinsey and its clients had a mutual agreement as cigarette companies did not want consultants sharing marketing strategy, and McKinsey did not want its reputation tainted as an enabler of companies that sold deadly products.
 
 For example, among the list of McKinsey recommendations for Big Tobacco, many of the reports were marked “highly confidential” that included recommendations for how the research department should structure its experimental pilot plant.
 
@@ -80,7 +80,7 @@ Because McKinsey advised pharmaceutical firms to focus their marketing efforts o
 
 For example, McKinsey recommended that Johnson & Johnson concentrate their marketing efforts on patients at greater risk of abuse.
 
-Because McKinsey employed false marketing strategies to boost sales of opioids. 
+Because McKinsey employed false marketing strategies to boost sales of opioids.
 
 For example, McKinsey instructed Purdue Pharma to market their opioid specifically as Oxycontin because it was viewed as positive.
 
@@ -89,13 +89,13 @@ For example, McKinsey instructed Purdue Pharma to market their opioid specifical
 Given McKinsey claims to have a public commitment to sustainability and climate action.
 
 Thus McKinsey’s consulting practices often support the profitability of major polluters.
- 
+
  Because McKinsey's continued profitable engagements with the fossil fuel industry and major polluters.
- 
+
  For example, McKinsey has counted at least seventeen mining and fossil fuel companies among its biggest clients, generating hundreds of millions of dollars in fees.
- 
+
  For example, McKinsey has advised at least 43 of the hundred companies responsible for the most carbon emissions since 1965, indicating a significant portion of its business is with industries contributing to global warming.
- 
+
  Because McKinsey's influence on clients' decisions that do not prioritize sustainability efforts.
 
 For example, McKinsey is involved in projects like "Coal Processing Optimization" and advises on the expansion of coal production.
