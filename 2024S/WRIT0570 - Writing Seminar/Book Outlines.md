@@ -137,3 +137,4 @@ Because McKinsey encouraged Allstate to implement strict claims management techn
 For example, McKinsey's suggested Allstate expedite and economically resolve 90% of claims, while vigorously contesting the remaining 10%, especially those with legal representation, to decrease disbursements.
 
 For example, McKinsey proposed that Allstate apply a "boxing gloves" approach to policyholders or claimants resisting initial low offers, leading to extended and expensive legal confrontations for the claimants.
+
