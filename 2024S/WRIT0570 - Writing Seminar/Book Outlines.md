@@ -128,7 +128,7 @@ For example, in the aftermath of the financial debacle, McKinsey and its advisor
 
 # Chapter 10
 
-Given McKinsey prioritizes profits and maintains confidentiality in its approaches.
+Given McKinsey is willing to prioritize profits at any cost.
 
 Thus McKinsey guided Allstate towards adopting secretive and unethical tactics to reduce compensation to policyholders.
 
