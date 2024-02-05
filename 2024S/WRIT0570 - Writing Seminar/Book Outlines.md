@@ -130,11 +130,13 @@ For example, in the aftermath of the financial debacle, McKinsey and its advisor
 
 Given McKinsey is willing to prioritize profits at any cost.
 
-Thus McKinsey guided Allstate towards adopting secretive and unethical tactics to reduce compensation to policyholders.
+Thus McKinsey guided Allstate towards several tactics to reduce payout compensation to policyholders.
 
-Because McKinsey encouraged Allstate to implement strict claims management techniques.
+Because McKinsey encourages Allstate to quickly adopt strategies to minimize payouts.
 
 For example, McKinsey's suggested Allstate expedite and economically resolve 90% of claims, while vigorously contesting the remaining 10%, especially those with legal representation, to decrease disbursements.
 
 For example, McKinsey proposed that Allstate apply a "boxing gloves" approach to policyholders or claimants resisting initial low offers, leading to extended and expensive legal confrontations for the claimants.
+
+Because McKinsey strategies primarily benefitted top executives at Allstate and neglected policyholders.
 
