@@ -88,7 +88,7 @@ For example, McKinsey instructed Purdue Pharma to market their opioid specifical
 
 Given McKinsey claims to have a public commitment to sustainability and climate action.
 
-Thus McKinsey’s consulting practices for major polluters is in contrast to their values.
+Thus McKinsey’s consulting practices for major polluting companies is in contrast to their values of environmental protection.
 
  Because McKinsey's continued profitable engagements with the fossil fuel industry and major polluters.
 
