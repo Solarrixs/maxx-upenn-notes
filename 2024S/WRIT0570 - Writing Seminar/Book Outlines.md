@@ -201,5 +201,3 @@ Because McKinsey advises Allstate to use the judicial system to avoid responsibi
 (For example) Evidence: Involvement in projects aimed at modernizing Saudi Arabia's image while repression continued.
 
 (For example) Evidence: Assisting in the Saudi government's international outreach, potentially influencing U.S. perceptions.
-
-These refined analyses provide a structured overview of McKinsey's consultancy work in China, South Africa, and Saudi Arabia, highlighting the complex interplay between business imperatives, geopolitical influence, and ethical considerations.
