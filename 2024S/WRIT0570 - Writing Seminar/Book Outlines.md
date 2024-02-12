@@ -142,7 +142,7 @@ Because McKinsey strategies primarily benefitted top executives at Allstate and 
 
 Because McKinsey advises Allstate to use the judicial system to avoid responsibility.
 
-### Chapter 5: Befriending China's Government
+# Chapter 5
 
 (Given) Premise 1: McKinsey provided strategic consulting to Chinese state-owned enterprises, significantly impacting their operational efficiency and international competitiveness.
 
@@ -162,7 +162,7 @@ Because McKinsey advises Allstate to use the judicial system to avoid responsibi
 
 (For example) Evidence: Economic strategy consultations that indirectly supported China's maritime claims.
 
-### Chapter 12: "Clubbing Seals" The South Africa Debacle
+# Chapter 12
 
 (Given) Premise 1: McKinsey's engagements in South Africa, particularly with Eskom and Transnet, were mired in controversies tied to corruption and mismanagement.
 
@@ -182,7 +182,7 @@ Because McKinsey advises Allstate to use the judicial system to avoid responsibi
 
 (For example) Evidence: Failure to foresee the ethical implications of engaging in high-stakes contracts without competitive bidding.
 
-### Chapter 13: Serving the Saudi State
+# Chapter 13
 
 (Given) Premise 1: McKinsey's consultancy work in Saudi Arabia included advising on significant national projects and reforms, closely aligning with the Saudi government's ambitions.
 
@@ -203,15 +203,3 @@ Because McKinsey advises Allstate to use the judicial system to avoid responsibi
 (For example) Evidence: Assisting in the Saudi government's international outreach, potentially influencing U.S. perceptions.
 
 These refined analyses provide a structured overview of McKinsey's consultancy work in China, South Africa, and Saudi Arabia, highlighting the complex interplay between business imperatives, geopolitical influence, and ethical considerations.
-
-### Chapter 5: Befriending China's Government
-
-This chapter delves into McKinsey's extensive consultancy work in China, focusing on advising state-owned enterprises and projects with both economic and strategic implications, such as the militarization of islands in the South China Sea. It highlights McKinsey's role in facilitating China's geopolitical ambitions, raising questions about the ethical considerations of such engagements.
-
-### Chapter 12: "Clubbing Seals" The South Africa Debacle
-
-Chapter 12 explores McKinsey's controversial involvement in South Africa, particularly with Eskom and Transnet. It outlines how McKinsey's consultancy led to entanglements with corruption and mismanagement, scrutinizing the firm's ethical standards and the adequacy of its due diligence practices in high-stakes contracts.
-
-### Chapter 13: Serving the Saudi State
-
-This chapter examines McKinsey's work in Saudi Arabia, advising on significant national reforms and projects like NEOM, against the backdrop of the kingdom's authoritarian regime. It discusses the ethical challenges of supporting such a regime, particularly in light of actions like the suppression of dissent and the murder of Jamal Khashoggi, questioning McKinsey's commitment to democratic values and human rights.
