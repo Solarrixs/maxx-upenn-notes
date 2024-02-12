@@ -142,62 +142,67 @@ Because McKinsey strategies primarily benefitted top executives at Allstate and 
 
 Because McKinsey advises Allstate to use the judicial system to avoid responsibility.
 
-# Chapter 5
+# Chapter 5 ✅
 
-(Given) Premise 1: McKinsey provided strategic consulting to Chinese state-owned enterprises, significantly impacting their operational efficiency and international competitiveness.
+(Given) McKinsey provided consulting to Chinese state-owned enterprises.
+(Given) McKinsey's goal of increasing international influence led it to work with China
+(Given) The consultancy's work facilitated projects with strategic purposes, notably in the South China Sea.
+(Given) China is an authoritarian, communist government, which opposes the democratic ideals of the United States.
+(Given) McKinsey is an American company.
 
-(Given) Premise 2: The consultancy's work facilitated projects with dual economic and strategic purposes, notably in the South China Sea.
+(Thus) McKinsey's consulting for China has allowed the Communist Party to amass more control and influence.
 
-(Thus) McKinsey's involvement in China exemplifies the consultancy's influence on global geopolitics, blending economic advisement with strategic expansions, raising ethical concerns.
+(What) McKinsey's advice directly supported China's geopolitical strategies.
+(For example) Advising on the transformation of the Fiery Cross Reef into a militarized island.
+(For example) Strategic planning for China Communications Construction Company, enabling the execution of projects with military implications.
+(For example) Championing China's Made In China 2025 plan, which aimed to increase Chinese production to compete globally.
+(For example) McKinsey simultaneously consults for the Pentagon and Chinese companies involved in strategy.
 
-(What) Reason 1: McKinsey's advisory roles directly supported China's geopolitical strategies.
+(How) McKinsey's consultations enhanced the expansion and efficiency of Chinese state-owned enterprises.
+(For example) Restructuring advice that improved the global competitiveness of state-owned enterprises.
+(For example) They consulted for 26 companies within China's *zhongyang qiye*, a group of powerful state-owned enterprises.
 
-(For example) Evidence: Advising on the transformation of the Fiery Cross Reef into a militarized island.
+(What) McKinsey's work consolidated the power of the CCP, letting China get away with human rights violations to maintain control.
+(For example) McKinsey advocated smart cities projects in China that expanded CCP's surveillance capabilities.
+(For Example) McKinsey did not make any statements during protests for freedom in Hong Kong, despite their large business dealings there.
+(For Example) McKinsey consulted for the CCP even when Xi Jing Ping came into power and proceeded to crack down on Uyghur Muslims to reassert party dominance.
 
-(For example) Evidence: Strategic planning for China Communications Construction Company, enabling the execution of projects with military implications.
+# Chapter 12 ✅
 
-(How) Reason 2: The consultancy enhanced the international positioning of Chinese enterprises.
+(Given) McKinsey has experience in working with securing government contracts.
+(Given) State capture occurs when private companies influence a state's decision-making processes for their own benefit.
+(Given) McKinsey's practices in South Africa were questioned for ethical standards and legal compliance.
 
-(For example) Evidence: Restructuring advice that improved the global competitiveness of state-owned enterprises.
+(Thus) McKinsey's work with South Africa led to profits from unethical government contracts.
 
-(For example) Evidence: Economic strategy consultations that indirectly supported China's maritime claims.
+(What) McKinsey's consultancy facilitated projects entwined with corrupt activities or firms.
+(For Example) Advisory roles that led to controversial contracts with Eskom, contributing to financial mismanagement.
+(For Example) McKinsey worked with Trillian, even when their leaders were implicated in corrupt government scandals.
+(For Example) South African Airways hired McKinsey after their bribed the airline's treasurer to get the work.
+(For Example) Thuli Madonsela revealed that there were unethical government contracts.
 
-# Chapter 12
-
-(Given) Premise 1: McKinsey's engagements in South Africa, particularly with Eskom and Transnet, were mired in controversies tied to corruption and mismanagement.
-
-(Given) Premise 2: The consultancy's practices and partnerships in South Africa were questioned for ethical standards and legal compliance.
-
-(Thus) McKinsey's consultancy in South Africa showcases the potential for consulting practices to entangle in corruption, reflecting on the consultancy's global reputation and ethical standing.
-
-(What) Reason 1: McKinsey's consultancy facilitated projects entwined with corrupt activities.
-
-(For example) Evidence: Advisory roles that led to controversial contracts with Eskom, contributing to financial mismanagement.
-
-(For example) Evidence: Partnerships with companies like Trillian, later implicated in corruption scandals.
-
-(How) Reason 2: McKinsey's operations lacked sufficient oversight and due diligence.
-
-(For example) Evidence: Inadequate vetting of partners like Trillian, leading to reputational damage.
-
-(For example) Evidence: Failure to foresee the ethical implications of engaging in high-stakes contracts without competitive bidding.
+(How) McKinsey's contract works with South Africa lacked proper due diligence.
+(For Example) Inadequate vetting of partners like Trillian.
+(For Example) Failure to foresee the ethical implications of engaging in high-stakes contracts without competitive bidding.
+(For Example) McKinsey engaged in high-stakes contracts without competitive bidding, leading to possible ethical dilemmas.
 
 # Chapter 13
 
-(Given) Premise 1: McKinsey's consultancy work in Saudi Arabia included advising on significant national projects and reforms, closely aligning with the Saudi government's ambitions.
+(Given) McKinsey advises on significant national projects that go against Western democratic interests.
+(Given) Saudi Arabia has a poor track record of geopolitical actions from a Western point of view.
+(Given) There are international concerns over Saudi Arabia's human rights practices from a Western point of view.
 
-(Given) Premise 2: The consultancy's involvement raised ethical concerns, particularly in light of Saudi Arabia's human rights record and geopolitical actions.
+(Thus) McKinsey's consultations with Saudi Arabia contradict the firm’s values.
 
-(Thus) McKinsey's work in Saudi Arabia highlights the consultancy's strategic role in supporting authoritarian regimes, posing ethical challenges and questioning the firm's commitment to democratic values.
+(What) McKinsey's strategic advisory services supported initiatives central to Saudi Arabia's authoritarian regime, which goes against their values.
+(For Example) McKinsey’s production of a report identifying key influencers in the Saudi public sphere who were skeptical of the government’s Vision 2030 reforms became a tool for the government to monitor and suppress dissent.
+(For Example) McKinsey's involvement in projects that directly supported the Vision 2030 initiative indirectly granted legitimacy to a regime frequently criticized for human rights abuses. 
+(For Example) Advising on NEOM, a project with implications for consolidating the regime's vision.
+(For Example) Sentiment analysis projects that could be used for suppressing dissent.
 
-(What) Reason 1: McKinsey's strategic advisory services supported initiatives central to Saudi Arabia's authoritarian regime.
+(What) McKinsey’s work on public sentiment analysis helped support the suppression of free speech, which goes against their values.
+(For Example) McKinsey’s report led to arrests, mysterious disappearances, and executions.
 
-(For example) Evidence: Advising on NEOM, a project with implications for consolidating the regime's vision.
-
-(For example) Evidence: Sentiment analysis projects that could be used for suppressing dissent.
-
-(How) Reason 2: McKinsey's consultancy aided in the regime's international and domestic image management.
-
-(For example) Evidence: Involvement in projects aimed at modernizing Saudi Arabia's image while repression continued.
-
-(For example) Evidence: Assisting in the Saudi government's international outreach, potentially influencing U.S. perceptions.
+(How) McKinsey's consultancy aided in the regime's international and domestic image management.
+(For Example) Involvement in projects like the Vision 2030 aimed at modernizing Saudi Arabia's image while repression continued.
+(For Example) Assisting in the Saudi government's international outreach, potentially influencing U.S. perceptions.
