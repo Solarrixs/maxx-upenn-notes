@@ -118,13 +118,13 @@ What McKinsey is known to encourage risk-taking and discourage regulatory oversi
 
 For example, McKinsey's advice on restructuring to institutions like Continental Illinois promoted decentralization, leading to more hazardous lending behaviors and significant failures within the banking industry.
 
-What McKinsey's contribution to its role in creating widespread economic instability.
+What McKinsey's contribution to advising banks led to widespread economic instability and ultimately the 2008 financial crisis.
 
 For example, the Securitization Project by Lowell Bryan at McKinsey, which sought to revolutionize banking through securitization, was heavily marketed as a positive financial innovation.
 
 For example, through its publications and advisory services worldwide, McKinsey actively endorsed securitization, persuading banks and financial entities to embrace these methods broadly, neglecting the potential dangers involved.
 
-What McKinsey avoids responsibility for the adverse outcomes.
+What McKinsey advised banks to adopt their positive strategies but avoided discussing about its potential downsides.
 
 For example, McKinsey persisted in its support for securitization despite mounting evidence of its role in inflating the housing bubble and the ensuing crisis.
 
