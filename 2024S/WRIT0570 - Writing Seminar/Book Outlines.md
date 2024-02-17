@@ -16,6 +16,8 @@ What McKinsey's advice can cause companies to value short-term financial gains a
 # Chapter 1
 Given that McKinsey is an influential consulting firm who emphasize their moral and ethical values to attract business.
 
+Given that examples of McKinsey's values include observing high ethical standards, safety, and environmental protection.
+
 Thus McKinsey prioritizes client interests and profits over everything else (such as their moral and social values).
 
 What McKinsey is willing to work with controversial industries or governments despite ethical dilemmas or questionable social impact.
@@ -44,10 +46,10 @@ What its connections with the government helps its clients bypass regulations.
 
 For example, McKinsey was able to get the FDA’s approval of Biogen’s Aduhelm drug, despite clear evidence that it wasn’t effective.
 
-# Chapter 4
+# Chapter 4 ❌
 Given that McKinsey’s consulting with ICE presents clear violations of its Values.
 
-Thus McKinsey faces backlash for their work.
+Thus McKinsey faces backlash and criticisms from the public for their work on ICE ❌
 
 What the firm’s business practices conflict with ethical standards.
 
@@ -58,15 +60,17 @@ What McKinsey violates human rights to save on costs.
 For example, McKinsey advised ICE to cut spending on food for detainees, a recommendation the ICE workers were even against.
 
 # Chapter 6
-Given that Mckinsey has a long history of be extremely secretive about the recommendations it provides its clients
+Given that McKinsey has a long history of be extremely secretive about the recommendations it provides its clients.
+
+Given that tobacco companies attempt to hide the fact that cigarettes and tobacco is dangerous for public health and safety in order to earn more revenue.
 
 Thus McKinsey’s secrecy has allowed it to help tobacco companies create toxic products without penalty while making a fortune doing so.
 
-What two former senior officials of the FDA’s Office of Policy for the Center of Tobacco Products discovered McKinsey’s long record of simultaneously consulting for cigarette companies and the FDA.
+How McKinsey maintained a dual consultancy role, advising both cigarette companies and the FDA to influence the tobacco industry regulations subtly to help the interests of their tobacco clients.
 
-For example, the details of McKinsey’s work for Big Tobacco has been buried deep in industry documents and when questioned about its role in Philip Morris’s business, it stressed that the consultants were not aware of it.
+For example, McKinsey’s consultancy with Big Tobacco was deeply buried in industry documents, demonstrating its desire to remain secretive in their involvement with tobacco company as they consulted for the FDA.
 
-What McKinsey and its clients had a mutual agreement as cigarette companies did not want consultants sharing marketing strategy, and McKinsey did not want its reputation tainted as an enabler of companies that sold deadly products.
+What McKinsey and its clients agreed to keep marketing strategies confidential, preventing damage to McKinsey's reputation as an enabler of harmful products.
 
 For example, among the list of McKinsey recommendations for Big Tobacco, many of the reports were marked “highly confidential” that included recommendations for how the research department should structure its experimental pilot plant.
 
@@ -142,7 +146,7 @@ What McKinsey strategies primarily benefitted top executives at Allstate and neg
 
 What McKinsey advises Allstate to use the judicial system to avoid responsibility.
 
-# Chapter 5 ✅
+# Chapter 5
 
 (Given) McKinsey provided consulting to Chinese state-owned enterprises.
 (Given) McKinsey's goal of increasing international influence led it to work with China
@@ -167,7 +171,7 @@ What McKinsey advises Allstate to use the judicial system to avoid responsibilit
 (For Example) McKinsey did not make any statements during protests for freedom in Hong Kong, despite their large business dealings there.
 (For Example) McKinsey consulted for the CCP even when Xi Jing Ping came into power and proceeded to crack down on Uyghur Muslims to reassert party dominance.
 
-# Chapter 12 ✅
+# Chapter 12
 
 (Given) McKinsey has experience in working with securing government contracts.
 (Given) State capture occurs when private companies influence a state's decision-making processes for their own benefit.
