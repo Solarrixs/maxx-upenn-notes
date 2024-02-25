@@ -68,7 +68,10 @@ Conclusion:
 	- Soft and flexible MEAs/electrodes to interface the entire organoid will allow greater manipulation of greater neurons.
 
 Methods:
-- 
+- Cortical organoids generated from human iPSCs adapted from [Protocol1](https://doi.org/10.1016%2Fj.stem.2019.08.002) and [Protocol2](https://doi.org/10.1002%2Fadvs.202200475). More information here: [Link](https://static-content.springer.com/esm/art%3A10.1038%2Fs41928-023-01069-w/MediaObjects/41928_2023_1069_MOESM1_ESM.pdf)
+- Ethical handling of stem cells and organoids followed from WiCell Institute and Indiana University Biosafety Committee.
+- MaxOne MEA System was used for interfacing. Python and Maxlive were used to analyze information. Maxlive generates stimulation sequence and recording the activity, Python extracts and processes the spikes.
+- The input layer converts info (images, audio clips, time series) into spatiotemporal sequences of electrical stimulation pulses to the organoid (reservoir layer), which receives the inputs and the neural activities (represents the reservoir state) was fed into the decoding function (linear regression or logistic regression) as an output for classification, recognition, prediction, etc.
 
 # Article 3
 [Reservoir computing with brain organoids | Nature Electronics](https://www.nature.com/articles/s41928-023-01096-7)
@@ -84,3 +87,23 @@ Methods:
 
 # Article 7
 [Navigating the High Cost of AI Compute | Andreessen Horowitz](https://a16z.com/navigating-the-high-cost-of-ai-compute/)
+
+# Article 8
+[Bridging Biological and Artificial Neural Networks with Emerging Neuromorphic Devices: Fundamentals, Progress, and Challenges - Tang - 2019 - Advanced Materials - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/adma.201902761)
+
+This article explores bridging biology with ANNs for emerging neuromorphic chip designs. This is useful for my research because it is the main focus of my paper, which essentially argues for the push towards neuromorphic-inspired chip designs. This article is important for giving a broad overview of the fundamentals of this chip design, the progress in recent decades, and why this hasn't taken off.
+
+Intro: 
+- The boom of AI is driven by GPUs to implement the training of ANNs and back propagation.
+- Brain computing is a new computing paradigm to enable massively parallel analog computing.
+- The human brain is a mesh of different neural networks organized to support computational functions like vision, audition, emotion, etc. The basic unit is a neuron, which has dendrites to receive inputs and axons to send outputs, connected by synapses.
+
+Problem:
+- The speed and energy efficiency of silicon CMOS-based computing hardware is approaching its theoretical limit - hindered by the slowing of Moore's law scaling and the von Neumann bottleneck, which increases the cost for big data movements.
+- The performance gap between memory and processors is known as the memory wall problem, and is expanding.
+- Even though IBM and Intel neuromorphic chips bypasses the von Neumann bottleneck, they use complex circuit architectures that are power-hungry, and have limits in scalability due to silicon shortages and CMOS scaling problem.
+
+Solution:
+- This new type of "resistive processing unit" (RPU) can provide a 30000x acceleration compared to current CPU/GPU in training deep neural networks (DNNs).
+- IBM's TrueNorth chip and Intel's Loihi chips include "neuromorphic cores" with spiking neural units based on spike neural networks.
+- The nervous system use two very important principles - parallel streams and hierarchical processing - to organize computations.
