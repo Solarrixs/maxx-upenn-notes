@@ -34,7 +34,41 @@ Conclusions:
 
 This article focuses on a new method of computing: using biology to create biologics-based computing. This method will bring about a new form of energy-efficiency and power-efficiency previously unseen in traditional silicon chips. This is useful for my research because it is 1 very interesting and unique method of solving this problem of creating more energy-efficient, power-efficient, and climate friendly semiconductor chip. This will be 1 of the 3 major ways to tackle the issue I am exploring in my white paper: "Current methods and solutions to solving the energy demands caused by the explosive growth of AI".
 
+Intro:
+- AI success is driven by the development of artificial neural networks (ANNs).
+- Slowing of Moore's law places limitations of current AI hardware, and thus new developments in AI hardware is needed.
+- The human brain is a complex 3D biological network of 200 billion cells, linked by hundreds of trillions of synapses, and expands 20 watts while AI hardware consumes about 8 million watts to drive a comparative ANN. [Source](https://www.nature.com/articles/s41586-021-04362-w)
+- Brain organoid are in-vitro 3D aggregates created through the self-organization and differentiation of human iPSC cells.
 
+Problem:
+- Training ANNs on current AI computing hardware is energy intensive and time consuming.
+- A key problem is the physical separation of data from data processing units. This is the von Neumann bottleneck.
+- Current computing approaches require high training cost to process and learn information from noisy data.
+
+Solution:
+- The brain can effectively process and learn information from noisy data at minimal training cost through neuronal plasticity and neurogenesis, and thus avoids large energy demands.
+- The brain fuses data storage and processes within biological neural networks, which bypasses von Neumann bottleneck issues. Current neuromorphic chips use memristors to mimic BNNs.
+- Current neuromorphic chips can have been used in computer vision and speech recognition. [Source1](https://doi.org/10.1038%2Fncomms15199), [Source2](https://doi.org/10.1038%2Fs41928-017-0002-z), [Source3](https://doi.org/10.1038%2Fs41928-019-0313-3)
+- This article leverages "reservoir computation" and the unsupervised learning ability of organoid neural networks in a brain organoid. [Fig. 1: Brainoware with unsupervised learning for AI computing. | Nature Electronics](https://www.nature.com/articles/s41928-023-01069-w/figures/1)
+- The Brainoware was created by mounting a brain organoid onto a MEA chip. The human brain organoid had early and mature neurons, astrocytes, and neuron progenitor cells, and early development of brain-like structures. The ONN received inputs via external electrical stimulation and sent outputs via evoked neural activity.
+- They used a "conventional reservoir computing hardware," but ONNs benefit because the organoid can function as an adaptive living reservoir to conduct unsupervised learning - and thus improve computing performance over the long run. This is due to neuroplasticity.
+- Physical reservoir properties of Brainoware was tested ([Image](https://www.nature.com/articles/s41928-023-01069-w/figures/2)):
+	- Nonlinear dynamics: by checking the resposne of ONNs to bipolar voltage pulse stimulations of different pulse times and voltages. The evoked neuronal activity was recorded as a raster plot. They found that after a single voltage pulse stimulation, the evoked electrical response can be fitted with a sigmoid function.
+	- Fading memory: applying pulses with different times and voltages - found that longer pulses with higher voltage led to stronger evoked resopnse and relaxation dynamics.
+	- Spatial information processing: spatial info was converted into spatial patterns of simulation pulses, and raster plots of evoked signals showed active storage and gradual loss of different spatial information over time.
+- Brainoware could perform real-world time-series tasks such as speech recognition ([Image](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41928-023-01069-w/MediaObjects/41928_2023_1069_Fig3_HTML.png?as=webp)):
+	- Distinguished vowels from sentences. Audio clips were converted into spatiotemporal sequences of stimulation bipolar pulses and applied to Brainoware. Evoked ONN activity was recorded and fed into a logistic regression function for classification, then trained and optimized.
+	- A confusion matrix was recorded to test for accuracy pre-training and post-training.
+
+Conclusion:
+- Human brain organoid can self-organize and form functional ONNs to create reservoir computing hardware that can self-learn due to plasticity. This approach means less time and energy consumption and less heat production compared to current AI hardware.
+- Limitations include:
+	- Generation and maintenance of organoid - suffer from high heterogeneity, low generation throughput, necrosis/hypoxia
+	- Peripheral equipment needed to power Brainoware (CO2 incubator, computer) still consumes considerable power.
+	- Soft and flexible MEAs/electrodes to interface the entire organoid will allow greater manipulation of greater neurons.
+
+Methods:
+- 
 
 # Article 3
 [Reservoir computing with brain organoids | Nature Electronics](https://www.nature.com/articles/s41928-023-01096-7)
