@@ -134,11 +134,15 @@ For example, in the aftermath of the financial debacle, McKinsey and its advisor
 
 Given McKinsey is willing to prioritize profits at any cost.
 
-Thus McKinsey guided Allstate towards several tactics to reduce payout compensation to policyholders.
+Given insurance companies make less money if they pay increased compensation.
+
+Thus McKinsey advised Allstate to reduce payout compensation to policyholders.
 
 What McKinsey encourages Allstate to quickly adopt strategies to minimize payouts.
 
-For example, McKinsey's suggested Allstate expedite and economically resolve 90% of claims, while vigorously contesting the remaining 10%, especially those with legal representation, to decrease disbursements.
+For example, McKinsey's suggested Allstate expedite and economically resolve 90% of claims.
+
+What McKinsey advised Allstate to vigorously contest the remaining 10% of claims to decrease disbursements.
 
 For example, McKinsey proposed that Allstate apply a "boxing gloves" approach to policyholders or claimants resisting initial low offers, leading to extended and expensive legal confrontations for the claimants.
 
