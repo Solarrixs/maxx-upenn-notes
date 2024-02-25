@@ -97,6 +97,7 @@ Intro:
 - The boom of AI is driven by GPUs to implement the training of ANNs and back propagation.
 - Brain computing is a new computing paradigm to enable massively parallel analog computing.
 - The human brain is a mesh of different neural networks organized to support computational functions like vision, audition, emotion, etc. The basic unit is a neuron, which has dendrites to receive inputs and axons to send outputs, connected by synapses.
+- Neurons act as capacitors with reconfigurable resistors. The firing of a neuron is the generation of an action potential, once there is sufficient excitation over a certain threshold and period.
 
 Problem:
 - The speed and energy efficiency of silicon CMOS-based computing hardware is approaching its theoretical limit - hindered by the slowing of Moore's law scaling and the von Neumann bottleneck, which increases the cost for big data movements.
@@ -107,3 +108,4 @@ Solution:
 - This new type of "resistive processing unit" (RPU) can provide a 30000x acceleration compared to current CPU/GPU in training deep neural networks (DNNs).
 - IBM's TrueNorth chip and Intel's Loihi chips include "neuromorphic cores" with spiking neural units based on spike neural networks.
 - The nervous system use two very important principles - parallel streams and hierarchical processing - to organize computations.
+- Multiple new paradigms in ANNs: DNNs, RNNs, and SNNs. SNNs use neuron spiking to transmit information with floating point numbers, and information is encoded in the timing and frequency of spikes. This is called event-based processing. The powerful and simple model for a spiking neuron is a leaky integrate and fire model (LIF).
