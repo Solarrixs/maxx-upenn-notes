@@ -76,6 +76,26 @@ Methods:
 # Article 3
 [Reservoir computing with brain organoids | Nature Electronics](https://www.nature.com/articles/s41928-023-01096-7)
 
+This article explores a concept for computing using brain organoids under the reservoir computing model. This article is important for my research because it highlights one method to utilize the human brain for actual computing purposes, and demonstrates both its benefits and limitations over current methods.
+
+Intro:
+- Several groups are developing brain-like, energy efficient biocomputers using brain organoids with electrical sensors and tools for signal processing and decoding.
+- With advances in cell culturing techniques, bioengineering technologies, and AI, biological computing is poised to emerge.
+- Brain organoids can be stimulated electrically, chemically, or optically.
+- Reservoir computing is a framework for training recurrent neural networks (RNNs). The reservoir is fixed, and only readout weights are trained.
+
+Problem:
+- It's hard to develop and maintain brain organoids with the following features needed for optimal compute:
+	- Being able to maintain high complexity of large and interconnected neuron network supported by non-neuronal brain cells
+	- Energy sources and efficient techniques for maintaining culture temp and culture medium
+	- Maintaining cultures require resource-intensive incubators with temperature and environmental control and skilled biologists. However, with continued miniaturization and maturation of cell culturing platforms, this will be a problem that can be solved.
+
+Solution:
+- Brain stimuli can be recorded using shanks, high density MEAs, mesh electrodes, shell electrodes and nanowires.
+
+Conclusions:
+- In the next few years, increasingly complex neural systems that can interact with AI environments will emerge, and generate massive energy savings.
+
 # Article 4
 [How thermal management is changing in the 1 kW chip age • The Register](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
 
@@ -109,3 +129,15 @@ Solution:
 - IBM's TrueNorth chip and Intel's Loihi chips include "neuromorphic cores" with spiking neural units based on spike neural networks.
 - The nervous system use two very important principles - parallel streams and hierarchical processing - to organize computations.
 - Multiple new paradigms in ANNs: DNNs, RNNs, and SNNs. SNNs use neuron spiking to transmit information with floating point numbers, and information is encoded in the timing and frequency of spikes. This is called event-based processing. The powerful and simple model for a spiking neuron is a leaky integrate and fire model (LIF).
+- Neurons that "fire together wire together" and is what leads to synaptic plasticity to accelerate learning. There are multiple models of biological learning: Hebbian learning equation, the STDP equation, and memory engramming.
+- There are many implementations of "learning":
+	- Unsupervised learning: using unlabeled data to find relationships between elements in the dataset (for example, Hebbian learning)
+	- Supervised learning
+	- Reinforcement learning
+	- Reservoir computing - for time series. Employs dynamic reservoirs with short term memory to project features from inputs into outputs.
+	- Deep learning - one-shot and few-shot learning. "Traditionally supervised deep learning has achieved great success when a large labeled dataset is available. However, humans can learn an object category even when only one or few instances are shown. Even at a young age of six, one has learned almost all of the 10 to 30 thousand object categories in the world. This is due not only to the computational power of human brains, but also to the ability to synthesize and learn new object classes from limited information about different, previously learned classes. One-shot and few-shot learning aim to achieve a similar goal."
+
+Conclusion:
+- A brain-based paradigm of computing will be massively efficient due to highly parallel streams and hierarchical processing
+- The brain can leverage DNNs and SNNs extremely well, and self-learn based on the Hebbian principle, which can be mathematically deconstructed, and is therefore feasible to for compute.
+- The brain somehow does "one shot learning" extremely well, and handles unsupervised data extremely well.
