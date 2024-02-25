@@ -4,10 +4,8 @@ type: note
 tags: 
 ---
 
-**Step One**:  Review the work you have done for the Modules thus far: Getting Acquainted, Logic, and Rhetoric.  What did you find most challenging?  What in particular made it challenging?  Consider such things as declarative (what you needed to know/struggled with intellectually), affective (what you struggled with emotionally) and procedural knowledge (what were the stumbling blocks in terms of planning and implementing). 
+I don't think any of the modules were that challenging but the Logic modules was confusing. I think it is hard to determine what is a premise (or whether a premise  could be 2 premises, or could be reason, etc) and whether our proposition is actually a reason or an example and so on. It was confusing because I have not done this type of analysis before, and that there wasn't a defined reason for why something could be a premise, a proposition, reason, or example.
 
-I don't think any of the modules were that challenging but perhaps the 
+This confusion partly stems from how I never did this kind of analysis on articles in the past (besides identifying the thesis). This skill did expand upon my prior knowledge of identifying a thesis but now how the author backs up their points and what facts they inherently assume about the reader. Overall, I learned a new skill that built on top of a somewhat related knowledge I did earlier, and learned how to search and think about what an author assumes about their readers and whether their reasons for their thesis are logically coherent.
 
-**Step Two**:  How did this challenge connect to what you already knew prior to this class or had already learned in prior modules in this class or in another class?  Were you able to build upon that prior knowledge?  How so?  How did this challenge differ from what you already knew how to do?  What new strategies, tools, resources did you draw upon to meet this challenge?  
-
-**Step Three**:  What do you think you learned from this challenge about yourself and about writing (reading, researching, planning)?  Summarize and reflect.
+Something I learned from the challenge was that in all forms of communication, whether that be public communication, debating, telling a story, or writing an article, writing an essay and so on, we all assume general premises about our audience, which was something I never considered. I learned that I never had articulated my premises explicitly before, and now I realize the importance of agreeing on the same premises before moving onto the main argument/topic/thesis. I think this is something new in writing that is very important and I will use for the rest of my writing career.
