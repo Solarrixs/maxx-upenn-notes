@@ -99,14 +99,60 @@ Conclusions:
 # Article 4
 [How thermal management is changing in the 1 kW chip age • The Register](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
 
+This article explores the slowing down of Moore's law and the heat inefficiencies of current silicon based CMOS chip designs. This is useful for my research because it focuses on the problem of using silicon based CMOS chip designs - which suffers from 3 major bottlenecks: heat dissipation, memory gap performances from von Neumann bottlenecks, and slowing of Moore's Law with limited supply of silicon. It will make up a bulk of the problem surrounding my white paper.
+
+Intro:
+- AI chips and chips in general release heat as a byproduct of computing.
+
+Problem:
+- Nvidia GH200 AI chips use kilowatts of energy.
+- There is a trend of increasing 0.5 - 1 kW of rack units for systems. This means 21-24 kW of thermal load needs to be dissipated (which is obtainable).
+- Hotter chips requires faster fans that draws more power - using up to 20% of the system power in some cases.
+- New racks requires multi-kW cooling systems: upto 40+ kW of power for cooling.
+- AMD's accelerators jump from 560W to 760W. That's a sizable increase.
+
+Solution:
+- Liquid cooling offers efficient cooling mechanisms.
+
+Conclusion:
+- Chips will get hotter and this trend is likely to continue. New methods in cooling will need to be developed for these chips.
+
 # Article 5
-[Pathways to cellular supremacy in biocomputing | Nature Communications](https://www.nature.com/articles/s41467-019-13232-z)
+
 
 # Article 6
 [Computing Power and the Governance of AI | GovAI Blog](https://www.governance.ai/post/computing-power-and-the-governance-of-ai)
 
+Although focusing on the regulation of AI through computing power as a metric, it still explores a good problem of computing power. This article assists in my research as I can understand the basis behind computing power, which essentially is the main problem behind energy-inefficient chip architecture. This article is taken from "Computing Power and the Governance of AI" from 19 researchers globally, including several from OpenAI.
+
+Intro:
+- Computing power drives AI progress. The amount of compute used to train AI systems has increased 350 million times in the past 13 years.
+- Across LLMs, Go, protein folding, and autonomous vehicles, vast amounts of compute power was needed.
+- There is many scaling laws: performance on training objective increases as the amount of compute used to train a model increases.
+- Numbers of operations (FLOP) measures compute.
+- Current AI systems and models require the doubling of compute every 6 months.
+- [Image](https://assets-global.website-files.com/614b70a71b9f71c9c240c7a7/65cb86a074a06055791f02e9_ucMaHPVGyL9o4brHsIlmNiTb7TrtFOLzGpyCtEm6aR9CEqVAiltVT1UOawTibe5fesBj0vKLXXGKmvh5JI3_Nm7MuMmifyWSroiHcFDunIWVp0a53YPy_4igwCRrQX-xdQToP4CYfN-pxwr939DFYQY.jpeg)
+- Compute is distributed from production, provision, and usage to final deployment: [Image](https://assets-global.website-files.com/614b70a71b9f71c9c240c7a7/65cb90abfced58be2e835b3d_CPGAI_Figure_The-Compute-Supply-Chain.jpg)
+
 # Article 7
 [Navigating the High Cost of AI Compute | Andreessen Horowitz](https://a16z.com/navigating-the-high-cost-of-ai-compute/)
+
+Similar to the above article, this article focuses on compute as a key driver of AI progress. However, since compute is physically bounded to AI progress, measuring compute provides insights into the state of AI in 2023 and beyond. This article assists in my research for the reasons above - understanding the basis of AI energy demands and supply.
+
+Intro:
+- AI is compute-bound. More compute directly results in a better product.
+- Most AI models are based on transformers. For a model with p parameters for an input and an output sequence of n tokens, then 2np is the number of FLOPs. Training a model takes 6p FLOPS per n token as well. Total training cost can be estimated.
+- A 175B parameter model will need over 1TB of data in memory. This exceeds any GPUs in existence today and requires the model to be split across multiple cards.
+
+Problem:
+- According to a16z, the supply of compute is so constrained that demands outstrips it by a factor of 10x. Therefore, access to compute at the lowest cost is a determining factor for the success of AI companies.
+- Companies spend 80% of their total capital on compute resource.
+- [Tim Dettmer's analysis](https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/) allows one to calculate the price/performance analysis of GPUs for your own data center.
+
+Solution:
+- Large compute buyers commit minimum spending and minimum time commitments (1-3 years).
+- GPU cost by cloud provider: [Image](https://a16z.com/wp-content/uploads/2023/04/3.-Prices-for-common-GPU-types-by-cloud-provider.png)
+- GPU performance will increase at a slower rate; Moore's Law is semi-intact but power is a limiting factor instead. However, the growth of the AI industry and number of AI developers will fuel a demands for GPUs. There is no sign that the GPU shortage we have today will abate in the near future.
 
 # Article 8
 [Bridging Biological and Artificial Neural Networks with Emerging Neuromorphic Devices: Fundamentals, Progress, and Challenges - Tang - 2019 - Advanced Materials - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/adma.201902761)
