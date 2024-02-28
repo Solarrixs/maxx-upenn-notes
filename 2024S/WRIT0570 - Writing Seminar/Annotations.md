@@ -118,7 +118,10 @@ Conclusion:
 - Chips will get hotter and this trend is likely to continue. New methods in cooling will need to be developed for these chips.
 
 # Article 5
+[AI's Climate Impact Goes beyond Its Emissions | Scientific American](https://www.scientificamerican.com/article/ais-climate-impact-goes-beyond-its-emissions/)
 
+Problem:
+- "Training and running an AI system requires a great deal of computing power and electricity, and the resulting carbon dioxide emissions is one way AI can affect the climate"
 
 # Article 6
 [Computing Power and the Governance of AI | GovAI Blog](https://www.governance.ai/post/computing-power-and-the-governance-of-ai)
@@ -187,3 +190,48 @@ Conclusion:
 - A brain-based paradigm of computing will be massively efficient due to highly parallel streams and hierarchical processing
 - The brain can leverage DNNs and SNNs extremely well, and self-learn based on the Hebbian principle, which can be mathematically deconstructed, and is therefore feasible to for compute.
 - The brain somehow does "one shot learning" extremely well, and handles unsupervised data extremely well.
+
+# Article 9
+[The AI Boom Could Use a Shocking Amount of Electricity | Scientific American](https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/)
+
+Problem:
+- "Around the globe, data centers currently account for about 1 to 1.5 percent of global electricity use, according to the International Energy Agency. And the world’s still-exploding boom in artificial intelligence could drive that number up a lot—and fast."
+- "A peer-reviewed analysis published in Joule is one of the first to quantify the demand that is quickly materializing. A continuation of the current trends in AI capacity and adoption are set to lead to NVIDIA shipping 1.5 million AI server units per year by 2027. These 1.5 million servers, running at full capacity, would consume at least 85.4 terawatt-hours of electricity annually—more than what many small countries use in a year." This research was conducted by Alex de Vries, a data scientist at the central bank of the Netherlands and a Ph.D. candidate at Vrije University Amsterdam, where he studies the energy costs of emerging technologies.
+- "If you were to fully turn Google’s search engine into something like ChatGPT, and everyone used it that way—so you would have nine billion chatbot interactions instead of nine billion regular searches per day—then the energy use of Google would spike. Google would need as much power as Ireland just to run its search engine."
+- The energy consumption used by AI goes into training, deployment (inference), and cooling energy usage. Global data centers, on average, will add 50 percent to the energy cost just to keep the machines cool. There are data centers that perform even worse than that.
+
+# Article 10
+[The carbon impact of artificial intelligence | Nature Machine Intelligence](https://www.nature.com/articles/s42256-020-0219-9)
+
+Problem:
+- The United Nations has called climate change a “defining crisis of our time”, and, according to the Climate Reality Project, 97% of climate scientists concur that human activity is its main driver. The key mitigation pathways to avoiding a global environmental catastrophe include bringing emissions to zero by the middle of the twenty-first century, and limiting the average global warming to 1.5 °C.
+- AI is itself a significant emitter of carbon. This message reached the attention of a general audience in the latter half of 2019 when researchers at the University of Massachusetts Amherst analyzed various natural language processing (NLP) training models available online to estimate the energy cost in kilowatts required to train them. Converting this energy consumption in approximate carbon emissions and electricity costs, the authors estimated that the carbon footprint of training a single moderately-sized language model is equal to around 300,000 kg of carbon dioxide emissions. This is of the order of 125 round-trip flights between New York and Beijing.
+- OpenAI research lab revealed that the compute used in various large AI training models had been doubling every 3.4 months since 2012.
+- The Red AI trend: for a linear gain in performance, an exponentially larger model is required, which can come in the form of increasing the amount of training data or the number of experiments, thus escalating computational costs, and therefore carbon emissions.
+- Amazon’s emissions increased by 15% last year. Microsoft is using nuclear energy to power their data centers.
+- At Virginia, USA, the data centre hub of the world, only 1% of electricity comes from renewable sources.
+- AI is an ‘energy gobbler’ given the complexity and energy consumption that goes behind the Deep Learning models. Researchers estimate that 285,000 kgs of CO2e are emitted from training just one Machine Learning algorithm which is five times the lifetime of a car emission.
+
+Solution:
+- This is definitely something that people are working on, be it via more efficient GPUs or by buying renewable energy credits for the carbon that was produced by neural network training. Using renewable energy grids for training neural networks is the single biggest change that can be made. It can make emissions vary by a factor of 40, between a fully renewable grid and a fully coal grid.
+- The actionable recommendations from the UMass team are similar — for example, the authors encourage researchers to prioritize computationally efficient hardware and algorithms.
+
+# Article 11
+[How Big Will AI Models Get? - IEEE Transmitter](https://transmitter.ieee.org/how-big-will-ai-models-get/)
+
+Intro:
+- GPT1 had 117 million parameters.
+- GPT3 was trained on nearly 45 terabytes of text data, and has more than 175 billion parameters.
+- Current AI models exceed 1.6T parameters - the largest being 174T parameters.
+- In NLP alone, the largest models have gone from having 94 million parameters in 2018, to 100 billion parameters in early 2020.
+
+Problem:
+- Although solutions include better hardware and software developments, the trend of increasing AI model size does not appear to be ceasing.
+
+# Article 12
+[Parameters in notable artificial intelligence systems](https://ourworldindata.org/grapher/artificial-intelligence-parameter-count#reuse-this-work)
+
+Image/graph resource for "Parameters in notable artificial intelligence systems"
+- Exponential parameters in notable AI systems
+- Number of high parameter AI models developed in the past 3 years
+- Linear correlation of model parameters with training complexity
