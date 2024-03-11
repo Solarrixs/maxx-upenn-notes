@@ -193,13 +193,14 @@ What McKinsey advises Allstate to use the judicial system to avoid responsibilit
 (For Example) Failure to foresee the ethical implications of engaging in high-stakes contracts without competitive bidding.
 (For Example) McKinsey engaged in high-stakes contracts without competitive bidding, leading to possible ethical dilemmas.
 
-# Chapter 13 #fixprop
+# Chapter 13
 
 (Given) McKinsey advises on significant national projects that go against Western democratic interests.
 (Given) Saudi Arabia has a poor track record of geopolitical actions from a Western point of view.
 (Given) There are international concerns over Saudi Arabia's human rights practices from a Western point of view.
+(Given) McKinsey consultations with Saudi Arabia because of the nation's lucrative oil wealth boom and their desire to modernize their economy entangled them with their political dynamics and controversies
 
-(Thus) McKinsey's consultations with Saudi Arabia contradict the firm’s values.
+(Thus) McKinsey consultations with Saudi Arabia revealed the ethical dilemmas of consulting work in authoritarian regimes.
 
 (What) McKinsey's strategic advisory services supported initiatives central to Saudi Arabia's authoritarian regime, which goes against their values.
 (For Example) McKinsey’s production of a report identifying key influencers in the Saudi public sphere who were skeptical of the government’s Vision 2030 reforms became a tool for the government to monitor and suppress dissent.
