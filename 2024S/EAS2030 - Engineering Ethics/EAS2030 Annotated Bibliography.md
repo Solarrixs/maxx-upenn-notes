@@ -55,3 +55,11 @@ This article was unique as it talked about engineering ethics by integrating rel
 # Article 5
 [Inventor ponders ethics of wiring human brain tissue into computers](https://newatlas.com/computers/cortical-labs-dishbrain-ethics/)
 “Inventor Ponders Ethics of Wiring Human Brain Tissue into Computers.” _New Atlas_, 22 Sept. 2023, newatlas.com/computers/cortical-labs-dishbrain-ethics/.
+
+The source is an interview with the creator of Cortical Labs, the company that all the other articles I have analyzed talked about. They have developed a Synthetic Biological Intelligence with the University of Melbourne.
+
+The purpose behind this source and interview being done is the need to explore and even more so, articulate and define the ethical, philosophical, and technical implications of merging biological life with computational technology. Cortical Labs' work in developing the DishBrain system raises many fundamental questions about the nature of life, intelligence, and consciousness, that we currently have no answers to.
+
+According to the interview and the creator of Cortical Labs, he discuss the concept of criticality as a characteristic of complex systems by showing how biological systems can exhibit behaviors indicative of intelligence without necessarily implying consciousness, and used an example of GPT passing the Turing test, yet is not sentient either. I agree with the cautious approach the creators of Cortical Labs are taking towards the ethical implications of their work. Their emphasis on the need for a clear and common language to discuss these emerging technologies is crucial for forming a coherent ethical framework. I also like how he is collaborating with ethical leaders in this space to rapidly come up with ethical guidelines in this space. However, a notable weakness is simply how new this technology is, and therefore inherent speculative nature of its ethical discussions.
+
+I think this interview was very informative in engineering ethics as it provides a prime example of how new technologies can blur the ethical boundaries. It also underscores the importance of collaboration in navigating the ethical dimensions of technological innovation.
