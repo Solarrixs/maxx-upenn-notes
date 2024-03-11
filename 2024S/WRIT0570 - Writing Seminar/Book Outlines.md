@@ -132,8 +132,6 @@ For example, in the aftermath of the financial debacle, McKinsey and its advisor
 
 # Chapter 10
 
-Given McKinsey is willing to prioritize profits at any cost.
-
 Given insurance companies make less money if they pay increased compensation.
 
 Thus McKinsey advised Allstate to reduce payout compensation to policyholders.
@@ -179,9 +177,10 @@ What McKinsey advises Allstate to use the judicial system to avoid responsibilit
 
 (Given) McKinsey has experience in working with securing government contracts.
 (Given) State capture occurs when private companies influence a state's decision-making processes for their own benefit.
-(Given) McKinsey's practices in South Africa were questioned for ethical standards and legal compliance.
+(Given) McKinsey's practices in South Africa were questioned for ethical standards, corruption, and legal compliance.
+(Given) Corrupt practices result from unethical decisions being made that can avoid or bypass legal compliance such as money-related scandals.
 
-(Thus) McKinsey's work with South Africa led to profits from unethical government contracts.
+(Thus) McKinsey's work with South Africa led to profits from corrupt government contracts.
 
 (What) McKinsey's consultancy facilitated projects entwined with corrupt activities or firms.
 (For Example) Advisory roles that led to controversial contracts with Eskom, contributing to financial mismanagement.
@@ -194,7 +193,7 @@ What McKinsey advises Allstate to use the judicial system to avoid responsibilit
 (For Example) Failure to foresee the ethical implications of engaging in high-stakes contracts without competitive bidding.
 (For Example) McKinsey engaged in high-stakes contracts without competitive bidding, leading to possible ethical dilemmas.
 
-# Chapter 13
+# Chapter 13 #fixprop
 
 (Given) McKinsey advises on significant national projects that go against Western democratic interests.
 (Given) Saudi Arabia has a poor track record of geopolitical actions from a Western point of view.
