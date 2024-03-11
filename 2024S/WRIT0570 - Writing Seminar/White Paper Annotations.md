@@ -29,6 +29,10 @@ Solutions:
 Conclusions:
 - Our computers and other devices are becoming insatiable energy beasts that we continue to feed. That’s not to say AI and advancing it needs to stop because it’s incredibly useful for important applications like accelerating the discovery of therapeutics. We just need to remain cognizant of the effects and keep pushing for more sustainable approaches to design, manufacturing, and consumption.
 
+- & Within my white paper, I will use the data/quotes above to show that AI requires memory and energy, and that has cause an explosive growth in data centers with more memory and energy capabilities. One such example is NVIDIA's earnings report within the past 10 years. A big driver behind the growth is Moore's law and Dennard's scaling. However, both are slowing down/not true anymore.
+- & Therefore, according to the SRC, we will need to expend a lot of silicon to create chips as they don't follow Moore's Law and Dennard's scaling anymore, and first problem that leads into is the lack of silicon supply for our demand. Another problem is that these chips are very energy inefficient these days, and it is harder to make them more energy efficient, and this means the high projected energy costs. And to show how crazy the energy demands on AI is, I'll use the example that major companies are developing data centers all over the US, leaving to massive energy and carbon footprints.
+- & For the solutions, I'll write how one lab at Penn is trying to solve this by integrating memory and processing units into one unit, instead of following von Neumann computing structure, and relate that with why biologics-based computing with neuromorphic chips is good since it is the same thing. This will save energy and make these  chips faster.
+
 # Article 2
 [Brain organoid reservoir computing for artificial intelligence | Nature Electronics](https://www.nature.com/articles/s41928-023-01069-w)
 
@@ -73,6 +77,8 @@ Methods:
 - MaxOne MEA System was used for interfacing. Python and Maxlive were used to analyze information. Maxlive generates stimulation sequence and recording the activity, Python extracts and processes the spikes.
 - The input layer converts info (images, audio clips, time series) into spatiotemporal sequences of electrical stimulation pulses to the organoid (reservoir layer), which receives the inputs and the neural activities (represents the reservoir state) was fed into the decoding function (linear regression or logistic regression) as an output for classification, recognition, prediction, etc.
 
+- & This article will mainly be in my solutions part 3, talking about neuromorphic and biologics based computing chips. I'll talk about the general basis of AI (goes into my introduction, then again problems associated with it like slowing of Moore's law), then in the solutions I'll describe the neurobiology behind the neuromorphic computing. I'll use all the facts in the Solutions outline to suggest why biologics-based paradigm computing could be viable, and at the end, I'll talk about the limitations of current technology. Perhaps I'll add an appendix section that includes the methods of building one out, or an estimated energy usage of such a chip.
+
 # Article 3
 [Reservoir computing with brain organoids | Nature Electronics](https://www.nature.com/articles/s41928-023-01096-7)
 
@@ -96,6 +102,8 @@ Solution:
 Conclusions:
 - In the next few years, increasingly complex neural systems that can interact with AI environments will emerge, and generate massive energy savings.
 
+- & Similar to article 2, I'll put this info into solutions part 3 for why neuromorphic computing might be the next viable option. I'll talk about advances in the field, why biologics computing could work from a principles level, and introduce reservoir computing. Then again, I'll go into the limitations of implementing such a thing.
+
 # Article 4
 [How thermal management is changing in the 1 kW chip age • The Register](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
 
@@ -117,11 +125,15 @@ Solution:
 Conclusion:
 - Chips will get hotter and this trend is likely to continue. New methods in cooling will need to be developed for these chips.
 
+- & This article will most likely feed into my solutions part 1 section - that AI chips require a lot of cooling and cooling systems require energy, so traditional silicon chips are still not viable for a new AI age. I'll also math out the energy usage of such chips.
+
 # Article 5
 [AI's Climate Impact Goes beyond Its Emissions | Scientific American](https://www.scientificamerican.com/article/ais-climate-impact-goes-beyond-its-emissions/)
 
 Problem:
 - "Training and running an AI system requires a great deal of computing power and electricity, and the resulting carbon dioxide emissions is one way AI can affect the climate"
+
+- & Into my problem section - AI needs computing power and electricity, which means CO2 and affects the climate. I'll tie into how AI affects climate.
 
 # Article 6
 [Computing Power and the Governance of AI | GovAI Blog](https://www.governance.ai/post/computing-power-and-the-governance-of-ai)
@@ -136,6 +148,8 @@ Intro:
 - Current AI systems and models require the doubling of compute every 6 months.
 - [Image](https://assets-global.website-files.com/614b70a71b9f71c9c240c7a7/65cb86a074a06055791f02e9_ucMaHPVGyL9o4brHsIlmNiTb7TrtFOLzGpyCtEm6aR9CEqVAiltVT1UOawTibe5fesBj0vKLXXGKmvh5JI3_Nm7MuMmifyWSroiHcFDunIWVp0a53YPy_4igwCRrQX-xdQToP4CYfN-pxwr939DFYQY.jpeg)
 - Compute is distributed from production, provision, and usage to final deployment: [Image](https://assets-global.website-files.com/614b70a71b9f71c9c240c7a7/65cb90abfced58be2e835b3d_CPGAI_Figure_The-Compute-Supply-Chain.jpg)
+
+- & Goes into my intro section about how AI runs. I'll talk about its correlation with performance to compute, and provide examples across many fields. Then I'll relate it into the problem of doubling compute.
 
 # Article 7
 [Navigating the High Cost of AI Compute | Andreessen Horowitz](https://a16z.com/navigating-the-high-cost-of-ai-compute/)
@@ -156,6 +170,8 @@ Solution:
 - Large compute buyers commit minimum spending and minimum time commitments (1-3 years).
 - GPU cost by cloud provider: [Image](https://a16z.com/wp-content/uploads/2023/04/3.-Prices-for-common-GPU-types-by-cloud-provider.png)
 - GPU performance will increase at a slower rate; Moore's Law is semi-intact but power is a limiting factor instead. However, the growth of the AI industry and number of AI developers will fuel a demands for GPUs. There is no sign that the GPU shortage we have today will abate in the near future.
+
+- & Similar to article 6, this will go into my intro section where I'll talk about how AI is compute bound. More compute = more AI performance. I'll perhaps do a bit of math on how total training cost can be estimated, and what training cost means in terms of memories. Then it'll flow into my problem section that AI will demand so much compute in the future. I'll provide examples of current startups.
 
 # Article 8
 [Bridging Biological and Artificial Neural Networks with Emerging Neuromorphic Devices: Fundamentals, Progress, and Challenges - Tang - 2019 - Advanced Materials - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/adma.201902761)
@@ -191,6 +207,8 @@ Conclusion:
 - The brain can leverage DNNs and SNNs extremely well, and self-learn based on the Hebbian principle, which can be mathematically deconstructed, and is therefore feasible to for compute.
 - The brain somehow does "one shot learning" extremely well, and handles unsupervised data extremely well.
 
+- & Solutions part 3 - brain computing is viable, why it works, how it works, why it is better than traditional silicon chips, and provide the many examples of how the brain can learn as a basis for neuromorphic chips.
+
 # Article 9
 [The AI Boom Could Use a Shocking Amount of Electricity | Scientific American](https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/)
 
@@ -199,6 +217,8 @@ Problem:
 - "A peer-reviewed analysis published in Joule is one of the first to quantify the demand that is quickly materializing. A continuation of the current trends in AI capacity and adoption are set to lead to NVIDIA shipping 1.5 million AI server units per year by 2027. These 1.5 million servers, running at full capacity, would consume at least 85.4 terawatt-hours of electricity annually—more than what many small countries use in a year." This research was conducted by Alex de Vries, a data scientist at the central bank of the Netherlands and a Ph.D. candidate at Vrije University Amsterdam, where he studies the energy costs of emerging technologies.
 - "If you were to fully turn Google’s search engine into something like ChatGPT, and everyone used it that way—so you would have nine billion chatbot interactions instead of nine billion regular searches per day—then the energy use of Google would spike. Google would need as much power as Ireland just to run its search engine."
 - The energy consumption used by AI goes into training, deployment (inference), and cooling energy usage. Global data centers, on average, will add 50 percent to the energy cost just to keep the machines cool. There are data centers that perform even worse than that.
+
+- & Goes into my problem section. AI driven data center usage will account for a lot of energy usage, and use the data from Joule and provide an example of Google.
 
 # Article 10
 [The carbon impact of artificial intelligence | Nature Machine Intelligence](https://www.nature.com/articles/s42256-020-0219-9)
@@ -216,6 +236,8 @@ Solution:
 - This is definitely something that people are working on, be it via more efficient GPUs or by buying renewable energy credits for the carbon that was produced by neural network training. Using renewable energy grids for training neural networks is the single biggest change that can be made. It can make emissions vary by a factor of 40, between a fully renewable grid and a fully coal grid.
 - The actionable recommendations from the UMass team are similar — for example, the authors encourage researchers to prioritize computationally efficient hardware and algorithms.
 
+- & Problem section, describe what UN thinks about it and how it relates with climate change. Talk about how AI impacts climate change because of CO2, and do math to estimate energy consumption to carbon emissions and electricity costs. Talk about how AI developments are unsustainable, and provide examples of how Amazon and Microsoft's energy usage and solutions are crazy.
+
 # Article 11
 [How Big Will AI Models Get? - IEEE Transmitter](https://transmitter.ieee.org/how-big-will-ai-models-get/)
 
@@ -228,6 +250,8 @@ Intro:
 Problem:
 - Although solutions include better hardware and software developments, the trend of increasing AI model size does not appear to be ceasing.
 
+- & Exponential parameters of AI, showcasing the exponential increase of energy and computation needed to train AI. "Although solutions include better hardware and software developments, the trend of increasing AI model size does not appear to be ceasing."
+
 # Article 12
 [Parameters in notable artificial intelligence systems](https://ourworldindata.org/grapher/artificial-intelligence-parameter-count#reuse-this-work)
 
@@ -235,3 +259,5 @@ Image/graph resource for "Parameters in notable artificial intelligence systems"
 - Exponential parameters in notable AI systems
 - Number of high parameter AI models developed in the past 3 years
 - Linear correlation of model parameters with training complexity
+
+- & Use image in problem to show how many AI models have been developed recently, show the linear correlation of AI and compute, and that AI needs a ton of compute
