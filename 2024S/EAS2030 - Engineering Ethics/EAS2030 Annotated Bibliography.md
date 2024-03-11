@@ -33,6 +33,8 @@ The source comes from Neuroscience News, which is a major publisher of neuroscie
 
 “Bio-Computing: Should a Brain in a Dish Have Moral Rights?” _Earth.com_, www.earth.com/news/bio-computing-should-a-brain-in-a-dish-have-moral-rights/.
 
+
+
 # Article 4
 [Ethical challenges posed by biological neuronal networks | Blog | Think Theology](https://thinktheology.co.uk/blog/article/tthical_challenges_posed_by_biological_neuronal_networks)
 
