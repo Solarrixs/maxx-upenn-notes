@@ -46,10 +46,10 @@ What its connections with the government helps its clients bypass regulations.
 
 For example, McKinsey was able to get the FDA’s approval of Biogen’s Aduhelm drug, despite clear evidence that it wasn’t effective.
 
-# Chapter 4 ❌
+# Chapter 4 
 Given that McKinsey’s consulting with ICE presents clear violations of its Values.
 
-Thus McKinsey faces backlash and criticisms from the public for their work on ICE ❌
+Thus McKinsey faces backlash and criticisms from the public for their work on ICE 
 
 What the firm’s business practices conflict with ethical standards.
 
