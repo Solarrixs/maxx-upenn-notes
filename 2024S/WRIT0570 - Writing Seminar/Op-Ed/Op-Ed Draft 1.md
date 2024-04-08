@@ -48,7 +48,9 @@ Rhetorical Strategies: Anecdotes + stats. Emotional + rational appeal!
 
 # Rethinking Higher Education: Why Student Passion Projects Matter More Than Ever
 
-As my first year at the University of Pennsylvania comes to a close, I find myself drawn towards what Mark Twain once [said](https://marktwainstudies.com/the-apocryphal-twain-i-have-never-let-schooling-interfere-with-my-education/): "I'll never let my schooling get in the way of my education." In agreement, I have found that the traditional university curriculum - rigid, grade-focused, and lecture-based - to be ineffective for students growing up in the era of artificial intelligence.
+As my first year at the University of Pennsylvania comes to a close, I find myself drawn towards what Mark Twain once [said](https://marktwainstudies.com/the-apocryphal-twain-i-have-never-let-schooling-interfere-with-my-education/): "I'll never let my schooling get in the way of my education."
+
+In agreement, I have found that the traditional university curriculum - rigid, grade-focused, and lecture-based - to be ineffective for students like me growing up in the era of artificial intelligence. Thus, **well-resourced universities should put a greater emphasis on opportunities that allow students to pursue independent project based learning.**
 
 One reason is because traditional rigid course structures often fail to align with students' genuine interests and career aspirations, forcing them to slog through irrelevant general requirements. Countless students nationwide dread their Gen Eds, lamenting how "chemistry lectures are completely useless for learning computer science" in one example. The rigidity of this one-size-fits-all approach dampens enthusiasm for learning. And now, as we enter Into an era of easily accessible and abundant information provided by AI models that rival the knowledge of professors, textbook memorization as a method for education seems archaic.
 
@@ -74,7 +76,7 @@ Some may argue that integrating project-based learning and independent studies i
 
 Granted, some subjects, such as mathematics, naturally align with traditional learning methodologies due to the crucial need for a solid understanding of foundational principles. However, encouraging students to apply concepts within their areas of interest can significantly deepen their grasp of why these subjects are essential. This rationale strengthens the case for supplementing traditional educational approaches with project-based learning. Moreover, independent studies should not be mandatory for all students. There should be a sufficient barrier in place to ensure that only motivated learners with the necessary problem-solving abilities pursue this path.
 
-**Well-resourced universities should put a greater emphasis on opportunities that allow students to pursue independent project based learning.** Universities like [Drexel](https://drexel.edu/scdc/co-op/undergraduate) and [Northeastern](https://coe.northeastern.edu/academics-experiential-learning/co-op-experiential-learning/co-op/undergraduate-co-op/) have already recognized the value of real-world experience, offering acclaimed co-op programs that allow students to receive class credit while gaining professional exposure.
+Universities like [Drexel](https://drexel.edu/scdc/co-op/undergraduate) and [Northeastern](https://coe.northeastern.edu/academics-experiential-learning/co-op-experiential-learning/co-op/undergraduate-co-op/) have already recognized the value of real-world experience, offering acclaimed co-op programs that allow students to receive class credit while gaining professional exposure.
 
 - ex Add more evidence based stuff
 - ex Audience should be university staff
