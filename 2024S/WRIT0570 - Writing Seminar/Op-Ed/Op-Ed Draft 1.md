@@ -50,7 +50,7 @@ Rhetorical Strategies: Anecdotes + stats. Emotional + rational appeal!
 
 As my first year at the University of Pennsylvania comes to a close, I find myself drawn towards what Mark Twain once said: "I'll never let my schooling get in the way of my education."
 
-After a year of experiencing UPenn's rigid course structures and its heavy emphasis on grading, I believe fails to align with students' genuine interests and career aspirations. Many students find themselves slogging through general requirements that bear little relevance to their intended paths. This one-size-fits-all approach not only dampens enthusiasm for learning but with the rise of AI, I suspect that more students will use such technologies as a way to slog past their "Gen Eds" without regard to learning. After all, the problem is that, so much of what is broken with education is because it selects for pure prestige and the degree status over true education and learning.
+After a year of experiencing UPenn's rigid course structures, I believe fails to align with students' genuine interests and career aspirations. Many students find themselves slogging through general requirements that bear little relevance to their intended paths. This one-size-fits-all approach not only dampens enthusiasm for learning but with the rise of AI, I suspect that more students will use such technologies as a way to slog past their "Gen Eds" without regard to learning. After all, the problem is that, so much of what is broken with education is because it selects for pure prestige and the degree status over true education and learning.
 
 In the words of anthropologist Margaret Mead, "Children must be taught how to think, not what to think."
 
