@@ -48,6 +48,8 @@ Rhetorical Strategies: Anecdotes + stats. Emotional + rational appeal!
 
 # Rethinking Higher Education: Why Student Passion Projects Matter More Than Ever
 
+*Also ensure that your draft visually mimics your chosen publication venue by including: a) the masthead of your venue; b) a by-line with your name; and, to the extent that these details are included in op-eds in your venue, c) a headshot, cover photo, or other images, and/or d) a biography sentence or paragraph at the beginning or end of the piece.*
+
 As my first year at the University of Pennsylvania comes to a close, I find myself drawn towards what Mark Twain once [said](https://marktwainstudies.com/the-apocryphal-twain-i-have-never-let-schooling-interfere-with-my-education/): "I'll never let my schooling get in the way of my education."
 
 In agreement, I have found that the traditional university curriculum, rigid, grade-focused, and lecture-based, to be ineffective for students. Even among my research lab at Penn Medicine (ranked #3 medical school in the world), I have heard variations of "I don't know what I learned in undergrad, it was pretty useless" countless times. Instead, **well-resourced universities should provide greater opportunities for students to pursue independent passion projects for self-learning.**
